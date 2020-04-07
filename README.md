@@ -2,7 +2,7 @@
 
 ## Validator Directory
 
-_NOTE: Validators that have yet to put up a profile have been hidden._
+_NOTE: Validators that have yet to put up a profile have been hidden. Get the full list of validators [here](https://station.terra.money/staking)_
 
 | Moniker      |                                                                             |                                                                                                           |
 | ------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
