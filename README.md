@@ -58,7 +58,8 @@
 | WeStaking               | [Profile](./validators/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) | [Station Page](https://station.terra.money/validator/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) |
 
 ## Terraform Labs Validators (Do Not Delegate)
-
+| Moniker | | |
+| -- | - | - |
 | gazua | [Profile](./validators/terravaloper1rf9xakxf97a49qa5svsf7yypjswzkutqfhnpn5) | [Station Page](https://station.terra.money/validator/terravaloper1rf9xakxf97a49qa5svsf7yypjswzkutqfhnpn5) |
 | Ghost | [Profile](./validators/terravaloper1rgu3qmm6rllfxlrfk94pgxa0jm37902dynqehm) | [Station Page](https://station.terra.money/validator/terravaloper1rgu3qmm6rllfxlrfk94pgxa0jm37902dynqehm) |
 | Goliath | [Profile](./validators/terravaloper163phlen6dn7sp9khhjar2gqqx6kga0ly8d7h9g) | [Station Page](https://station.terra.money/validator/terravaloper163phlen6dn7sp9khhjar2gqqx6kga0ly8d7h9g) |
