@@ -1,8 +1,6 @@
 ---
 Moniker: everstakeone
 Validator: terravaloper13g7z3qq6f00qww3u4mpcs3xw5jhqwraswraapc
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # everstakeone

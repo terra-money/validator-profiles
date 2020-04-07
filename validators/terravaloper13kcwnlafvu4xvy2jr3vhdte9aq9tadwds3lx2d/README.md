@@ -1,8 +1,6 @@
 ---
 Moniker: Castlenode
 Validator: terravaloper13kcwnlafvu4xvy2jr3vhdte9aq9tadwds3lx2d
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # Castlenode

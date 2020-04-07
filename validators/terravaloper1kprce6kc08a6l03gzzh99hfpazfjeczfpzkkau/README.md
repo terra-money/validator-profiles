@@ -1,8 +1,6 @@
 ---
 Moniker: Certus One
 Validator: terravaloper1kprce6kc08a6l03gzzh99hfpazfjeczfpzkkau
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # Certus One

@@ -1,8 +1,6 @@
 ---
 Moniker: RockX
 Validator: terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # RockX

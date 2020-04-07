@@ -1,8 +1,6 @@
 ---
 Moniker: FRESHLUNA
 Validator: terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # FRESHLUNA
@@ -12,3 +10,4 @@ FreshLuna runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with g
 ### Website
 
 https://freshluna.com
+

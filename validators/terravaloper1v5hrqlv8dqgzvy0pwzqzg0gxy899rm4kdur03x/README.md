@@ -1,8 +1,6 @@
 ---
 Moniker: DokiaCapital
 Validator: terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # DokiaCapital

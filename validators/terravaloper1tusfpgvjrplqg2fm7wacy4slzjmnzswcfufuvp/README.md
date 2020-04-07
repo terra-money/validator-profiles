@@ -1,8 +1,6 @@
 ---
 Moniker: ATEAM
 Validator: terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # ATEAM

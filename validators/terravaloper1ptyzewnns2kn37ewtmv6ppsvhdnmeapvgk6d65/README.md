@@ -1,8 +1,6 @@
 ---
 Moniker: WeStaking
 Validator: terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # WeStaking

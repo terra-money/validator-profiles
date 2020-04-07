@@ -1,8 +1,6 @@
 ---
 Moniker: Synergy Nodes - Glory
 Validator: terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # Synergy Nodes - Glory

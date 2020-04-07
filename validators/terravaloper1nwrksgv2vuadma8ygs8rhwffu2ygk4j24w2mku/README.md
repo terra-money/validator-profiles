@@ -1,8 +1,6 @@
 ---
 Moniker: POS Bakerz
 Validator: terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # POS Bakerz

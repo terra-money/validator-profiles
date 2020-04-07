@@ -1,8 +1,6 @@
 ---
 Moniker: Terraforming
 Validator: terravaloper1hg70rkal5d86fl57k0gc7de0rrk4klgs59r7jc
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # Terraforming

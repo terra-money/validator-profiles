@@ -1,8 +1,6 @@
 ---
 Moniker: 🌐 KysenPool.io
 Validator: terravaloper1vqnhgc6d0jyggtytzqrnsc40r4zez6tx99382w
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # 🌐 KysenPool.io

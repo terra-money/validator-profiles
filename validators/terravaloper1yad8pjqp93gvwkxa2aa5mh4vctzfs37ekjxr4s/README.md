@@ -1,8 +1,6 @@
 ---
 Moniker: healings
 Validator: terravaloper1yad8pjqp93gvwkxa2aa5mh4vctzfs37ekjxr4s
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # healings

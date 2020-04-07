@@ -1,8 +1,6 @@
 ---
 Moniker: BTC.Secure
 Validator: terravaloper1ya23p5cxtxwcfdrq4dmd2h0p5nc0vcl96yhjra
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # BTC.Secure

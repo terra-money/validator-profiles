@@ -1,8 +1,6 @@
 ---
 Moniker: kytzu
 Validator: terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # kytzu

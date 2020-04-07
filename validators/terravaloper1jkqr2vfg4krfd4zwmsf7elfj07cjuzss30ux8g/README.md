@@ -1,8 +1,6 @@
 ---
 Moniker: Forbole
 Validator: terravaloper1jkqr2vfg4krfd4zwmsf7elfj07cjuzss30ux8g
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # Forbole

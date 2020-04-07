@@ -1,8 +1,6 @@
 ---
 Moniker: StakeWith.Us
 Validator: terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # StakeWith.Us

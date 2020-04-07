@@ -1,8 +1,6 @@
 ---
 Moniker: DELIGHT
 Validator: terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # DELIGHT

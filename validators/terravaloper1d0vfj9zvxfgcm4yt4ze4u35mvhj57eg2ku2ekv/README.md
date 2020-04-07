@@ -1,8 +1,6 @@
 ---
 Moniker: Easy 2 Stake
 Validator: terravaloper1d0vfj9zvxfgcm4yt4ze4u35mvhj57eg2ku2ekv
-Email: none@example.com
-Telegram: @nobody
 ---
 
 # Easy 2 Stake
