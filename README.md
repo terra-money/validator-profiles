@@ -4,9 +4,10 @@
 
 _NOTE: Validators that have yet to put up a profile have been hidden. Get the full list of validators [here](https://station.terra.money/staking)_
 
-| Moniker      |                                                                             |                                                                                                           |
-| ------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| DokiaCapital | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
+| Moniker          |                                                                             |                                                                                                           |
+| ---------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| DokiaCapital     | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
+| Figment Networks | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
 
 ## Terraform Labs Validators (Do Not Delegate)
 
@@ -53,4 +54,4 @@ git push origin Wraith-profile
 
 7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes.
 
-8. We will review your PR as soon as possible. If there is no problem with your PR, we will merge it into our master branch, which will update your Validator Profile. If it is your first time creating a profile, we will add your entry to the  [Validator Directory](#validator-directory).
+8. We will review your PR as soon as possible. If there is no problem with your PR, we will merge it into our master branch, which will update your Validator Profile. If it is your first time creating a profile, we will add your entry to the [Validator Directory](#validator-directory).
