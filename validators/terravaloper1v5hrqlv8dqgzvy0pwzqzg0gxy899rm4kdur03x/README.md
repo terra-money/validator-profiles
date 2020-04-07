@@ -6,8 +6,9 @@ Telegram: @awrelll
 ---
 
 
-# <DokiaCapital>
-
+# 
+![Dokia Capital](https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/moniker/cosmoshub/cosmosvaloper14lultfckehtszvzw4ehu0apvsr77afvyju5zzy.png)
+  
 Downtime is not an option for Dokia Capital. We operate an enterprise-grade infrastructure that is robust and secure.
 
 
