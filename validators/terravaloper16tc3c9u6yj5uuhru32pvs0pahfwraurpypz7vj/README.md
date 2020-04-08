@@ -2,7 +2,7 @@
 Moniker: block42
 Validator: terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj
 Email: office@block42.tech
-Telegram: https://t.me/block42_terra
+Telegram: @block42_terra
 ---
 
 # block42
