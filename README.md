@@ -9,6 +9,11 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | DokiaCapital     | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
 | Figment Networks | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
 | Umbrella         | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
+| kytzu            | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
+| 01node.com       | [Profile](./validators/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) | [Station Page](https://station.terra.money/validator/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) |
+| block42          | [Profile](./validators/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) | [Station Page](https://station.terra.money/validator/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) |
+| StakeWith.Us     | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
+| DELIGHT          | [Profile](./validators/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) | [Station Page](https://station.terra.money/validator/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) |
 
 ## Terraform Labs Validators (Do Not Delegate)
 
