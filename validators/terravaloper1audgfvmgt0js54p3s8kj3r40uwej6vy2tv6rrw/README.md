@@ -6,7 +6,7 @@ Telegram: https://t.me/freshluna
 ---
 
 # FRESHLUNA
-![Stake The Future](https://github.com/trustwallet/assets/blob/master/blockchains/terra/validators/assets/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw/logo.png?raw=true)
+<p align="center">![Stake The Future](https://i.imgur.com/m8UkMzA.png)</p>
 
 FreshLuna runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, YubiHSM2 hardware protected keys, with 24/7 monitoring, alerting, and analytics.
 
@@ -46,4 +46,3 @@ You can reach us via telegram at https://t.me/freshluna, email via https://fresh
 ### Website
 
 https://freshluna.com
-
