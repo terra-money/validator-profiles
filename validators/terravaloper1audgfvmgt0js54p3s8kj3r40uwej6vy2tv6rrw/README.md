@@ -6,7 +6,7 @@ Telegram: https://t.me/freshluna
 ---
 
 # FRESHLUNA
-<div style="text-align:center"><img src="https://i.imgur.com/m8UkMzA.png" /></div>
+<p align="center"><img src="https://i.imgur.com/m8UkMzA.png" /></p>
 
 FreshLuna runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, YubiHSM2 hardware protected keys, with 24/7 monitoring, alerting, and analytics.
 
