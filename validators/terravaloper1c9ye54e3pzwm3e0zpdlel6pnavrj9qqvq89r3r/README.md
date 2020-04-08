@@ -41,5 +41,4 @@ ii) We build, maintain and open-sourced our Terra Oracle Voter for everyone to u
 
 ### Website
 
-Visit us at https://stakewith.us
-Stake with us at https://atlas.stakewith.us.
+Visit us at https://stakewith.us, & Stake with us at https://atlas.stakewith.us.
