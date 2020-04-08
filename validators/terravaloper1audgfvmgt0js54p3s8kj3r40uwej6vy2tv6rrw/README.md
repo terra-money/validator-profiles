@@ -1,7 +1,7 @@
 ---
-Moniker: <FRESHLUNA>
-Validator: <terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw>
-Email: <https://freshluna.com>
+Moniker: FRESHLUNA
+Validator: terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw
+Email: https://freshluna.com
 Telegram: https://t.me/freshluna
 ---
 
