@@ -6,7 +6,8 @@ Telegram: @StakeWithUs
 Twitter: https://twitter.com/stakewithus
 ---
 
-# StakeWith.Us
+#
+![StakeWithUs](https://lh3.googleusercontent.com/w2FyuCOfIIh3G0Pf0U2ncS4YIpgihMRatrHB8B8qS3DV4ZXwy3IxmxlrswtLFY5VRK8q9apI6uFazAJ-_mjqO1Asj3rOWKEK67ZmaR8BkMAMxhaZA0R42MJUC0Pt=w1392)
 
 StakeWith.Us is a secure infrastructure provider for high quality Proof-of-Stake networks. We are backed by SGInnovate, Singapore government's Deep Tech Fund and LuneX Ventures, blockchain arm of Golden Gate Ventures.
 
