@@ -4,6 +4,7 @@ Validator: terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja
 ---
 
 # RockX
+![RockX](https://static.rockx.com/img/rockx_new_logo.png)
 
 RockX aims at providing professional POS digital assets services for institutional investors and token holders
 With years of experience researching and working on various leading blockchain projects and protocols, we excel in providing reliable technical expertise and secure technological infrastructure to curate and support the most innovative blockchains in the industry.
