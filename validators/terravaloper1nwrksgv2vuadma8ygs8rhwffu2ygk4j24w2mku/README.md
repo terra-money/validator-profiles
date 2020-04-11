@@ -7,7 +7,7 @@ Telegram: @posbakerz
 
 # POS Bakerz
 
-![POS-Bakerz](https://www.dropbox.com/s/lmjfwyjo14bqt87/Logo%20POS%20Bakerz.png?dl=1)
+![POS-Bakerz](https://miro.medium.com/max/1400/0*ZTHsJi9iHVraB4fw.png)
 
 POS Bakerz is an infrastructure operator for Proof-of-stake (PoS) public blockchain, offering public delegation and staking-as-a-service.
 
