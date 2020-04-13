@@ -19,6 +19,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | StakeWith.Us     | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
 | syncnode         | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
 | Umbrella         | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
+| Beatrice         | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
 
 ## Terraform Labs Validators (Do Not Delegate)
 
