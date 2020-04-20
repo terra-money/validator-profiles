@@ -15,7 +15,7 @@ We are a Swiss-based startup active in the Proof-of-Stake ecosystem on networks 
 
 | Name         | Role 
 | ------------ | --------------- |
-| Brian	Crain  | CEO             |
+| Brian Crain  | CEO             |
 | Meher Roy    | CTO             |
 
 Learn more about us on our website: https://chorus.one
