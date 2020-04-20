@@ -1,46 +1,45 @@
 ---
-Moniker: Chorus One
-Validator: terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37
-Email: <hello@chorus.one>
-Telegram: @rflxvty
+Moniker: <moniker>
+Validator: <validator-address>
+Email: <your-email>
+Telegram: @your_telegram_handle
 ---
 
-# Chorus One
+NOTE: This is just an example of what your profile page can look like!
 
-Chorus One is operating staking services and infrastructure to help you to securely increase your crypto holdings.
+# <moniker>
+
+A brief description about your validator (philosophy, structure, goals, etc...)
 
 ## Team
 
-We are a Swiss-based startup active in the Proof-of-Stake ecosystem on networks such as Cosmos, Solana, Celo, and more. 
+Our team is small but posesses deep experience and breadth of knowledge about Terran security.
 
-| Name         | Role 
-| ------------ | --------------- |
-| Brian Crain  | CEO             |
-| Meher Roy    | CTO             |
-
-Learn more about us on our website: https://chorus.one
+| Name            | Role    | Description                  |
+| --------------- | ------- | ---------------------------- |
+| Jim Raynor      | Founder | Former Terran turned Rebel   |
+| Joseph Reynolds | CTO     | Member of Moebius Foundation |
 
 ## Our Architecture
 
-Highly available, geographically distributed mix of bare metal setups in data centers (with HSMs) and multi-provider supporting cloud infrastructure. 
-
-Full description of our infrastructure: <https://gdoc.pub/doc/e/2PACX-1vQXb1kd0zqYT8K4B4XYb-lrlfRIuPDXsgiTjj94gDOjw3ezEUAtjvxR8yfbKJypmioKeGRrhkLCtZog>
+Our validator uses Yubico's HSM for signing and
 
 ## Ecosystem Contributions
 
-We participate actively in the Terra community and governance. Other contributions include Ledger transaction support for Terra on Anthem and content on the Terra ecosystem:
+We are active members of the Terra community and work on ecosystem tools.
 
-Anthem: https://anthem.chorus.one
-Our Terra blog: https://blog.chorus.one/tag/terra/
-Our monthly newsletter: https://chorusone.substack.com
+- Oracle validator software
+- 0% Commission
+- Moderator status on Terra discord
 
 ## Contact Us
 
-Have questions? You can reach us via:
+Have questions? You can reach us:
 
-Email: <hello@chorus.one>
-Telegram: <https://t.me/ChorusOne>
+- Email: ...
+- Telegram: ...
+- Phone: ...
 
 ### Website
 
-https://chorus.one
+{validator.description.website}
