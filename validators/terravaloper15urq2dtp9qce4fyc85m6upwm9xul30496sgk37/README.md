@@ -1,45 +1,46 @@
 ---
-Moniker: <moniker>
-Validator: <validator-address>
-Email: <your-email>
-Telegram: @your_telegram_handle
+Moniker: Chorus One
+Validator: terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37
+Email: <hello@chorus.one>
+Telegram: @rflxvty
 ---
 
-NOTE: This is just an example of what your profile page can look like!
+# Chorus One
 
-# <moniker>
-
-A brief description about your validator (philosophy, structure, goals, etc...)
+Chorus One is operating staking services and infrastructure to help you to securely increase your crypto holdings.
 
 ## Team
 
-Our team is small but posesses deep experience and breadth of knowledge about Terran security.
+We are a Swiss-based startup active in the Proof-of-Stake ecosystem on networks such as Cosmos, Solana, Celo, and more. 
 
-| Name            | Role    | Description                  |
-| --------------- | ------- | ---------------------------- |
-| Jim Raynor      | Founder | Former Terran turned Rebel   |
-| Joseph Reynolds | CTO     | Member of Moebius Foundation |
+| Name         | Role 
+| ------------ | --------------- |
+| Brian Crain  | CEO             |
+| Meher Roy    | CTO             |
+
+Learn more about us on our website: https://chorus.one
 
 ## Our Architecture
 
-Our validator uses Yubico's HSM for signing and
+Highly available, geographically distributed mix of bare metal setups in data centers (with HSMs) and multi-provider supporting cloud infrastructure. 
+
+Full description of our infrastructure: <https://gdoc.pub/doc/e/2PACX-1vQXb1kd0zqYT8K4B4XYb-lrlfRIuPDXsgiTjj94gDOjw3ezEUAtjvxR8yfbKJypmioKeGRrhkLCtZog>
 
 ## Ecosystem Contributions
 
-We are active members of the Terra community and work on ecosystem tools.
+We participate actively in the Terra community and governance. Other contributions include Ledger transaction support for Terra on Anthem and content on the Terra ecosystem:
 
-- Oracle validator software
-- 0% Commission
-- Moderator status on Terra discord
+Anthem: https://anthem.chorus.one
+Our Terra blog: https://blog.chorus.one/tag/terra/
+Our monthly newsletter: https://chorusone.substack.com
 
 ## Contact Us
 
-Have questions? You can reach us:
+Have questions? You can reach us via:
 
-- Email: ...
-- Telegram: ...
-- Phone: ...
+Email: <hello@chorus.one>
+Telegram: <https://t.me/ChorusOne>
 
 ### Website
 
-{validator.description.website}
+https://chorus.one
