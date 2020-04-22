@@ -8,7 +8,9 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | ---------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | 01node.com       | [Profile](./validators/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) | [Station Page](https://station.terra.money/validator/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) |
 | ATEAM            | [Profile](./validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) | [Station Page](https://station.terra.money/validator/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) |
+| beatrice         | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
 | block42          | [Profile](./validators/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) | [Station Page](https://station.terra.money/validator/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) |
+| Chorus One       | [Profile](./validators/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) | [Station Page](https://station.terra.money/validator/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) |
 | DELIGHT          | [Profile](./validators/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) | [Station Page](https://station.terra.money/validator/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) |
 | DokiaCapital     | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
 | Figment Networks | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
@@ -19,7 +21,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | StakeWith.Us     | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
 | syncnode         | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
 | Umbrella         | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
-| Beatrice         | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
+
 
 ## Terraform Labs Validators (Do Not Delegate)
 
