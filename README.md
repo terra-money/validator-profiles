@@ -4,24 +4,25 @@
 
 _NOTE: Validators that have yet to put up a profile have been hidden. Get the full list of validators [here](https://station.terra.money/staking)_
 
-| Moniker          |                                                                             |                                                                                                           |
-| ---------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 01node.com       | [Profile](./validators/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) | [Station Page](https://station.terra.money/validator/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) |
-| ATEAM            | [Profile](./validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) | [Station Page](https://station.terra.money/validator/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) |
-| beatrice         | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
-| block42          | [Profile](./validators/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) | [Station Page](https://station.terra.money/validator/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) |
-| Chorus One       | [Profile](./validators/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) | [Station Page](https://station.terra.money/validator/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) |
-| DELIGHT          | [Profile](./validators/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) | [Station Page](https://station.terra.money/validator/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) |
-| DokiaCapital     | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
-| Figment Networks | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
-| FRESHLUNA        | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
-| kytzu            | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
-| RockX            | [Profile](./validators/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) | [Station Page](https://station.terra.money/validator/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) |
-| Staker Space     | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
-| StakeWith.Us     | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
-| syncnode         | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
-| Umbrella         | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
-
+| Moniker            |                                                                             |                                                                                                           |
+| ------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 01node.com         | [Profile](./validators/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) | [Station Page](https://station.terra.money/validator/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) |
+| ATEAM              | [Profile](./validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) | [Station Page](https://station.terra.money/validator/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) |
+| beatrice           | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
+| block42            | [Profile](./validators/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) | [Station Page](https://station.terra.money/validator/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) |
+| Chorus One         | [Profile](./validators/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) | [Station Page](https://station.terra.money/validator/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) |
+| consensus-networks | [Profile](./validators/terravaloper1hz754zdldnrrhp3qpfan3l2dxkcv5cgkuzqq9v) | [Station Page](https://station.terra.money/validator/terravaloper1hz754zdldnrrhp3qpfan3l2dxkcv5cgkuzqq9v) |
+| DELIGHT            | [Profile](./validators/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) | [Station Page](https://station.terra.money/validator/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) |
+| DokiaCapital       | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
+| Figment Networks   | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
+| FRESHLUNA          | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
+| kytzu              | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
+| POS Bakerz         | [Profile](./validators/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) | [Station Page](https://station.terra.money/validator/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) |
+| RockX              | [Profile](./validators/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) | [Station Page](https://station.terra.money/validator/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) |
+| Staker Space       | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
+| StakeWith.Us       | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
+| syncnode           | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
+| Umbrella           | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
 
 ## Terraform Labs Validators (Do Not Delegate)
 
@@ -35,7 +36,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 
 ## What is a Validator Profile?
 
-As a validator, it's not enough to maintain rock-solid, reliable infrastructure -- you also need to market yourself effectively and court delegations from prospecting delegators. Validator Profiles, hosted here on this Github repository give you a platform to give potential delegators and clients a brief introduction on your team, philsophy, architecture and infrastructure, and present your ecosystem contributions. If you need vouching from us, we'll apply a badge for any claims that we can validate.
+As a validator, it's not enough to maintain rock-solid, reliable infrastructure -- you also need to market yourself effectively and court delegations from prospecting delegators. Validator Profiles, hosted here on this Github repository give you a platform to give potential delegators and clients a brief introduction on your team, philosophy, architecture and infrastructure, and present your ecosystem contributions. If you need vouching from us, we'll apply a badge for any claims that we can validate.
 
 ## How to change your Validator Profile
 
