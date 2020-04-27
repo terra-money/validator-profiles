@@ -22,7 +22,7 @@ The Staked team has a long and successful track record of starting, building and
 | --------- | -------------- |
 | Tim Ogilvie    | CEO     |
 | Seth Riney   | CTO     |
-| Jonathan Marcus   | COO     |
+| Jonathan Marcus   | CPO     |
 
 ## Our Architecture
 
