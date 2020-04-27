@@ -45,7 +45,7 @@ Learn more about our technology infrastructure [here](https://staked.us/technolo
 
 ## Ecosystem Contributions
 
-We are active members of the Terra community and have been supporting the chain since launch. We have never been slashed and on charge a 10% commission on rewards.
+We are active members of the Terra community and have been supporting the chain since launch. We have never been slashed and only charge a 10% commission on rewards.
 
 Read more about our involvement at [our blog](https://blog.staked.us/blog).
 
