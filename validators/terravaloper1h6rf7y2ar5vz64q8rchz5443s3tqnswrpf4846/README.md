@@ -36,7 +36,7 @@ You are in complete control of your private keys and funds throughout the stakin
 Delegate to our public validator or let us operate a separate white-labeled validator on your behalf.
 
 **Broad Asset Coverage**
-Live on 20 PoS mainnets including Centrifuge (at launch!), Tezos, Cosmos, Decred, Terra and Livepeer. Operating on 15+ testnets launching in 2020 including Centrifuge, Polkadot, Cardano, Keep, NuCypher and Oasis.
+Live on 20 PoS mainnets including Tezos, Cosmos, Decred, Terra and Livepeer. Operating on 15+ testnets launching in 2020 including Polkadot, Cardano, Keep, NuCypher, Oasis and Centrifuge.
 
 **Block-Level Reporting**
 Designed for funds admins and accountants, the reporting includes all staking and delegation transactions on a calendar basis.
@@ -45,7 +45,7 @@ Learn more about our technology infrastructure [here](https://staked.us/technolo
 
 ## Ecosystem Contributions
 
-We are active members of the Terra community and have been supporting the chain since launch. We have never been slashed and only charge a 10% commission on rewards.
+We are active members of the Terra community and have been supporting the chain since launch. Staked also operates an Oracle for Terra and actively participates Terra governance discussions. We have never been slashed and only charge a 10% commission on rewards.
 
 Read more about our involvement at [our blog](https://blog.staked.us/blog).
 
