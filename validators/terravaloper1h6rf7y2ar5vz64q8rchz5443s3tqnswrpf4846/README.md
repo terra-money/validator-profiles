@@ -8,7 +8,9 @@ Twitter: https://twitter.com/staked_us
 
 # Staked
 
-<img width="608" alt="Staked Logo" src="https://user-images.githubusercontent.com/3753783/80396377-8a8f6200-8882-11ea-9859-8518f5cfdc7d.png">
+<p align="center">
+     <img width="608" alt="Staked Logo" src="https://user-images.githubusercontent.com/3753783/80396377-8a8f6200-8882-11ea-9859-8518f5cfdc7d.png">
+</p>
 
 Staked operates highly reliable and secure staking infrastructure for 20+ PoS protocols on behalf of the leading crypto asset investors in the industry.
 
