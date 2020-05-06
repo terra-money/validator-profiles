@@ -8,8 +8,10 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | ------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | 01node.com         | [Profile](./validators/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) | [Station Page](https://station.terra.money/validator/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) |
 | ATEAM              | [Profile](./validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) | [Station Page](https://station.terra.money/validator/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) |
+| B-Harvest          | [Profile](./validators/terravaloper15zcjduavxc5mkp8qcqs9eyhwlqwdlrzy6jln3m) | [Station Page](https://station.terra.money/validator/terravaloper15zcjduavxc5mkp8qcqs9eyhwlqwdlrzy6jln3m) |
 | beatrice           | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
 | block42            | [Profile](./validators/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) | [Station Page](https://station.terra.money/validator/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) |
+| ChainLayer         | [Profile](./validators/terravaloper1kgddca7qj96z0qcxr2c45z73cfl0c75paknc5e) | [Station Page](https://station.terra.money/validator/terravaloper1kgddca7qj96z0qcxr2c45z73cfl0c75paknc5e) |
 | Chorus One         | [Profile](./validators/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) | [Station Page](https://station.terra.money/validator/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) |
 | consensus-networks | [Profile](./validators/terravaloper1hz754zdldnrrhp3qpfan3l2dxkcv5cgkuzqq9v) | [Station Page](https://station.terra.money/validator/terravaloper1hz754zdldnrrhp3qpfan3l2dxkcv5cgkuzqq9v) |
 | DELIGHT            | [Profile](./validators/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) | [Station Page](https://station.terra.money/validator/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) |
@@ -19,6 +21,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | kytzu              | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
 | POS Bakerz         | [Profile](./validators/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) | [Station Page](https://station.terra.money/validator/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) |
 | RockX              | [Profile](./validators/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) | [Station Page](https://station.terra.money/validator/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) |
+| Staked             | [Profile](./validators/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) | [Station Page](https://station.terra.money/validator/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) |
 | Staker Space       | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
 | StakeWith.Us       | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
 | syncnode           | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
