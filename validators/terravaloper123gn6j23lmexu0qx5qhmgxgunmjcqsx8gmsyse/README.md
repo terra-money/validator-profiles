@@ -11,7 +11,7 @@ Website: https://staking.fund
 <img src="https://github.com/winslyn/validator-profiles/blob/master/validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse/logo.png" width="350px"></img>  
 
 
-Staking Fund has been participating in the validating role since early 2018 and is a proud genesis validator for Terra mainnet. We are based on Seoul and activly participate in number of novel Proof of Stake networks.
+Staking Fund has been participating in the validating role since early 2018 and is a proud genesis validator for Terra mainnet. We are based on Seoul and actively participate in number of novel Proof of Stake networks.
 
 Terra: [1st Place](https://github.com/forbole/terra-launch/blob/master/GENESIS.md#validator-drill) on Validator Drill<br/>
 Oasis: [1st Place](https://medium.com/oasis-protocol-project/questnet-weekly-update-bde6783004d8) on The QuestNet<br/>
