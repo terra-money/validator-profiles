@@ -9,7 +9,7 @@ Twitter: @NEOPLY_KR
 ![NEOPLY](./logo.png)
 
 NEOPLY is an investment organization for accelerating startup growth, specializing in blockchain and cryptocurrency investments.
-And we’re a leading global PoS blockchains provider. We offer many validator nodes on variety pos blockchain.
+And we’re a leading global PoS blockchains provider. We offer many validator nodes on variety PoS blockchains.
 
 ## Team
 
