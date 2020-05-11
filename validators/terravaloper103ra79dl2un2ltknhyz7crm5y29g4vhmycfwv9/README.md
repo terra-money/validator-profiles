@@ -8,8 +8,8 @@ Twitter: @NEOPLY_KR
 ## NEOPLY
 ![NEOPLY](./logo.png)
 
-NEOPLY is a startup incubator, specializing in blockchain and cryptocurrency investments.
-And we’re operating a leading global PoS blockchains. (EOS, WAX, Klaytn, Tron, IOST, ... etc)
+NEOPLY is an investment organization for accelerating startup growth, specializing in blockchain and cryptocurrency investments.
+And we’re a leading global PoS blockchains provider. We offer many validator nodes on variety pos blockchain.
 
 ## Team
 
