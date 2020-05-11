@@ -1,9 +1,8 @@
-
 ---
-Moniker: Staking Fund \
-Validator: terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse \
-Email: go@staking.fund \
-Twitter: https://twitter.com/stakingfund \
+Moniker: Staking Fund
+Validator: terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse
+Email: go@staking.fund
+Twitter: @stakingfund
 Website: https://staking.fund
 ---
 
@@ -12,8 +11,6 @@ Website: https://staking.fund
 
 <img src="https://github.com/winslyn/validator-profiles/blob/master/validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse/logo.png" width="350px"></img>  
 
-<br>
-<br>
 
 Staking Fund has been participating in the validating role since early 2018 and is a proud genesis validator for Terra mainnet. We are based on Seoul and activly participate in number of novel Proof of Stake networks.
 
