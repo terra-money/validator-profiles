@@ -14,6 +14,11 @@ Bit Cat's core team comes from domestic first-line Internet and blockchain compa
 
 We have used multiple cloud hosting providers around the world, and their hosting locations are distributed in 10+ locations. This variety of choices ensures that our node services can run safely and steadily.
 
+
+## Ecosystem Contributions
+
+- 8% Commission
+
 ### Website
 
 Visit us at https://www.bitcat365.com
