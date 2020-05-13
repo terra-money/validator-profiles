@@ -1,6 +1,9 @@
 ---
 Moniker: AUDIT.one
 Validator: terravaloper1n7pkcal0jkp0ac9r338qp9cm5x6cakfnremtnt
+Email: hello@audit.one
+Telegram: @auditone
+Twitter: @auditone_
 ---
 
 # AUDIT.one
@@ -22,7 +25,7 @@ We have a highly redundant setup with self-hosted data centers across multiple g
 We have a deep understanding of the importance of having a fault-tolerant and attack resistant setup and use tap into Public clouds to fend off DDoS attacks and have real-time alerting and monitoring solutions that keep us ahead in the game.
 
 
-![validator-arch](./architecture.png){width="1467px"}
+![validator-arch](./architecture.png)
 
 We are proud supporters of the DPoS ecosystem and we run Validators for the following networks:
 
