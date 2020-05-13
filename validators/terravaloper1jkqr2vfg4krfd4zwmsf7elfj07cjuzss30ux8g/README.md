@@ -17,16 +17,16 @@ Forbole is a Genesis Validator on Terra. We are a named winner in Game of Stakes
 
 We operate in 3 different time zones across the globe with multiple skillsets in network security, user experience, software engineering &  community building.
 
-| Name                | Role                           |
-| ------------------- | ------------------------------ |
-| Kwun Yeung          | Cofounder & Conductor          |
-| Terence Lam         | Cofounder & Evangelist         |
-| Riccardo Montagnin  | Software Engineer              |
-| Leonardo Bragagnolo | Software Engineer              |
-| Shilin Zheng        | Research & Community Developer |
-| Laura Nori          | Communication Designer         |
-| Rooty Chan          | UX Designer                    |
-| Monika Pusz         | Fullstack Developer            |
+| Name                                                | Role                           |
+| --------------------------------------------------- | ------------------------------ |
+| [Kwun Yeung](https://github.com/kwunyeung)          | Cofounder & Conductor          |
+| [Terence Lam](https://twitter.com/terencesflam)     | Cofounder & Evangelist         |
+| [Riccardo Montagnin](https://github.com/RiccardoM)  | Software Engineer              |
+| [Leonardo Bragagnolo](https://github.com/bragaz)    | Software Engineer              |
+| [Shilin Zheng](https://twitter.com/Zheng_Shilin)    | Research & Community Developer |
+| [Laura Nori](https://twitter.com/norilaura96)       | Communication Designer         |
+| [Rooty Chan](https://twitter.com/rootychan)         | UX Designer                    |
+| [Monika Pusz](https://github.com/monikacat)         | Fullstack Developer            |
 
 ## Our Architecture
 
