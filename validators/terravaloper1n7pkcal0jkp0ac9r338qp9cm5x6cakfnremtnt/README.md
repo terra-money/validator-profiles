@@ -37,5 +37,8 @@ We are proud supporters of the DPoS ecosystem and we run Validators for the foll
 
 ## Contact us
 
-You can reach out to us on hello@audit.one.
-Website: https://audit.one/
+You can reach out to us on
+
+- Email: hello@audit.one.
+- Telegram: @auditone
+- Website: https://audit.one/
