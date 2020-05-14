@@ -33,6 +33,7 @@ Validators have stable uptime of 99.99%+.
 Have questions? You can reach us via:
 
 Email: <team@btcsecure.io>
+
 Telegram: <https://t.me/BTCSecureTeam>
 
 ### Website
