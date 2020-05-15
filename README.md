@@ -10,7 +10,9 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | ATEAM              | [Profile](./validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) | [Station Page](https://station.terra.money/validator/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) |
 | B-Harvest          | [Profile](./validators/terravaloper15zcjduavxc5mkp8qcqs9eyhwlqwdlrzy6jln3m) | [Station Page](https://station.terra.money/validator/terravaloper15zcjduavxc5mkp8qcqs9eyhwlqwdlrzy6jln3m) |
 | beatrice           | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
+| Big Cat            | [Profile](./validators/terravaloper1k4ef8m95t7eq522evmmuzvfkpla04pezmu4j7k) | [Station Page](https://station.terra.money/validator/terravaloper1k4ef8m95t7eq522evmmuzvfkpla04pezmu4j7k) |
 | block42            | [Profile](./validators/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) | [Station Page](https://station.terra.money/validator/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) |
+| Castlenode         | [Profile](./validators/terravaloper13kcwnlafvu4xvy2jr3vhdte9aq9tadwds3lx2d) | [Station Page](https://station.terra.money/validator/terravaloper13kcwnlafvu4xvy2jr3vhdte9aq9tadwds3lx2d) |
 | ChainLayer         | [Profile](./validators/terravaloper1kgddca7qj96z0qcxr2c45z73cfl0c75paknc5e) | [Station Page](https://station.terra.money/validator/terravaloper1kgddca7qj96z0qcxr2c45z73cfl0c75paknc5e) |
 | Chorus One         | [Profile](./validators/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) | [Station Page](https://station.terra.money/validator/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) |
 | consensus-networks | [Profile](./validators/terravaloper1hz754zdldnrrhp3qpfan3l2dxkcv5cgkuzqq9v) | [Station Page](https://station.terra.money/validator/terravaloper1hz754zdldnrrhp3qpfan3l2dxkcv5cgkuzqq9v) |
@@ -24,6 +26,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Staked             | [Profile](./validators/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) | [Station Page](https://station.terra.money/validator/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) |
 | Staker Space       | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
 | StakeWith.Us       | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
+| Staking Fund       | [Profile](./validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse) | [Station Page](https://station.terra.money/validator/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse)  |
 | syncnode           | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
 | Umbrella           | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
 
