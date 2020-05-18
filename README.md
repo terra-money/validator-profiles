@@ -12,6 +12,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | beatrice           | [Profile](./validators/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) | [Station Page](https://station.terra.money/validator/terravaloper1vse7mfah2hmfaruum40hwnskkca3ygmmff86xr) |
 | Big Cat            | [Profile](./validators/terravaloper1k4ef8m95t7eq522evmmuzvfkpla04pezmu4j7k) | [Station Page](https://station.terra.money/validator/terravaloper1k4ef8m95t7eq522evmmuzvfkpla04pezmu4j7k) |
 | block42            | [Profile](./validators/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) | [Station Page](https://station.terra.money/validator/terravaloper16tc3c9u6yj5uuhru32pvs0pahfwraurpypz7vj) |
+| BTC.Secure         | [Profile](./validators/terravaloper1ya23p5cxtxwcfdrq4dmd2h0p5nc0vcl96yhjra) | [Station Page](https://station.terra.money/validator/terravaloper1ya23p5cxtxwcfdrq4dmd2h0p5nc0vcl96yhjra) |
 | Castlenode         | [Profile](./validators/terravaloper13kcwnlafvu4xvy2jr3vhdte9aq9tadwds3lx2d) | [Station Page](https://station.terra.money/validator/terravaloper13kcwnlafvu4xvy2jr3vhdte9aq9tadwds3lx2d) |
 | ChainLayer         | [Profile](./validators/terravaloper1kgddca7qj96z0qcxr2c45z73cfl0c75paknc5e) | [Station Page](https://station.terra.money/validator/terravaloper1kgddca7qj96z0qcxr2c45z73cfl0c75paknc5e) |
 | Chorus One         | [Profile](./validators/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) | [Station Page](https://station.terra.money/validator/terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37) |
@@ -19,7 +20,9 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | DELIGHT            | [Profile](./validators/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) | [Station Page](https://station.terra.money/validator/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) |
 | DokiaCapital       | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
 | Figment Networks   | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
+| Forbole            | [Profile](./validators/terravaloper1jkqr2vfg4krfd4zwmsf7elfj07cjuzss30ux8g) | [Station Page](https://station.terra.money/validator/terravaloper1jkqr2vfg4krfd4zwmsf7elfj07cjuzss30ux8g) |
 | FRESHLUNA          | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
+| HashQuark          | [Profile](./validators/terravaloper13ww603e55suhavpuyjft3htxca6g4tldt92pgf) | [Station Page](https://station.terra.money/validator/terravaloper13ww603e55suhavpuyjft3htxca6g4tldt92pgf) |
 | kytzu              | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
 | NEOPLY             | [Profile](./validators/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9) | [Station Page](https://station.terra.money/validator/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9) |
 | POS Bakerz         | [Profile](./validators/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) | [Station Page](https://station.terra.money/validator/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) |
