@@ -21,12 +21,13 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Figment Networks   | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
 | FRESHLUNA          | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
 | kytzu              | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
+| NEOPLY             | [Profile](./validators/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9) | [Station Page](https://station.terra.money/validator/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9) |
 | POS Bakerz         | [Profile](./validators/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) | [Station Page](https://station.terra.money/validator/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) |
 | RockX              | [Profile](./validators/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) | [Station Page](https://station.terra.money/validator/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) |
 | Staked             | [Profile](./validators/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) | [Station Page](https://station.terra.money/validator/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) |
 | Staker Space       | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
 | StakeWith.Us       | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
-| Staking Fund       | [Profile](./validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse) | [Station Page](https://station.terra.money/validator/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse)  |
+| Staking Fund       | [Profile](./validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse) | [Station Page](https://station.terra.money/validator/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse) |
 | syncnode           | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
 | Umbrella           | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
 
