@@ -7,7 +7,7 @@ Email: support@bi23.com<br/>
 
 ---
 
-### terra.bi23
+# terra.bi23
 
 A trusted POS infrastructure provider and validator to comfortably stake your coins and earn rewards.
 
