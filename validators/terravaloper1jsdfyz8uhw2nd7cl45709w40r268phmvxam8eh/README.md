@@ -1,7 +1,7 @@
 ---
-Moniker: terra.bi23<br/>
-Validator: terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh<br/>
-Email: support@bi23.com<br/>
+Moniker: terra.bi23
+Validator: terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh
+Email: support@bi23.com
 Twitter: @bi23com
 ---
 
@@ -25,6 +25,6 @@ We have a primary validation node and a backup validation node located in two di
 Have questions? You can reach us:
 
 Email: support@bi23.com<br/>
-<br/>Twitter: @bi23com
-<br/>Website: https://bi23.com/#/
+Twitter: @bi23com<br/>
+Website: https://bi23.com/#/
 
