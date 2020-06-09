@@ -26,5 +26,5 @@ Have questions? You can reach us:
 
 Email: support@bi23.com<br/>
 Twitter: https://twitter.com/bi23com<br/>
-Website: https://bi23.com/#/
+Website: https://bi23.com/
 
