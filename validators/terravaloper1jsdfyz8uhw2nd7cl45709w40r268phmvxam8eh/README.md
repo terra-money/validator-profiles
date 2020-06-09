@@ -17,11 +17,11 @@ Bi23 team is located in Toronto, Canada and Beijing, China. we currently has 12 
 
 ### Our Architecture
 Bi23 Labs is a trusted POS infrastructure provider.<br/>
-we have been providing technical support for promising projects like Celo/Vite on their early stages, and also providing secure staking service for users.
+<br/>we have been providing technical support for promising projects like Celo/Vite on their early stages, and also providing secure staking service for users.
 
 ### What Makes Us A Safer Validator
 We have a primary validation node and a backup validation node located in two different data centers in Hong Kong and the United States. They all have reserve power and private networks. <br/>
-Our special program can monitor the status of these two validation nodes at any time, and inform us by email, SMS or telegram in case of failure, so as to ensure the safety and stability of the validation node online.
+<br/>Our special program can monitor the status of these two validation nodes at any time, and inform us by email, SMS or telegram in case of failure, so as to ensure the safety and stability of the validation node online.
 
 ### Contact Us
 Have questions? You can reach us:
