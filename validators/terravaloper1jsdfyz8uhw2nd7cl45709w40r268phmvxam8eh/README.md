@@ -1,13 +1,13 @@
 
 ---
-<br/>Moniker: terra.bi23<br/>
-<br/>Validator: terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh<br/>
-<br/>Email: support@bi23.com<br/>
-<br/>Twitter: @bi23com<br/>
+Moniker: terra.bi23<br/><br/>
+Validator: terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh<br/>
+Email: support@bi23.com<br/>
+>Twitter: @bi23com<br/>
 
 ---
 
-# terra.bi23
+### terra.bi23
 
 A trusted POS infrastructure provider and validator to comfortably stake your coins and earn rewards.
 
