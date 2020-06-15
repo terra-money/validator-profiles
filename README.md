@@ -33,6 +33,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | StakeWith.Us       | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
 | Staking Fund       | [Profile](./validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse/README.md) | [Station Page](https://station.terra.money/validator/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse) |
 | syncnode           | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
+| Synergy Nodes      | [Profile](./validators/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4) |
 | Umbrella           | [Profile](./validators/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1uhjx34pfsxk9xh34yn8p2w4469uqdz067rqu5g) |
 
 ## Terraform Labs Validators (Do Not Delegate)
