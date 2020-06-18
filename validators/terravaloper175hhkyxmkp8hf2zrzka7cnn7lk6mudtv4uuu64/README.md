@@ -28,8 +28,8 @@ We are a team of experienced engineers and exchange operators who are passionate
 
 * Multiple sentry nodes for DDoS mitigation
 * Real-time monitoring and notification.
-* [chaiscan.com](https://chaiscan.com) : built Chaiscan to increase transparency in the Terra ecosystem.
-* [lunawhale.com](https://lunawhale.com) : built Lunawhale to monitor whale transfer & staking transactions.
+* [CHAISCAN.com](https://chaiscan.com) : built CHAISCAN to increase transparency in the Terra ecosystem.
+* [LunaWhale.com](https://lunawhale.com) : built LunaWhale to monitor whale transfer & staking transactions.
 * [https://t.me/lunawhale](https://t.me/lunawhale) : Telegram bot for whale transactions and validator commission rate changes (under maintenance).
 
 ### Celo
