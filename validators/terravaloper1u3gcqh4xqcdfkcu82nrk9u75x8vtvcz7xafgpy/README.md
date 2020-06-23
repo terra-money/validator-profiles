@@ -6,6 +6,7 @@ Telegram: @infstones
 ---
 
 # InfStones
+![InfStones](https://infinitystones.io/bp_info/image/logo_1024.png)
 
 InfStones is a Silicon Valley based technology company that specializes in infrastructure and platform as a services for blockchains. Our core team is comprised of experienced senior engineers and driven business leaders from established companies in the hi-tech industries.
 
