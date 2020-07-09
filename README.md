@@ -85,3 +85,19 @@ git push origin Wraith-profile
 7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes.
 
 8. We will review your PR as soon as possible. If there is no problem with your PR, we will merge it into our master branch, which will update your Validator Profile. If it is your first time creating a profile, we will add your entry to the [Validator Directory](#validator-directory).
+
+### profile.json
+
+Registered validators (validators who have submitted a profile) can opt-in to receive support from Terra by putting their contact information in `profile.json`. Terra provides various validator-support such as automatic notifications when your validator is missing blocks or oracle votes.
+
+```json
+{
+    "contact": { // contact info for delegators / outreach
+        "email": "validator@example.com",
+        "telegram": "@validator"
+    },
+    "notifications": { // notification settings
+        "email": "technicalemail@example.com" // email to receive notifications
+    }
+}
+```
