@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16034ca1-f37a-4b15-b68a-1ce5993113f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/validators/terravaloper1kl9alpr77qfjze4quf62ycngg6fkka0ttcl8nf/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validators/terravaloper1kl9alpr77qfjze4quf62ycngg6fkka0ttcl8nf/profile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <updated>1594123487622</updated>
       <workItem from="1594123489258" duration="657000" />
       <workItem from="1594179346599" duration="367000" />
-      <workItem from="1594779353116" duration="2663000" />
+      <workItem from="1594779353116" duration="3226000" />
     </task>
     <servers />
   </component>
