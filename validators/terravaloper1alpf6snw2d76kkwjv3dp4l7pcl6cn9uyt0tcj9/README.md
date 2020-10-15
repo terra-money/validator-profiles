@@ -13,7 +13,7 @@ Smart Stake is a staking validator that provides a transparent and professional 
 
 ## Team
 
-Smart Stake is operated by a sole operator named BigB. BigB has 20+ years of IT experience and has been providing validation services since 2019.
+Smart Stake is located in Canada and operated by a sole operator named BigB. BigB has 20+ years of IT experience and has been providing validation services since 2019.
 
 
 ## Ecosystem Contributions
