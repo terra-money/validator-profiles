@@ -55,3 +55,4 @@
 | FRESHLUNA | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
 | nonce - LunaWhale.com | [Profile](./validators/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) | [Station Page](https://station.terra.money/validator/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) |
 | Polychain Labs | [Profile](./validators/terravaloper1lda78gzrjx0rsadtdk0zn4v7awtz6m9lrd5ez9) | [Station Page](https://station.terra.money/validator/terravaloper1lda78gzrjx0rsadtdk0zn4v7awtz6m9lrd5ez9) |
+| Smart Stake | [Profile](./validators/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9) | [Station Page](https://station.terra.money/validator/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9) |

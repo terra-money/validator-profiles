@@ -1,6 +1,9 @@
 {
   "contact": {
     "email": "info@megastake.net",
-    "telegram": ""
-  }
+    "telegram": "@megastakevalidator"
+  },
+    "notifications": {
+        "email": "info@megastake.net"
+    }
 }
