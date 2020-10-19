@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "contact": {
+        "email": "validator@terra.money",
+        "telegram": "@terravalidator123"
+      }
+    }
+  ],
+  "required": [
+    "contact"
+  ],
+  "properties": {
+    "contact": {
+      "$id": "#/properties/contact",
+      "type": "object",
+      "title": "The contact schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": {},
+      "examples": [
+        {
+          "email": "validator@terra.money",
+          "telegram": "@terravalidator123"
+        }
+      ],
+      "required": [
+        "email",
+        "telegram"
+      ],
+      "properties": {
+        "email": {
+          "$id": "#/properties/contact/properties/email",
+          "type": "string",
+          "title": "The email schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "validator@terra.money"
+          ]
+        },
+        "telegram": {
+          "$id": "#/properties/contact/properties/telegram",
+          "type": "string",
+          "title": "The telegram schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "@terravalidator123"
+          ]
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}
