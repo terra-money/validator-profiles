@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Validate profiles
-        run: npx ajv-cli -s ci/profiles-schema.json -d "validators/**/profile.json"
+        run: npx ajv-cli -s ci/profiles-schema.json -d "validators/**/profile.json" | grep -v " valid"
