@@ -1,62 +1,42 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema",
-  "$id": "http://example.com/example.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/terra-project/validator-profiles/tree/master/ci/profile-schema.json",
   "type": "object",
-  "title": "The root schema",
-  "description": "The root schema comprises the entire JSON document.",
-  "default": {},
-  "examples": [
-    {
-      "contact": {
-        "email": "validator@terra.money",
-        "telegram": "@terravalidator123"
-      }
-    }
-  ],
   "required": [
     "contact"
   ],
   "properties": {
     "contact": {
-      "$id": "#/properties/contact",
       "type": "object",
-      "title": "The contact schema",
-      "description": "An explanation about the purpose of this instance.",
-      "default": {},
-      "examples": [
-        {
-          "email": "validator@terra.money",
-          "telegram": "@terravalidator123"
-        }
-      ],
       "required": [
-        "email",
-        "telegram"
+        "email"
       ],
       "properties": {
         "email": {
-          "$id": "#/properties/contact/properties/email",
           "type": "string",
-          "title": "The email schema",
-          "description": "An explanation about the purpose of this instance.",
-          "default": "",
-          "examples": [
-            "validator@terra.money"
-          ]
+          "format": "email"
         },
         "telegram": {
-          "$id": "#/properties/contact/properties/telegram",
           "type": "string",
-          "title": "The telegram schema",
-          "description": "An explanation about the purpose of this instance.",
-          "default": "",
-          "examples": [
-            "@terravalidator123"
-          ]
+          "pattern": "^@[a-zA-Z_0-9]+$"
+        },
+        "twitter": {
+          "type": "string",
+          "pattern": "^@[a-zA-Z_0-9]+$"
         }
       },
-      "additionalProperties": true
+      "additionalProperties": false
+    },
+    "notifications": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string",
+          "format": "email"
+        }
+      },
+      "additionalProperties": false
     }
   },
-  "additionalProperties": true
+  "additionalProperties": false
 }
