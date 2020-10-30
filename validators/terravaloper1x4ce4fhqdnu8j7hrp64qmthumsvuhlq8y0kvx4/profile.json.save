@@ -1,0 +1,9 @@
+{
+    "contact": { // contact info for delegators / outreach
+        "email": "validator@example.com",
+        "telegram": "@validator"
+    },
+    "notifications": { // notification settings
+        "email": "support@mcontrol.ml" // email to receive notifications
+    }
+}

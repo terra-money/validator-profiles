@@ -1,6 +1,6 @@
 ---
 Moniker: Mission control
-Validator: -
+Validator: terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4
 Email: support@mcontrol.ml
 Telegram: @MissionControlStakingBot
 Discord: https://discord.gg/aGdC7CC
