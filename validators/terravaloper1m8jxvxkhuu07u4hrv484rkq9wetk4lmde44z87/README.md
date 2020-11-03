@@ -5,7 +5,7 @@ Validator: terravaloper1m8jxvxkhuu07u4hrv484rkq9wetk4lmde44z87
 
 ## Karpos Staking
 
-![Karpos Staking](https://raw.githubusercontent.com/karposnetwork/validator_logos/master/Validator/Karpos%20Staking.jpg =200x)
+![Karpos Staking](https://avatars1.githubusercontent.com/u/71404814?s=200&v=4)
 
 We are experienced validators and offer secure, reliable and high available staking services.
 Our infrastructures uses hardened systems, multifactor authentication, hardware tokens. We use different service providers and datacenters around the globe with the focus on security and availability. We are active in the communities of blockchains we support. 
