@@ -1,21 +1,18 @@
+---
 Moniker: Karpos Staking
 Validator: terravaloper1m8jxvxkhuu07u4hrv484rkq9wetk4lmde44z87
+---
 
-### What about Karpos Staking
+## Karpos Staking
 
+[!Karpos Staking](https://raw.githubusercontent.com/karposnetwork/validator_logos/master/Validator/Karpos%20Staking.jpg)
 
+We are experienced validators and offer secure, reliable and high available staking services.
+Our infrastructures uses hardened systems, multifactor authentication, hardware tokens. We use different service providers and datacenters around the globe with the focus on security and availability. We are active in the communities of blockchains we support. 
 
-### Team
+Price Oracle Feed service is active.
 
-
-### Our Architecture
-
-
-
-### Ecosystem Contributions
-
-
-Contact Us
+## Contact Us
 
 Have a question? You can reach us here:
 
@@ -24,6 +21,6 @@ Have a question? You can reach us here:
 - Telegram: https://t.me/karposnetwork
 - Discord: https://discord.gg/xeE4qH58sR
 
-Website:
+## Website:
 
-Have a look at: https://karpos.network
+https://karpos.network
