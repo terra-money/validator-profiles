@@ -56,3 +56,4 @@
 | nonce - LunaWhale.com | [Profile](./validators/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) | [Station Page](https://station.terra.money/validator/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) |
 | Polychain Labs | [Profile](./validators/terravaloper1lda78gzrjx0rsadtdk0zn4v7awtz6m9lrd5ez9) | [Station Page](https://station.terra.money/validator/terravaloper1lda78gzrjx0rsadtdk0zn4v7awtz6m9lrd5ez9) |
 | Smart Stake | [Profile](./validators/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9) | [Station Page](https://station.terra.money/validator/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9) |
+| MissionControl | [Profile](./validators/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) | [Station Page](https://station.terra.money/validator/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) |
