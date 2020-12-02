@@ -7,36 +7,24 @@ Discord: https://discord.gg/aGdC7CC
 Website: https://mcontrol.ml/
 ---
 
-<img src="https://mcontrol.ml/banner.svg" width="200px"></img>
+# MISSION CONTROL
 
-Choose an eco-friendly validator!
-Our datacenters are powered 100% by renewable energies.
+<img src="./img/banner.jpg" width="350px"></img>
 
-## Team
+## INFO
+Choose an eco-friendly validator based in Italy, we use 100% renewable energies. All our nodes are alredy updated for the next update of Terra 0.4.1, the soft fork will take place with the 1'200'000 block on January 1, 2021.
+## SECURITY
+To ensure maximum uptime we have a sentry node architecture, with nodes distributed around the world. Each server, router and switch has redundant power and we have full DDoS Protected fiber optic connections.
+## GOVERNANCE
+These are our votes in the past proposals:
+- #18 Proposal to decrease PoolRecoveryPeriod - `YES`
 
-Mission Control's datacenters is located in Italy.
-
-Features:
-- We have DDoS protection with Arbor Netscout, Arista and Juniper networks.
-- The datacenter is powered 100% by renewable energies.
-- We use only SSD m.2 NVMe for maximum speed.
-
-## Ecosystem Contributions
-
-We are active members of the Terra community and work on ecosystem tools.
-
-- Oracle validator software
-- 0% Commission
-- 100% eco-friendly
-
-## Contact Us
-
-Have questions? You can reach us:
-
-- Discord: https://discord.gg/aGdC7CC
-- Email: support@mcontrol.ml
-- Telegram: t.me/MissionControlStakingBot
-
-### Website
-
-Visit our website at https://mcontrol.ml/
+## FAQ
+### WHAT IS TERRA?
+Terra is a blockchain protocol that uses fiat-pegged stablecoins to power price-stable global payments systems. Terra combines the price stability and wide adoption of fiat currencies with the censorship-resistance of criptcurenncies and offers fast and affordable settlements.
+### CAN I UNDELEGATE MY LUNA?
+You can undelegate your LUNA at any time, but there is a 21 days lock-up PoolRecoveryPeriod
+### ARE MY FOUNDS SAFE?
+Yes! We offer a non-custodial serice, this mean that you remain the owner of your Luna. Even if our private keys are compromised, your Coins are kept in your wallet and safe.
+## CONTACT US
+[Discord](https://discord.gg/DaXu4ZmSKv) -  [Mail](mailto:support@mcontrol.ml) - [Telegram](https://telegram.me/MissionControlStakingBot) - [Website](https://mcontrol.ml)
