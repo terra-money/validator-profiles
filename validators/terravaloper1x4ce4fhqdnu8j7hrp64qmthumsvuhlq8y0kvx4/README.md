@@ -9,7 +9,7 @@ Website: https://mcontrol.ml/
 
 # MISSION CONTROL
 
-<img src="./img/banner.jpg" width="350px"></img>
+<img src="https://missioncontrolv.keybase.pub/banner.jpg" width="350px"></img>
 
 ## INFO
 Choose an eco-friendly validator based in Italy, we use 100% renewable energies. All our nodes are alredy updated for the next update of Terra 0.4.1, the soft fork will take place with the 1'200'000 block on January 1, 2021.
