@@ -26,5 +26,6 @@ Terra is a blockchain protocol that uses fiat-pegged stablecoins to power price-
 You can undelegate your LUNA at any time, but there is a 21 days lock-up PoolRecoveryPeriod
 ### ARE MY FOUNDS SAFE?
 Yes! We offer a non-custodial serice, this mean that you remain the owner of your Luna. Even if our private keys are compromised, your Coins are kept in your wallet and safe.
+The only risk your Luna runs is [slashing](https://docs.terra.money/validators.html#slashing-risks), our team is committed to preventing this from happening. By delegating with MissionControl, you acknowledge that you are doing so at your own risk, and waive any claims of liability. Our team is not liable for any potential damage to your investment from slashing risk.
 ## CONTACT US
 [Discord](https://discord.gg/DaXu4ZmSKv) -  [Mail](mailto:support@mcontrol.ml) - [Telegram](https://telegram.me/MissionControlStakingBot) - [Website](https://mcontrol.ml)
