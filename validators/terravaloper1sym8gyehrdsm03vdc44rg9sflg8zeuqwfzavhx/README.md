@@ -1,7 +1,7 @@
 ---
 Moniker: syncnode
 Validator: terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx
-Email: g@syncnode.ro
+Email: support@syncnode.ro
 Telegram: @syncnode
 ---
 
@@ -18,12 +18,12 @@ We have a small but experienced team in software development, cyber security and
 | Name            | Role                | Description                  |
 | --------------- | ------------------- | ---------------------------- |
 | George Bunea    | Operator/Devops     | Experienced in server security, IT Management, cyber security proficient
-| Andrei Avadanei   | Security expert| Andrei runs Bit Sentinel and it's our offcial partenr for cyber security audits and our security consultant|
+| Andrei Avadanei   | Security expert| Andrei runs Bit Sentinel and it's our offcial partner for cyber security audits and our security consultant|
 
 ## Our Architecture
 
 Our validator uses Yubico's HSM for signing and is Colocated in a Tier III data center
-Our protection against cyber attacks consists of a mix of Sentries based designed infrastrcuture that protect the validator combined with additional layers utilizing Arbor and Juniper hardware.
+Our protection against cyber attacks consists of a mix of Sentries based designed infrastructure that protect the validator combined with additional layers utilizing Arbor and Juniper hardware.
 
 ## Ecosystem Contributions
 
@@ -36,7 +36,7 @@ We are active members of the Terra community and work on ecosystem tools like ht
 
 Have questions? You can reach us:
 
-- Email: g@syncnode.ro
+- Email: support@syncnode.ro
 - Telegram: @syncnode
 
 
