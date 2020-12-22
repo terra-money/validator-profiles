@@ -1,6 +1,9 @@
 {
-  "contact": {
-    "email": "enquiry@solidstake.io",
-    "telegram": "@solid_stake_io"
-  }
+    "contact": { // contact info for delegators / outreach
+        "email": "enquiry@solidstake.io",
+        "telegram": "@solid_stake_io"
+    },
+    "notifications": { // notification settings
+        "email": "crypto_neece@protonmail.com" // email to receive notifications
+    }
 }
