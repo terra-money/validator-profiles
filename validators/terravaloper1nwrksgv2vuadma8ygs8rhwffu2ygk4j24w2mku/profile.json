@@ -1,8 +1,11 @@
 {
   "contact": {
-    "email": "hello@posbakerz.com",
-    "telegram": "https://t.me/posbakerz",
-    "keybase": "https://keybase.io/pos_bakerz",
-    "twitter": "https://twitter.com/PosBakerz"
-  }
+    "email": "hello@stakin.com",
+    "telegram": "https://t.me/StakinOfficial",
+    "keybase": "https://keybase.io/stakin",
+    "twitter": "https://twitter.com/StakinOfficial"
+  },
+   "notifications": { 
+        "email": "hello@stakin.com" 
+    }
 }
