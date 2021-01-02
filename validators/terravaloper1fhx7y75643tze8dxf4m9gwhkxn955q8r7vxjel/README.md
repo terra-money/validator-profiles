@@ -4,7 +4,7 @@ Validator: terra1fhx7y75643tze8dxf4m9gwhkxn955q8r7r20fv
 Email: enquiry@solidstake.io
 Telegram: @solid_stake_io
 Website: https://solidstake.io
-------
+---
 
 #### SolidStake
 
