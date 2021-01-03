@@ -2,7 +2,7 @@
 Moniker: StakeSabai
 Validator: terravaloper1g6g0v23c6tv75ygk5za4s2ewwestdfj0k2cy2x
 Email: contact@sabai.finance
-Twitter: [@SabaiFinance](https://twitter.com/SabaiFinance)
+Twitter: @SabaiFinance
 ---
 
 ## StakeSabai
