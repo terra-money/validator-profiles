@@ -7,7 +7,7 @@ Telegram: @jjangg96
 
 <br>
 
-![logo](./logo.jpg)
+<img src="logo.jpg" width="300">
 
 # 0base.vc
 
