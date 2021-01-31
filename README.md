@@ -42,6 +42,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | syncnode            | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
 | Synergy Nodes       | [Profile](./validators/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4) |
 | Terran One          | [Profile](./validators/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) |
+| TERRA-FIRMA         | [Profile](./validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v) |
 
 ## What is a Validator Profile?
 
