@@ -1,52 +1,58 @@
 ---
-Moniker: POS Bakerz
+Moniker: Stakin
 Validator: terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku
-Email: hello@posbakerz.com
-Telegram: @posbakerz
+Website: https://stakin.com
+Email: hello@stakin.com
+Telegram: @StakinOfficial
+Twitter: @StakinOfficial
 ---
 
-# POS Bakerz
+# Stakin
 
-![POS-Bakerz](https://miro.medium.com/max/1400/0*ZTHsJi9iHVraB4fw.png)
+![Stakin](https://i.ibb.co/HGcYpYN/Stakin-Banner.png)
 
-POS Bakerz is an infrastructure operator for Proof-of-stake (PoS) public blockchain, offering public delegation and staking-as-a-service.
+Stakin is an infrastructure operator for Proof-of-Stake (PoS) public blockchain, offering public delegation and staking-as-a-service. With our products, token holders can earn interests on their holdings and shape the future of the networks in which they believe.
 
-At POS Bakerz, the whole team is very optimist on the future of Proof of Stake (PoS) cryptocurrencies. We believe it can improve the distribution of wealth and leads us towards a better-decentralized future while being energy-efficient and thus sustainable.
+At Stakin, the whole team is very optimist on the future of Proof-of-Stake (PoS) cryptocurrencies. We believe it can improve the distribution of wealth and leads us towards a better-decentralized future while being energy-efficient and thus sustainable.
 
-Our intention is to build a staking service first and foremost for the community, the holders, the builders, the developers, and the believers.
+We've been validating on Terra Money since genesis and are a strong supporter of the Cosmos ecosystem.
 
-We pride ourselves on supporting multiple communities and networks such as:
+We pride ourselves on supporting amazing communities and networks such as:
 
-- Terra Money
-- Cosmos Network
-- Irisnet
-- Kava Labs
-- E-Money
-- Tezos
-- Icon
+- Terra Money (LUNA)
+- Cosmos Network (ATOM)
+- Irisnet (IRIS)
+- Kava Labs (KAVA)
+- E-Money (NGM)
+- Tezos (XTZ)
+- Icon (ICX)
+- Solana (SOL)
+- Near (NEAR)
+- Kusama (KSM)
 
 ## Team
 
-| Name              | Role              | Twitter                                       |
-| ----------------- | ----------------- | --------------------------------------------- |
-| Edouard Lavidalle | Co-Founder        | [@EdouardL](https://twitter.com/EdouardL)     |
-| Tiago Machado     | Co-Founder        | [@Tyootiago](https://twitter.com/tyootiago)   |
-| Ian Enanoria      | Community Manager | [@Iamdeadlyz](https://twitter.com/Iamdeadlyz) |
-| Nelson Avena      | Community Manager | [@NelsonAv5](https://twitter.com/NelsonAv5)   |
-| Giselle Schout    | Content Marketer  | n/a                                           |
+| Name              | Role                 | Twitter                                           |
+| ----------------- | -------------------- | ------------------------------------------------- |
+| Edouard Lavidalle | Co-Founder           | [@EdouardL](https://twitter.com/EdouardL)         |
+| Tiago Machado     | Co-Founder           | [@Tyootiago](https://twitter.com/tyootiago)       |
+| Ian Enanoria      | Community Manager    | [@Iamdeadlyz](https://twitter.com/Iamdeadlyz)     |
+| Giselle Schout    | Content Marketer     | [@GiseleSchout](https://twitter.com/GiseleSchout) |
+| Fábio Maricato    | Product/UX-UI        | [@Maricato](https://twitter.com/maricato)         |
+| Abhishek Sharma   | Blockchain Developer | [@CryptosAbhi](https://twitter.com/cryptosabhi/)  |
 
 ## Our Architecture
 
-We understand the importance of providing a highly available architecture with 24/7 uptime and monitoring. Leveraging on our experience on other Proof-of-Stake networks, we run multiple nodes in a sentry architecture using multiple cloud providers such as GCP and Digital Ocean, and tools such as Grafana for constant monitoring and alerting.
+We understand the importance of providing a highly available architecture with 24/7 uptime and monitoring. Leveraging on our experience on other Proof-of-Stake networks, we run multiple nodes in a sentry architecture using multiple cloud providers such as AWS and Digital Ocean, and tools such as Grafana for constant monitoring and alerting.
 
 ## Contact Us
 
 We would ❤️ to hear from you
 
-- Email: hello@posbakerz.com
-- Telegram: https://t.me/posbakerz
-- Twitter: https://twitter.com/PosBakerz
-- Website: https://posbakerz.com/
+- Email: hello@stakin.com
+- Telegram: https://t.me/stakinofficial
+- Twitter: https://twitter.com/StakinOfficial
+- Website: https://stakin.com/
 
 #### _Disclaimer and Limitation of Liability_
 

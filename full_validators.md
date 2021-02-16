@@ -1,3 +1,5 @@
+| Moniker             |                                                                                       |                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------- | -----------------------------------------------------------------
 | WeStaking | [Profile](./validators/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) | [Station Page](https://station.terra.money/validator/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) |
 | hashed | [Profile](./validators/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) | [Station Page](https://station.terra.money/validator/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) |
 | Staker Space | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
@@ -55,3 +57,6 @@
 | FRESHLUNA | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
 | nonce - LunaWhale.com | [Profile](./validators/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) | [Station Page](https://station.terra.money/validator/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) |
 | Polychain Labs | [Profile](./validators/terravaloper1lda78gzrjx0rsadtdk0zn4v7awtz6m9lrd5ez9) | [Station Page](https://station.terra.money/validator/terravaloper1lda78gzrjx0rsadtdk0zn4v7awtz6m9lrd5ez9) |
+| Smart Stake | [Profile](./validators/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9) | [Station Page](https://station.terra.money/validator/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9) |
+| MissionControl | [Profile](./validators/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) | [Station Page](https://station.terra.money/validator/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) |
+| setten.io | [Profile](./validators/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) | [Station Page](https://station.terra.money/validator/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) |
