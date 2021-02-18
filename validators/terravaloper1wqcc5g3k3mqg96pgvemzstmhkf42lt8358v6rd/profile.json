@@ -1426,6 +1426,15 @@
   </div>
 </div>
 
+{
+    "contact": { // contact info for delegators / outreach
+        "email": info@scandinodes.com,
+        "telegram": @Daniel_Eliasson
+    },
+    "notifications": { // notification settings
+        "email": info@scandinodes.com // email to receive notifications
+    }
+}
 
 
   </body>
