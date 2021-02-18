@@ -10,7 +10,8 @@ Website: https://mcontrol.ml/
 # MISSION CONTROL
 
 <img src="https://missioncontrolv.keybase.pub/banner.jpg" width="350px"></img>
-
+Ã
+0% commission for Q1 2021, then 5%
 ## INFO
 Choose an eco-friendly validator based in Italy, we use 100% renewable energies. 
 > All our nodes are alredy updated to v0.4.2
