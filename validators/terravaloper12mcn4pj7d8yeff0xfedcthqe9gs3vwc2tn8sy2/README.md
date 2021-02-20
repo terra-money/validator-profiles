@@ -5,18 +5,24 @@ Email: jared.m.warn@gmail.com
 Telegram: TBD
 ---
 
-# Go-Terra
-
 ![Go-Terra logo](./GTLogo.png)
+# Go-Terra
+Go-Terra is dedicated to driving market efficiency of the Terra Blockchain.
 
+### Goal
+Go-Terra believes that Terra is the future. We are dedicated to advancing the blockchain.
+Our staff are incentivized to discover, and develop efficiencies within the program. With the ultimate goal of providing near perfect market efficiency to the consumer.
 
-## Team
+To advance this goal Go-Terra will develop appropriate social media outlets as its involvement in the community grows.
 
-| Name                                                | Role                           |
-| --------------------------------------------------- | ------------------------------ |
-| [Jared Warn](http://go-terra.org)          | Cofounder & Conductor          |
+### Validator
+The validator is cloud based, and dedicated staff ensure regular updates.
 
-## Contact Us
+### Team
+Largely anonymous, our team develops specific projects on one-off basis with relevant industry experts.
+Our team seeks to develop rapport in the space from consistent results.
+
+### Contact Us
 
 Have questions? You can reach us:
 
