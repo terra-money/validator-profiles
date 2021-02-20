@@ -86,7 +86,7 @@ git push origin Wraith-profile
 
 Registered validators (validators who have submitted a profile) can opt-in to receive support from Terra by putting their contact information in `profile.json`. Terra provides various validator-support such as automatic notifications when your validator is missing blocks or oracle votes.
 
-```json
+```javascript
 {
     "contact": { // contact info for delegators / outreach
         "email": "validator@example.com",
