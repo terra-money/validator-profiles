@@ -18,17 +18,6 @@ To advance this goal Go-Terra will develop appropriate social media outlets as i
 ### Validator
 The validator is cloud based, and dedicated staff ensure regular updates.
 
-### Team
-Largely anonymous, our team develops specific projects on one-off basis with relevant industry experts.
-Our team seeks to develop rapport in the space from consistent results.
-
-### Contact Us
-
-Have questions? You can reach us:
-
-- Email: jared.m.warn@gmail.com
-- Telegram: TBD
-
 ### Website
 
 http://go-terra.org
