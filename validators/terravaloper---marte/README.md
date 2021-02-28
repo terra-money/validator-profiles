@@ -1,9 +1,7 @@
 ---
 Moniker: Marte Cloud
 Validator: <validator-address>
-Email: hello@marte.cloud
 Telegram: https://t.me/martecloud
-Website: https://marte.cloud/
 ---
 
 # Marte Cloud
