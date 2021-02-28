@@ -1,6 +1,6 @@
 ---
 Moniker: Marte Cloud
-Validator: <validator-address>
+Validator: terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk
 Telegram: https://t.me/martecloud
 ---
 
