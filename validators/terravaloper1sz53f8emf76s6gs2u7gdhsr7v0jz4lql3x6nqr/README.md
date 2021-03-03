@@ -6,7 +6,7 @@ Telegram: @DerUwe79
 ---
 
 # Terrandode.de
-![terranode]()
+![terranode](https://raw.githubusercontent.com/bitradioUwe/validator-profiles/master/img/logo_trn.png)
 ## Ecosystem
 Active on the Terra Project since early 2020. We will spread informations on social Media / Youtube in the future to get more users on board and help the Terra ecosystem. Runnign an Terra Validator and Oracle price Feed.
 
