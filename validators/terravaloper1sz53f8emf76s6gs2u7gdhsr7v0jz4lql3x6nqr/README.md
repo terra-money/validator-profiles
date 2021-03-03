@@ -8,7 +8,7 @@ Telegram: @DerUwe79
 # Terrandode.de
 ![terranode]()
 ## Ecosystem
-Active in Terra since early 2020. We will soread informations on social Media / Youtube in the future to get more users on board and help the Terra ecosystem
+Active on the Terra Project since early 2020. We will spread informations on social Media / Youtube in the future to get more users on board and help the Terra ecosystem. Runnign an Terra Validator and Oracle price Feed.
 
 - 0% Commission unti the End of April.
 - commision changes get ammounced 14 days before.
