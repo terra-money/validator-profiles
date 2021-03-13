@@ -7,7 +7,7 @@ Email: contact@terraindia.info
 # Terra India
 ![TerraIndia](./logo.png)
 
-We'd love to host a Terra full-node validator close to home, in India. We have publicly hosted rpc & lcd endpoints so that apps and delevlopers can connect to it
+We'd love to host a Terra full-node validator close to home, in India. We have publicly hosted rpc & lcd endpoints so that apps and developers can connect to it
 
 - RPC - tcp://in.terra.stakebin.com:26657
 - LCD - https://in.terra.stakebin.com
