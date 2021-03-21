@@ -6,7 +6,7 @@ Telegram: @dualstaking
 ---
 
 # Dual Stacking
-![dualsystems](https://avatars.githubusercontent.com/u/78118465?s=400&v=4)
+![dualsystems](https://avatars.githubusercontent.com/u/78118465?s=300&v=4)
 
 We maintain stable growth. Start with zero commission.
 
