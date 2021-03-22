@@ -1,8 +1,8 @@
 {
-    "contact": { // contact info for delegators / outreach
+    "contact": {
         "email": "contact@lunarewards.com"
     },
-    "notifications": { // notification settings
-        "email": "desk@lunarewards.com" // email to receive notifications
+    "notifications": {
+        "email": "desk@lunarewards.com"
     }
 }
