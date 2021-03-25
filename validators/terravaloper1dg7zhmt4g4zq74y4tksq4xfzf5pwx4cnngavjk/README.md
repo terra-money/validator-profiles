@@ -7,7 +7,9 @@ Telegram: https://t.me/martecloud
 # Marte Cloud
 ![Marte Cloud](marte-cloud.png)
 
-Please migrate your delegated LUNA to our new Validator node ![Marte Cloud](https://station.terra.money/validator/terravaloper16gvh8amt7szjfc33yzmlzxz4xg5vrw40kchpcu) by April 30th. 
+
+Please migrate your delegated LUNA to our new Validator node 
+![Marte Cloud](https://station.terra.money/validator/terravaloper16gvh8amt7szjfc33yzmlzxz4xg5vrw40kchpcu) by April 30th. 
 
 https://station.terra.money/validator/terravaloper16gvh8amt7szjfc33yzmlzxz4xg5vrw40kchpcu
 
