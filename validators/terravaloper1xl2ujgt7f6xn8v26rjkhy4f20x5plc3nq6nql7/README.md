@@ -5,7 +5,7 @@ Email: contact@lunarewards.com
 ---
 
 # Luna Rewards
-![Luna Rewards](lunarewards-logo.png)
+![Luna Rewards](lunarewards-new-logo.png)
 
 Luna Rewards is experienced staking service provider with secure and reliable nodes.
 
