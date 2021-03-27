@@ -3,7 +3,7 @@ Moniker: Pete's Fan Club
 Validator: terravaloper12g4nkvsjjnl0t7fvq3hdcw7y8dc9fq69nyeu9q
 Email: petes-fan-club@protonmail.com
 Twitter: @ClubPetes
-Telegram: @<hidden>   
+Telegram: @petes_fan_club   
 ---
 
 
@@ -26,4 +26,5 @@ Have questions? You can reach us:
 - Email: petes-fan-club@protonmail.com
 
 ### Website
-None yet
+
+[Pete's Fan club GH repo](https://github.com/petes-fan-club/) 
