@@ -10,7 +10,7 @@ Telegram: https://t.me/martecloud
 
 Marte Cloud
 
-We are a community validator providing secure non-custodial staking 
+We are a community validator providing secure non-custodial staking
 backed by enterprise-grade infrastructure with node clusters from multiple regions and cloud providers.
 
 ## Our Architecture
