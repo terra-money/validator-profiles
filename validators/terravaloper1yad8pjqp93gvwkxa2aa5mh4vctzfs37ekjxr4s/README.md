@@ -3,7 +3,6 @@ Moniker: healings
 Validator: terravaloper1yad8pjqp93gvwkxa2aa5mh4vctzfs37ekjxr4s
 Email: <heechl@Naver.com>
 Telegram: @Coinplanner"
-Website: https://Blockproduce.com
 ---
 
 ![bp](https://user-images.githubusercontent.com/49701937/112595821-4ddf3880-8e4e-11eb-9af3-96ff4a536aab.jpg)
