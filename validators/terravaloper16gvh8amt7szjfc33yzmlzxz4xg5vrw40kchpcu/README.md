@@ -7,7 +7,19 @@ Telegram: https://t.me/martecloud
 # Marte Cloud
 ![Marte Cloud](marte-cloud.png)
 
-Do not delegate to this node.
-Redelegate to our original Validator: https://station.terra.money/validator/terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk
+We are a community validator providing secure non-custodial staking
+backed by enterprise-grade infrastructure with node clusters from multiple regions and cloud providers.
 
-For any assistance redelegating back to our original validator - Join our Telegram; https://t.me/martecloud
+## Our Architecture
+
+We run validator nodes on secure networks using high performant cloud infrastructure with latest security features.
+
+## Contact Us
+
+Have questions? You can reach us:
+
+- Email: hello@marte.cloud
+- website: https://marte.cloud/
+- Twitter: https://twitter.com/martecloud
+- Telegram: https://t.me/martecloud
+- Our Other Validator is: https://station.terra.money/validator/terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk
