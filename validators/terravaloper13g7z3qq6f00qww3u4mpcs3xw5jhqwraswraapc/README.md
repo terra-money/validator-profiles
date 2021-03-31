@@ -27,8 +27,7 @@ Have questions? You can reach us:
    * Telegram: https://t.me/everstake_chat
    * Twitter: https://twitter.com/everstake_pool
    * Medium: https://medium.com/everstake
-   * Reddit: https://www.reddit.com/r/Everstake/
-   * Phone: +1 650 360 54 49  
+   * Reddit: https://www.reddit.com/r/Everstake/ 
 
 ### Website
 
