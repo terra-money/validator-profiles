@@ -15,10 +15,10 @@ Our team consists of experienced developers, financial experts and blockchain en
 
 ### Why choose us
    1. Top-notch gear
-   * Proven track record
-   * Automatic payouts
-   * Transparency
-   * Support  
+   2. Proven track record
+   3. Automatic payouts
+   4. Transparency
+   5. Support  
 
 High-performance servers, broadband channels and advanced network topology allow us to show 99.9% uptime and generate blocks really fast.  
 
