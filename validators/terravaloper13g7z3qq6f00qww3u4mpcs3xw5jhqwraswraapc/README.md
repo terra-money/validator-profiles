@@ -1,6 +1,9 @@
 ---
 Moniker: everstakeone
-Validator: terravaloper13g7z3qq6f00qww3u4mpcs3xw5jhqwraswraapc
+Validator: terra13g7z3qq6f00qww3u4mpcs3xw5jhqwraswv3q3t
+Email: inbox@everstake.one
+Twitter: @everstake_pool
+Website: everstake.one
 ---
 
 # everstakeone
