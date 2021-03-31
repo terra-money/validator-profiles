@@ -14,7 +14,7 @@ Reliable and experienced staking service provider from Ukraine. Visit our websit
 Our team consists of experienced developers, financial experts and blockchain enthusiasts. We run highly secure and reliable nodes for PoS protocols using the enterprise-level hardware to ensure maximum efficiency and security.  
 
 ### Why choose us
-   1 Top-notch gear
+   1. Top-notch gear
    * Proven track record
    * Automatic payouts
    * Transparency
