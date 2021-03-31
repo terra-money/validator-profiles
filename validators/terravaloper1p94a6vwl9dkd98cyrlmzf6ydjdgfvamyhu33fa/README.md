@@ -8,9 +8,9 @@ Website: http://lunaorbit.space
 
 # Luna Orbit
 
-![Luna Orbit](luna-orbit-logo.png)
-
 Enterprise grade, multi-cloud / multi-regional node
+
+![Luna Orbit](luna-orbit-logo.png)
 
 ## Architecture
 
