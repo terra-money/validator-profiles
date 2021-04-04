@@ -6,7 +6,7 @@ Telegram: https://t.me/easy2stake
 ---
 
 # Easy 2 Stake
-![Easy 2 Stake](Easy 2 Stake.png)
+![Easy 2 Stake](easy2stake.png)
 
 We will manage day by day operation, just stake your crypto. Enjoy the rewards. Easy.Stake.Trust.
 
