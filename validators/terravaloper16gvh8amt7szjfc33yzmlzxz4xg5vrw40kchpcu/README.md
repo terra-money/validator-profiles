@@ -13,3 +13,4 @@ Please relegate to our oriignal Marte Cloud validator linked below.
 You can find our Marte Cloud in Terra Station here: https://station.terra.money/validator/terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk 
 
 If you need help redelegating, please join our Telegram for assistance https://t.me/martecloud
+
