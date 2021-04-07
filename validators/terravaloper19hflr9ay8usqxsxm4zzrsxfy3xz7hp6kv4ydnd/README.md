@@ -7,8 +7,6 @@ Twitter: @Orbital_Command
 Website: https://orbitalcommandvalidator.com/
 ---
 
-
-
 ![OrbitalCommand](orbitalcommand.jpg)
 
 Orbital command is a staking validator that is dedicated solely to the Luna ecosystem. We are a validator that is for the community and by the community. 
