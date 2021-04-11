@@ -20,4 +20,4 @@ We are running our validator within the world's most highly secure and reliable 
 
 Less specifically, we are hardening our architecture as quickly as we are learning about the beautiful world of Terra!  
 
-But for real, we operate an HA and fault tolerant Sentry-style architecture.  We love to improve, so please feel free to reference [our tools and scripts used for creating and managing this environment](github.com/RnodeC/terra-git) and reach out with thoughts, critiques, suggestions.  
+But for real, we operate an HA and fault tolerant Sentry-style architecture.  We love to improve, so please feel free to reference [our tools and scripts used for creating and managing this environment](https://github.com/RnodeC/terra-git) and reach out with thoughts, critiques, suggestions.  
