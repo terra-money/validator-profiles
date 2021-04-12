@@ -21,5 +21,5 @@ Have questions? You can reach us:
 
 - Email: contact@easy2stake.com
 - website: https://www.easy2stake.com/
-- Twitter: https://twitter.com/Easy2Stak
+- Twitter: https://twitter.com/Easy2Stake
 - Telegram: https://t.me/easy2stake
