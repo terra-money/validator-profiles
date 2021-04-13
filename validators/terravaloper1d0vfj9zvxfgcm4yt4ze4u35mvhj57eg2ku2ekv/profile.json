@@ -1,6 +1,11 @@
 {
   "contact": {
-    "email": "",
-    "telegram": ""
-  }
+    "email": "contact@easy2stake.com",
+    "telegram": "https://t.me/easy2stake",
+    "website": "https://www.easy2stake.com/",
+    "twitter": "https://twitter.com/Easy2Stake"
+  },
+  "notifications": {
+   "email": "contact@easy2stake.com"
+ }
 }
