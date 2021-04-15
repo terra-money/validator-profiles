@@ -47,6 +47,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Terran One            | [Profile](./validators/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) |
 | TERRA-FIRMA           | [Profile](./validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v) |
 | setten.io             | [Profile](./validators/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa)           | [Station Page](https://station.terra.money/validator/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) |
+| StakeTo.Me            | [Profile](./validators/terravaloper1z7we2y02fy2kvw0tdq8k26j4t370n58wxvl4ge)           | [Station Page](https://station.terra.money/validator/terravaloper1z7we2y02fy2kvw0tdq8k26j4t370n58wxvl4ge) |
 
 ## What is a Validator Profile?
 
