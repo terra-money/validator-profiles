@@ -1,9 +1,9 @@
 {
 	"contact": {
-    "email": "team@staketo.me",
-    "telegram": "@haodi233"
-  },
-  "notifications": {
+		"email": "team@staketo.me",
+		"telegram": "@haodi233"
+	},
+	"notifications": {
 		"email": "haodi.jiang@mainto.cn"
 	}
 }
