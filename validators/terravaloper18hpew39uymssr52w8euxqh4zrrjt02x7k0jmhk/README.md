@@ -5,8 +5,6 @@ Email: staking@onestar.ee
 Telegram: @OneStarStaking
 ---
 
-NOTE: This is just an example of what your profile page can look like!
-
 # OneStar
 ![OneStar](one-star-logo.png)
 
