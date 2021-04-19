@@ -1,0 +1,10 @@
+{
+  "contact": {
+    "email": "node@blckchn.pro",
+    "telegram": "@TerraValidator",
+    "twitter": "@TerraValidator"
+  },
+  "notifications": {
+    "email": "node@blckchn.pro"
+  }
+}

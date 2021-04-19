@@ -2,7 +2,8 @@
   "contact": {
     "email": "hello@marte.cloud",
     "telegram": "https://t.me/martecloud",
-    "website": "https://twitter.com/martecloud/status/1374872971383164928"
+    "twiiter": "https://twitter.com/martecloud",
+    "website": "https://marte.cloud/"
   },
   "notifications": {
    "email": "hello@marte.cloud"
