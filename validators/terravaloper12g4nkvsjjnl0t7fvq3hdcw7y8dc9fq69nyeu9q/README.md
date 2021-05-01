@@ -1,7 +1,7 @@
 ---
 Moniker: PFC
 Validator: terravaloper12g4nkvsjjnl0t7fvq3hdcw7y8dc9fq69nyeu9q
-Email: petes-fan-club@protonmail.com
+Email: PFC-Validator@protonmail.com
 Twitter: @PFC_Validator
 Telegram: @PFC_Validator   
 ---
@@ -30,8 +30,8 @@ Our validator is hosted on Google Cloud, and we provide scripts and tooling that
 
 Have questions? You can reach us:
 
-- Email: petes-fan-club@protonmail.com
+- Email: pfc-validator@protonmail.com
 
 ### Website
 
-[PFC's GH repo](https://github.com/petes-fan-club/) 
+[PFC](https://pfc-validator.github.io/) 
