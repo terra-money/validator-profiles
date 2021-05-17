@@ -20,6 +20,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | DELIGHT               | [Profile](./validators/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50) |
 | DokiaCapital          | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
 | DSRV - CHAISCAN.com   | [Profile](./validators/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64/README.md) | [Station Page](https://station.terra.money/validator/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) |
+| Easy 2 Stake          | [Profile](./validators/terravaloper1d0vfj9zvxfgcm4yt4ze4u35mvhj57eg2ku2ekv/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1d0vfj9zvxfgcm4yt4ze4u35mvhj57eg2ku2ekv) |
 | Figment Networks      | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
 | Forbole               | [Profile](./validators/terravaloper1jkqr2vfg4krfd4zwmsf7elfj07cjuzss30ux8g/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1jkqr2vfg4krfd4zwmsf7elfj07cjuzss30ux8g) |
 | FRESHLUNA             | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
@@ -47,7 +48,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Synergy Nodes         | [Profile](./validators/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4) |
 | Terran One            | [Profile](./validators/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) |
 | TERRA-FIRMA           | [Profile](./validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v) |
-| setten.io             | [Profile](./validators/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) |
+| setten.io             | [Profile](./validators/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa)           | [Station Page](https://station.terra.money/validator/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) |
 
 ## What is a Validator Profile?
 
