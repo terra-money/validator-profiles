@@ -1,0 +1,10 @@
+{
+  "contact": {
+    "email": "Operator@Go-Terra.io",
+    "telegram": "https://t.me/Go_Terra",
+    "website": "https://go-terra.io/"
+  },
+  "notifications": {
+   "email": "Operator@Go-Terra.io"
+ }
+}

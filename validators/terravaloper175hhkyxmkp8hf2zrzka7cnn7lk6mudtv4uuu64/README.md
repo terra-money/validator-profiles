@@ -1,7 +1,7 @@
 ---
 Moniker: DSRV - CHAISCAN.com
 Validator: terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64
-Email: contact@dsrvlabs.com
+Email: validator@dsrvlabs.com
 Twitter: @dsrvlabs
 Website: https://dsrvlabs.com/
 ---

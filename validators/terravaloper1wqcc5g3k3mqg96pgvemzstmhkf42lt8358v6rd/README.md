@@ -1,4 +1,4 @@
----
+  ---
 Moniker: CAPAPULT
 Validator: terra1wqcc5g3k3mqg96pgvemzstmhkf42lt835gq8n7
 Email: validator@capapult.finance
@@ -30,8 +30,7 @@ Have questions? You can reach us:
 
 - Email: validator@capapult.finance
 - Telegram: @daniel_eliasson
-- Twitter: @capapult
 
 ### Website
 
-capapult.finance
+https://capapult.finance
