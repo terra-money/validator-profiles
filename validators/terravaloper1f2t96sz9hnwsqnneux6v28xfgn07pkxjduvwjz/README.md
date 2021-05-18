@@ -9,11 +9,11 @@ Telegram: https://twitter.com/BlockNgine
 
 ![blockngine](blockengine-full.png)
 
-Low-fee | Secure | Reliable Validator Run By Experts.
+0% Fee | Secure | Reliable validator backed by enterprise-grade infrastructure distributed across multiple regions and hardware providers.
 
 ## Our Architecture
 
-We run a production grade Infrastructure as Code; self-healing; auto-scaling; anti-fragile cluster, which can self-repair and automatically grow with demand.
+We run enterprise-grade infrastructure distributed across multiple regions and hardware providers powered by Infrastructure as Code which is self-healing; auto-scaling; anti-fragile cluster which can self-repair and automatically grow with demand.
 
 ### Website
 
