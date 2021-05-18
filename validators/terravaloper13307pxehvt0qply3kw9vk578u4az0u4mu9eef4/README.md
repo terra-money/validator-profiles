@@ -29,7 +29,7 @@ We run blockchain nodes on multiple networks and gathered a lot of experiences.<
 Have questions?
 
 - Email: alex@masternode24.de
-- Telegram: @mastermode24.de
+- Telegram: @masternode24.de
 - Twitter: @masternode24 
 
 ### Website
