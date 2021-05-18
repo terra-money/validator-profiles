@@ -1,22 +1,25 @@
 ---
-Moniker: WhoTheFuckIsAlice
+Moniker: CAPAPULT
 Validator: terra1wqcc5g3k3mqg96pgvemzstmhkf42lt835gq8n7
-Email: info@scandinodes.com
+Email: validator@capapult.finance
 Telegram: @daniel_eliasson
 ---
 
 
 # <moniker>
 
-We are ScandiNodes, a Scandinavian validator helping the terra luna ecosystem!
+We are about to change the world of financial savings forever. - Scandinavia powered by @terra_money
 
 ## Team
 
-WhoTheFuckIsALice
+CAPAPULT
 
-| Name            | Role    | Description                    |
-| --------------- | ------- | -------------------------------|
-| Daniel Eliasson | Founder | Former XRP Junkie getting sober|
+| Name                | Role      | Description                    |
+| ---------------     | -------   | -------------------------------|
+| Daniel Eliasson     | Founder   | Early Crypto investor          |
+| Jessica Eliasson.   | Founder   | Early Crypto investor          |
+| Alessandro Candeago | Developer |                                |
+| Bruno Janvier       | Developer |                                |
 
 
 - 0% Commission
@@ -25,9 +28,10 @@ WhoTheFuckIsALice
 
 Have questions? You can reach us:
 
-- Email: info@scandinodes.com
+- Email: validator@capapult.finance
 - Telegram: @daniel_eliasson
+- Twitter: @capapult
 
 ### Website
 
-https://scandinodes.com/alice
+capapult.finance
