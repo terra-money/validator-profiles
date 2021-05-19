@@ -1,5 +1,5 @@
 ---
-Moniker: <moniker>
+Moniker: Orion.Money
 Validator: <validator-address>
 Email: <your-email>
 Telegram: @your_telegram_handle

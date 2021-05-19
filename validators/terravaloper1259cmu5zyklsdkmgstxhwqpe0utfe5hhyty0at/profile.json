@@ -1,6 +1,10 @@
 {
   "contact": {
     "email": "staking@orion.money",
-    "telegram": "@Orion_Money"
+    "telegram": "@Orion_Money",
+  	"keybase": "https://keybase.io/orionmoney"    
+  },
+  "notifications": {
+  	"email": "staking@orion.money"
   }
 }
