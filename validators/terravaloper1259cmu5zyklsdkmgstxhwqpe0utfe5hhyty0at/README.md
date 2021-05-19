@@ -3,6 +3,7 @@ Moniker: Orion.Money
 Validator: terravaloper1259cmu5zyklsdkmgstxhwqpe0utfe5hhyty0at
 Email: staking@orion.money
 Telegram: @Orion_Money
+Twitter: @orion_money
 Website: https://orion.money
 ---
 
