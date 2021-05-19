@@ -6,7 +6,9 @@ Telegram: @Orion_Money
 Website: https://orion.money
 ---
 
-![Orion.Money](orion-money.png)
+<p align="center">
+  <img src="orion-money.png" width="200" height="200">
+</p>
 
 # Orion.Money
 
