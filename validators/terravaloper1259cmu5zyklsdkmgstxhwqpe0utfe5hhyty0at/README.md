@@ -6,11 +6,11 @@ Telegram: @Orion_Money
 Website: https://orion.money
 ---
 
-NOTE: This is just an example of what your profile page can look like!
+![Orion.Money](orion-money.png)
 
 # Orion.Money
 
-We are community centric validator that shares its full commission net revenue with our token stakers. To learn more please visit us at {validator.description.website}
+We are community centric validator that shares its full commission net revenue with our token stakers. To learn more please visit us at https://orion.money
 
 ## Our Architecture
 
