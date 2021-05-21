@@ -1,40 +1,38 @@
 ---
-Moniker: B L C K C H N
+Moniker: Masternode24.de
 Validator: terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu
-Email: node@blckchn.pro
-Telegram: @TerraValidator
-Twitter: @TerraValidator
+Email: alex@masternode24.de, oleg@masternode24.de
+Twitter: @mastenode24
+Telegram: @masternode24.de
+Website: https://masternode24.de
 ---
 
 <p align="center">
-  <img src="https://github.com/b-l-c-k-c-h-n/validator-profiles/raw/blckchn/validators/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu/logo.png">
+  <img src="https://github.com/Masternode24/validator-profiles/raw/masternode24/validators/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu/logo.png">
 </p>
-<h3 align="center">[ B L C K C H N ]</h3>
+<h3 align="center">Masternode24</h3>
 <p align="center">
 We are a validator, node operator, and service provider in Web 3.0.<br>
-BLCKCHN Company is located in Germany (Munich).
+
 </p>
 
 ## Team
 
-| Name            | Role            |
-| --------------- | --------------- |
-| Oleg Pahl       | CEO             |
+| Name              | Role            |
+| ----------------- | --------------- |
+| Alexander Buterus | CEO             |
+| Oleg Pahl         | Engineering     |
 
 ## Our Architecture
 We run blockchain nodes on multiple networks and gathered a lot of experiences.<br>
->*We have launched Terra validator Node with 1% commission FOREVER !*
 
 ## Contact Us
 
 Have questions?
 
-- Email: node@blckchn.pro
-- Telegram: @TerraValidator
-- Twitter: @TerraValidator
+- Telegram: @masternode24.de
+- Twitter: @masternode24 
 
 ### Website
 
-https://www.blckchn.pro
-
-*In Terra we Trust!*
+https://www.masternode24.de
