@@ -13,7 +13,7 @@ Node A-Team is an experienced Proof-of-Stake validator for Terra, Cosmos, BandPr
 
 - **Terra** Genesis Drill Rank #3  
 - **Cosmos** Game of Zones: Phase 1B Winner(Liveness reward), Game of Stakes “Never Jailed Group”  
-- ***Polygon(Matic)** Participated in Matic Network Validator Advisory Board  
+- **Polygon(Matic)** Participated in Matic Network Validator Advisory Board  
 - **IRISnet** Bifrost Testnet: Earn the most badges, Selected as IRISnet August Rainbow Validator(2020), Nyancat Testnet: All tasks completed - Full score  
 - **Kava** Founder Member Badge  
 - **Certik Security Oracle Operator Game Top 1**
