@@ -16,7 +16,7 @@ Node A-Team is an experienced Proof-of-Stake validator for Terra, Cosmos, BandPr
 - **Polygon(Matic)** Participated in Matic Network Validator Advisory Board  
 - **IRISnet** Bifrost Testnet: Earn the most badges, Selected as IRISnet August Rainbow Validator(2020), Nyancat Testnet: All tasks completed - Full score  
 - **Kava** Founder Member Badge  
-- **Certik Security Oracle Operator Game Top 1**
+- **Certik** Security Oracle Operator Game Top 1
 - **Starname** Validator Candidate TOP 5  
 - **E-Money** Reward Program - Full reward recipient  
 - **Solana** Tour De Sol - Bug Bounty Recipient  
