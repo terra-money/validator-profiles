@@ -2,32 +2,35 @@
 Moniker: ATEAM
 Validator: terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp
 Email: contact@nodeateam.com
-Telegram: @jeelimm
+Telegram: @Rayjk126
 ---
 
 <img src="https://github.com/node-a-team/validator-profiles/blob/master/validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp/logo.png" width="20%"></img>  
     
 
 ## Node A-TEAM
-Node A-Team is a winning validator of multiple incentivized Proof-of-Stake network testnets. Currently, Node A-Team is currently validating for Terra, Cosmos, IRISnet, KAVA, IOV, E-Money, Solana and Orbit Chain. The team proved themselves as to be a top-tier validator through the history below: 
+Node A-Team is an experienced Proof-of-Stake validator for Terra, Cosmos, BandProtocol, Kava, IRISnet, Polygon, Fetch.ai, E-money, Certik, Starname, Solana, and Orbit. Please follow us at @Node_Ateam(Twitter) to stay updated!
 
-- **Terra** Genesis Drill Rank #3
-- **Cosmos** Game of Stakes “Never Jailed Group”
-- **IRISnet** Nyancat Testnet: All tasks completed - Full score
-- **Kava** Founder Member Badge
-- **IOV** Validator Candidate TOP 5
-- **E-Money** Reward Program - Full reward recipient
-- **Solana** Tour De Sol - Bug Bounty Recipient
-- **LINO Network** Validator Prize Winner Top 7
-- **Akash Network** Founding Member Challenge Winner
+- **Terra** Genesis Drill Rank #3  
+- **Cosmos** Game of Zones: Phase 1B Winner(Liveness reward), Game of Stakes “Never Jailed Group”  
+- ***Polygon(Matic)** Participated in Matic Network Validator Advisory Board  
+- **IRISnet** Bifrost Testnet: Earn the most badges, Selected as IRISnet August Rainbow Validator(2020), Nyancat Testnet: All tasks completed - Full score  
+- **Kava** Founder Member Badge  
+- **Certik Security Oracle Operator Game Top 1**
+- **Starname** Validator Candidate TOP 5  
+- **E-Money** Reward Program - Full reward recipient  
+- **Solana** Tour De Sol - Bug Bounty Recipient  
+- **LINO Network** Validator Prize Winner Top 7  
+- **Akash Network** Founding Member Challenge Winner  
 
 Placing delegators' interests and long-term growth of Proof of Stake networks as top priority, Node A-Team promises to provide the most secure and trustworthy validator service.
 
 | Name            | Role                                 |
 | --------------- | ------------------------------------ |
 | Michael Kim     | CEO                                  |
-| Jinmyung Kim    | SE & Node Operations                 |
-| Jeeuk Lim       | Internal Operations & Communications |
+| Ray Kim         | COO                                  |
+| Jinmyung Kim    | Node Operations                      |
+| Chaeeun Min     | Node Operations                      |
 
 
 ## Our Architecture
