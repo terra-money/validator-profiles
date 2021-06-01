@@ -2,8 +2,8 @@
   "contact": {
     "email": "staking@onestar.ee",
     "telegram": "@OneStarStaking",
-    "website": "https://onestar.ee/terra/staking",
-  }, 
+    "website": "https://onestar.ee/terra/staking"
+  },
   "notifications": {
    "email": "staking@onestar.ee"
   }
