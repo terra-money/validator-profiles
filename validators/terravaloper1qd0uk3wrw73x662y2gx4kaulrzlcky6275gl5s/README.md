@@ -6,8 +6,11 @@ Keybase: https://keybase.io/talisprotocol
 Twitter: https://twitter.com/ProtocolTalis
 ---
 
+<p align="center">
+  <img src="talis-protocol.png" width="200" height="200">
+</p>
 
-# <Talis Protocol>
+# Talis Protocol
 
 Thanks to Blocbits, Talis had the opportunity to launch its own validator in order to participate in the conjoint effort to decentralize and stregthen the protocol, as much as inheriting and earning from the Proof of Stake model. 
 This model, the Tendermint one, is philosophically a core principle for Terra’s ecosystem and by extension for Talis.
