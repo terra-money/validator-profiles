@@ -8,7 +8,7 @@ Twitter: https://twitter.com/ProtocolTalis
 ---
 
 <p align="center">
-  <img src="talis-protocol.png" height="452">
+  <img src="talis-protocol.png" style="object-fit: cover;" height="452">
 </p>
 
 # Talis Protocol
