@@ -1,3 +1,4 @@
+---
 Moniker: <Talis Protocol>
 Validator: <terravaloper1qd0uk3wrw73x662y2gx4kaulrzlcky6275gl5s>
 Email: <eloi@talis.art>
@@ -7,7 +8,7 @@ Twitter: https://twitter.com/ProtocolTalis
 ---
 
 <p align="center">
-  <img src="talis-protocol.png" width="200" height="200">
+  <img src="talis-protocol.png" width="768">
 </p>
 
 # Talis Protocol
