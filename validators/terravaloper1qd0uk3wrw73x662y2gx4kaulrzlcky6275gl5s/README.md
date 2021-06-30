@@ -1,7 +1,7 @@
 ---
-Moniker: <Talis Protocol>
-Validator: <terravaloper1qd0uk3wrw73x662y2gx4kaulrzlcky6275gl5s>
-Email: <eloi@talis.art>
+Moniker: Talis Protocol
+Validator: terravaloper1qd0uk3wrw73x662y2gx4kaulrzlcky6275gl5s
+Email: eloi@talis.art
 Telegram: @talisprotocol
 Keybase: https://keybase.io/talisprotocol
 Twitter: https://twitter.com/ProtocolTalis
