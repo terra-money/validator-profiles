@@ -13,7 +13,7 @@ Twitter: https://twitter.com/ProtocolTalis
 
 # Talis Protocol
 
-Thanks to Blocbits, Talis had the opportunity to launch its own validator in order to participate in the conjoint effort to decentralize and stregthen the protocol, as much as inheriting and earning from the Proof of Stake model. 
+Thanks to Blocbits, Talis had the opportunity to launch its own validator in order to participate in the conjoint effort to decentralize and strengthen the protocol, as much as inheriting and earning from the Proof of Stake model. 
 This model, the Tendermint one, is philosophically a core principle for Terra’s ecosystem and by extension for Talis.
 
 All proposals, prior to vote and as a community, will be discussed on our Telegram group (https://t.me/talisprotocol) and we invite every Talis staker to head-up here to discuss Governance’s proposals. 
