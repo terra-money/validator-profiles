@@ -1,5 +1,5 @@
 ---
-Moniker: BlockNgine
+Moniker: BlockNgine.io - 0% fee
 Validator: terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz
 Email: support@blockngine.io
 Telegram: https://twitter.com/BlockNgine
