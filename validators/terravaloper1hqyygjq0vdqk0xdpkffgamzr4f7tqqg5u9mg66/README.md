@@ -2,8 +2,8 @@
 Moniker: AngelProtocol
 Validator: terravaloper1hqyygjq0vdqk0xdpkffgamzr4f7tqqg5u9mg66
 Email: hi@angelprotocol.io
-Telegram: @AngelProtocol
-Twitter: @AngelProtocoI
+Telegram: @AngelProtocoI
+Twitter: @AngelProtocol
 Website: https://angelprotocol.io/
 ---
 
