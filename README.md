@@ -53,6 +53,8 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Terran One            | [Profile](./validators/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) |
 | Terran Stakers        | [Profile](./validators/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427) |
 | TERRA-FIRMA           | [Profile](./validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v) |
+| EZStaking.io.         | [Profile](./validators/terravaloper1vv4y54wczzk99ga65uvy7555n5q68gswcmdvj2/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vv4y54wczzk99ga65uvy7555n5q68gswcmdvj2) |
+
 
 ## What is a Validator Profile?
 
