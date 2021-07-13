@@ -1,5 +1,5 @@
 ---
-Moniker: EZStaking.io | 0% 🚀 🌕
+Moniker: EZStaking.io
 Validator: terravaloper1vv4y54wczzk99ga65uvy7555n5q68gswcmdvj2
 Email: contact@ezstaking.io
 Twitter: @ezstaking
