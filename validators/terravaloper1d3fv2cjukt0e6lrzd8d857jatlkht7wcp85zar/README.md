@@ -11,5 +11,5 @@ _Cives lunares_ (Latin for &lsquo;lunar citizens&rsquo;) is a community validato
 
 ### Contact
 
-- Twitter: @larry0x
-- Telegram: @larry_0x
+- Twitter: [@larry0x](https://twitter.com/larry0x)
+- Telegram: [@larry_0x](https://t.me/larry_0x)
