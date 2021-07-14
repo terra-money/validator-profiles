@@ -1,7 +1,7 @@
 ---
 Moniker: Cives lunares
 Validator: terravaloper1d3fv2cjukt0e6lrzd8d857jatlkht7wcp85zar
-Email: 0x_larry@protonmail.com
+Email: lunarcitizens@protonmail.com
 Telegram: @larry_0x
 ---
 
@@ -11,5 +11,5 @@ _Cives lunares_ (Latin for &lsquo;lunar citizens&rsquo;) is a community validato
 
 ### Contact
 
-- Twitter: [@larry0x](https://twitter.com/larry0x)
+- Twitter: [@lunarcitizens](https://twitter.com/lunarcitizens)
 - Telegram: [@larry_0x](https://t.me/larry_0x)
