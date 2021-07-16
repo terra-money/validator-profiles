@@ -1,5 +1,5 @@
 ---
-Moniker: PegasusLabs
+Moniker: pegasus
 Validator: terravaloper1wdpwudvc639tpy952n2myre6uckuqdu3h9suke
 Email: support@pegasuslabs.com
 Twitter: @LabsPegasus
@@ -7,7 +7,7 @@ Twitter: @LabsPegasus
 
 <br>
 
-<img src="logo.jpg" width="300">
+<img src="logo.png" width="300">
 
 # Pegasus Labs
 
