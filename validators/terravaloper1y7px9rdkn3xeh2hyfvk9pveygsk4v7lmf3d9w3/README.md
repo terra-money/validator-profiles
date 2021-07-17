@@ -33,7 +33,7 @@ Operating our own cloud and racks in a Tier III datacenter, specifically chosen 
 
 Have questions? You can reach us:
 
-- Email: hello@chainofsecrets.org
+- Email: devops@chainofsecrets.org
 - Telegram: @chainofsecrets
 
 ### Website
