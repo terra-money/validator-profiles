@@ -7,7 +7,7 @@ Email: hello@chainofsecrets.org
 ## Chain of Secrets
 ![CHAINOFSECRETS](./logo.png)
 
-We are not just a validator, Chain of Secrets is a provider in affordable fully-compliant Intel SGX infrastructure to Blockchain Networks, Traditional Software Development Companies and Teams which require Enhanced Application Security through Intel SGX hardware. 
+Chain of Secrets isn't just a validator we are also providers in affordable fully-compliant Intel SGX infrastructure to Blockchain Networks, Traditional Software Development Companies and Teams which require Enhanced Application Security through Intel SGX hardware. 
 
 Chain of Secrets provides entire infrastructure bootstrapping from the ground up for all Intel SGX Blockchains in the world.
 
