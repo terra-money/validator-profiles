@@ -1,7 +1,9 @@
 ---
 Moniker: TERRA-FIRMA
 Validator: terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v
-Email: info@gobento.app
+Email: info@terra-firma.org
+Website: https://terra-firma.org
+Discord: TERRA-FIRMA#1857
 Twitter: @matthews8000
 ---
 
