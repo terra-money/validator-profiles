@@ -4,7 +4,7 @@ Validator: terravaloper1u7cfwp620pn8tjfth92t5dry3mhd3etc2utr94
 Telegram: @plant_crypto
 ---
 
-<img src="logo.jpg" width="300">)
+<img src="logo.png" width="300">)
 
 ## Crypto Plant
 
