@@ -1,6 +1,9 @@
 {
   "contact": {
-    "email": "colsa@colsa.com.ar",
-    "telegram": ""
-  }
+    "email": "chetti5@gmail.com",
+    "telegram": "@chetti5"
+  },
+  "notifications": {
+      "email": "chetti5@gmail.com"
+    }
 }
