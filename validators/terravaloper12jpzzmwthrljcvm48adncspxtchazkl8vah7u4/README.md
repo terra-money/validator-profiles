@@ -2,7 +2,7 @@
 Moniker: Synergy Nodes - Glory
 Validator: terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4
 Email: contact@synergynodes.com
-Telegram: https://t.me/SynergyNodesTerra
+Telegram: @SynergyNodesTerra
 Website: https://www.synergynodes.com
 ---
 
