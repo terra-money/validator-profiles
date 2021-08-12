@@ -6,7 +6,7 @@ Telegram: @SynergyNodesTerra
 Website: https://www.synergynodes.com
 ---
 
-# Synery Nodes - Glory
+# Synergy Nodes - Glory
 ![SynergyNodes](synergynodes.jpg)
 
 Synergy Nodes is operating a highly secure and stable Validator Node for Terra Blockchain named "Synergy Nodes - Glory". We provide core infrastructure support for Blockchains Protocols by operating Nodes on dedicated servers managed by experienced professionals. Also, we actively interact with the community and participate in governance.
