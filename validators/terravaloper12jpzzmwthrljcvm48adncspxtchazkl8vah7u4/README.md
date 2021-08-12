@@ -1,5 +1,5 @@
 ---
-Moniker: Synergy Nodes - Glory
+Moniker: SynergyNodes - Glory
 Validator: terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4
 Email: contact@synergynodes.com
 Telegram: @SynergyNodesTerra

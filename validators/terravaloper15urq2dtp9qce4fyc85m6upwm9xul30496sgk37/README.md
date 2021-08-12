@@ -2,7 +2,7 @@
 Moniker: Chorus One
 Validator: terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37
 Email: <hello@chorus.one>
-Telegram: @rflxvty
+Telegram: @FelixLts
 ---
 
 # Chorus One
