@@ -11,7 +11,7 @@ Website: https://blockngine.io
 
 ![blockngine](blockengine-full.png)
 
-0% Fee | Secure | Reliable validator backed by enterprise-grade infrastructure distributed across multiple regions and hardware providers.
+Low-fee premium validator with 100% money back slash protection; backed by enterprise-grade infrastructure distributed across multiple regions and hardware providers.
 
 ## Our Architecture
 
