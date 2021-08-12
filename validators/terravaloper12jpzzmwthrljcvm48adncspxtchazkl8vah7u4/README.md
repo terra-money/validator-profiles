@@ -3,12 +3,15 @@ Moniker: SynergyNodes - Glory
 Validator: terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4
 Email: contact@synergynodes.com
 Telegram: @SynergyNodesTerra
+Website: https://www.synergynodes.com
 ---
 
-# Synery Nodes
-![SynergyNodes](https://avatars1.githubusercontent.com/u/43811871?s=460&v=4)
+# Synergy Nodes - Glory
+![SynergyNodes](synergynodes.jpg)
 
-Synergy Nodes is operating a highly secure and stable Validator Node for Terra Blockchain. We provide core infrastructure support for Blockchains Protocols by operating Nodes on dedicated servers managed by experienced professionals.
+Synergy Nodes is operating a highly secure and stable Validator Node for Terra Blockchain named "Synergy Nodes - Glory". We provide core infrastructure support for Blockchains Protocols by operating Nodes on dedicated servers managed by experienced professionals. Also, we actively interact with the community and participate in governance.
+
+NOTE: Although, our validator server says the max commission will be 20%, we will never increase the max commission above 5%.
 
 ## Team
 
@@ -17,14 +20,10 @@ Synergy Nodes is operating a highly secure and stable Validator Node for Terra B
 | Aries        | Founder & Tech Lead         |
 | Peter        | Founder & Community Manager |
 
-
 ## Contact Us
 
-You can contact us through the following Channels.
+If you have any questions, you can reach us at:
 
-- Email: contact@synergynodes.com
 - Telegram: https://t.me/SynergyNodesTerra
-
-### Website
-
-- https://www.synergynodes.com
+- Email: contact@synergynodes.com
+- Website: https://www.synergynodes.com
