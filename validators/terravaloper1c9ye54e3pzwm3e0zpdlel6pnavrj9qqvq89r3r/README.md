@@ -34,8 +34,8 @@ We have a global presence with team members in Singapore, Japan and Vietnam.
 Security is of utmost importance to us. Check out our infrastructure topology at https://stakewith.us. 
 
 Read up about:
-i) our infrastructure architecture (https://medium.com/stakewithus/our-validation-architecture-and-learnings-at-stakewith-us-1876470ec908);
-ii) our HSM policies (https://medium.com/loom-network/hsm-policies-and-the-importance-of-validator-security-ec8a4cc1b6f).
+- our infrastructure architecture (https://medium.com/stakewithus/our-validation-architecture-and-learnings-at-stakewith-us-1876470ec908);
+- our HSM policies (https://medium.com/loom-network/hsm-policies-and-the-importance-of-validator-security-ec8a4cc1b6f).
 
 ### Socials
 
