@@ -8,7 +8,7 @@ Website: https://stakewith.us and https://unagii.com
 ---
 
 #
-![StakeWithUs](https://drive.google.com/file/d/1Qz9sujx69WYvuvposC6CVz25z0z4rNsA/view)
+![StakeWithUs](stakewith.us_darkoncolour.png)
 
 StakeWith.Us is a secure staking infrastructure provider that provide yielding solutions for crypto investors. We are backed by SGInnovate, Singapore government's Deep Tech Fund and LuneX Ventures, blockchain arm of Golden Gate Ventures.
 
@@ -37,15 +37,9 @@ Read up about:
 i) our infrastructure architecture (https://medium.com/stakewithus/our-validation-architecture-and-learnings-at-stakewith-us-1876470ec908);
 ii) our HSM policies (https://medium.com/loom-network/hsm-policies-and-the-importance-of-validator-security-ec8a4cc1b6f).
 
-## Ecosystem Contributions
-
-We are active members of the Terra community:
-i) We are very vocal about our voting decisions on Twitter;
-ii) We build, maintain and open-sourced our Terra Oracle Voter for everyone to use (https://medium.com/stakewithus/terra-oracle-voter-by-stakewith-us-d54a1321beb9).
-
 ### Socials
 
-Website - https://stakewith.us and https://unagii.com
-Twitter - https://twitter.com/stakewithus and https://twitter.com/unagiidotcom
-Telegram - https://t.me/unagiidotcom
-Email - earn@stakewith.us
+- Website - https://stakewith.us and https://unagii.com
+- Twitter - https://twitter.com/stakewithus and https://twitter.com/unagiidotcom
+- Telegram - https://t.me/unagiidotcom
+- Email - earn@stakewith.us
