@@ -29,8 +29,8 @@ Prometheus analytics, Prometheus node exporter, grafana and others script for DD
 
 ## Ecosystem Contributions
 
-We are active members of many tendermint based chain. We don’t abstain on governance proposal and actively discuss the tradeoff of each proposal for the networks we are validating. 
-Independent oracle server.
+Actives members of many tendermint based chain. We don’t abstain on governance proposal and discuss the tradeoff of each proposal for the networks we are validating. 
+We are using an independent oracle server.
 
 ## Contact Us
 
