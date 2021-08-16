@@ -17,9 +17,9 @@ We are small independent node-operator, that is very passionate and dedicated ab
 
 ## Team
 
-Our team consists of two, we have a good mix of knowledge that complete each other. We have extensive knowledge in system admin, networking,tokeneconomics and the blockchains we chose to validate. 
+Our team consists of two, we have a good mix of knowledge that complete each other. We have extensive knowledge in system admin, networking,security and the blockchains consensus systems we chose to validate. 
 
-You can be sure we are dedicated to Terra as we are genesis validators and securing the votes and the network is our highest priority. 
+You can be sure we are dedicated to Terra, as we are genesis validators. Securing the votes and the network is our highest priority. 
 
 ## Contact Us
 
