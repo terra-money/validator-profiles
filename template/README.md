@@ -24,7 +24,7 @@ Wave is a team of 3 engineers structured arround a Dev Ops, a BackEnd Engineer a
 
 ## Our Architecture
 
-We are sticking to the best practice with Sentries → relay nodes → validator → HSM. Our main infra is deployed in Google Cloud, our backup infra is using OVH.
+We are sticking to the best practice with Sentries → relay nodes → validator → HSM. Our main infra is deployed in Google Cloud, our backup infra is OVH.
 Prometheus analytics, Prometheus node exporter, grafana and others script for DDOS mitigation and reporting tools.
 
 ## Ecosystem Contributions
