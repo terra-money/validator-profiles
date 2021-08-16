@@ -1,26 +1,27 @@
 ---
-Moniker: <moniker>
-Validator: <validator-address>
-Email: <your-email>
-Telegram: @your_telegram_handle
+Moniker: wave
+Validator: terravaloper1hqzf3tnw0py69xd5swwr3c7tqcumwjzdzqca7l
+Email: nionocto@gmail.com
+Telegram: @WaveWays
+Website: https://bity.hns.to/
 ---
 
-NOTE: This is just an example of what your profile page can look like!
-  
  ![wavelogo](wavelogo.png)
  
 # <moniker> 
 
-A brief description about your validator (philosophy, structure, goals, etc...)
+Wave is a team of 3 engineers structured arround a Dev Ops, a BackEnd Engineer and a Tech lead. Our focus is on tendermint-based chains. 
 
 ## Team
 
-Our team is small but posesses deep experience and breadth of knowledge about Terran security.
+Wave is a team of 3 engineers structured arround a Dev Ops, a BackEnd Engineer and a Tech lead. We believe that the anonymity is stronger and more resilient than the reputation in many aspects of the blockchain world.
 
-| Name            | Role    | Description                  |
-| --------------- | ------- | ---------------------------- |
-| Jim Raynor      | Founder | Former Terran turned Rebel   |
-| Joseph Reynolds | CTO     | Member of Moebius Foundation |
+
+| Name            | Role    | 
+| --------------- | ------- | 
+| Abef            | CTO     | 
+| Maxime S.       | DevOps  | 
+| Matthieu M.     | Backend | 
 
 ## Our Architecture
 
