@@ -2,39 +2,30 @@
 Moniker: Staker Space
 Validator: terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7
 Email: hello@staker.space
-Telegram: @gnossienli   
+Telegram: https://t.me/staker_space
+Twitter: @StakerSpace
+Website: https://staker.space
 ---
 
 
 # Staker Space
 ![Staker Space](https://avatars1.githubusercontent.com/u/48808256?s=400&u=e71ab61c6bba4f73cf44237b50383e8b82e3c4e6&v=4)
 
-Staker Space started as hobby with one PoS project and turned into a operation over time. We are interested in how all different blockchains will live on and root in society. Validating is just one piece of the puzzle in that. 
+Staker Space started as hobby with one PoS network and turned into a operation over time. We are interested in how all different blockchains will live on and root in society. Validating is just one piece of the puzzle in the bigger picture and we are here to do it right!
 
-Staker Space wants to expand the pieces from validating to developing solutions, not only on Terra but on Web3 in general. 
+By now we are small independent node-operator, that is very passionate and dedicated about supporting open networks to secure the future of the decentralized systems.
 
 ## Team
 
-Our team is 1-member strong but has deep interests in blockchains.
+Our team consists of two, we have a good mix of knowledge that complete each other. We have extensive knowledge in system admin, networking,tokeneconomics and the blockchains we chose to validate on.
 
-| Name            | Role    | Description                  |
-| --------------- | ------- | ---------------------------- |
-| Ilhan    | Founder / Only operator | Former Dutch turned Rebel   |
-
-## Our Architecture
-
-Our validator is on a bare-metal and is running redundant VPS in case of maintenance. 
-
-All nodes have 24/7 monitoring, alerting, and analytics, including the oracle voting node. 
+You can be sure we we are dedicated to the networks and securing the votes and the network is our highest priority. 
 
 ## Contact Us
 
 Have questions? You can reach us:
 
 - Email: hello@staker.space
-- Telegram: @gnossienli
-
-
-### Website
-
-https://staker.space
+- Telegram: https://t.me/staker_space
+- Website: https://staker.space
+- Twitter: @StakerSpace
