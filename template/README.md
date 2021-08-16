@@ -7,7 +7,7 @@ Telegram: @your_telegram_handle
 
 NOTE: This is just an example of what your profile page can look like!
   
- ![wavelogo](wavelogo.jpg)
+ ![wavelogo](wavelogo.jnp)
  
 # <moniker> 
 
