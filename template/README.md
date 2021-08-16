@@ -7,7 +7,9 @@ Telegram: @your_telegram_handle
 
 NOTE: This is just an example of what your profile page can look like!
 
-# <moniker>
+ (wavelogo.png)
+  
+# <moniker> 
 
 A brief description about your validator (philosophy, structure, goals, etc...)
 
