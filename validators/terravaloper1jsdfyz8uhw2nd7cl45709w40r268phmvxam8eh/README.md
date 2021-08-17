@@ -1,15 +1,15 @@
 ---
-Moniker: terra.bi23
+Moniker: Bi23 Labs
 Validator: terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh
 Email: support@bi23.com
 Twitter: @bi23com
 ---
 
-# terra.bi23
+# Bi23 Labs
 
 Bi23 Labs is a trusted POS infrastructure provider and validator to comfortably stake your coins and earn rewards.
 
-### Our Team
+### Team
 
 Bi23 team is located in Toronto, Canada and Beijing, China. we currently has 12 members, of which 9 are technology, 3 are products & markets, all have rich experience in blockchain and crypto assets.  Not only we had developed DAPPs independently ,but also we are the active validators of some POS projects. 
 
