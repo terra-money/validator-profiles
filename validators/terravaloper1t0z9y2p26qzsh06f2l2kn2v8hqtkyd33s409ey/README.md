@@ -6,7 +6,7 @@ Twitter: @stake5labs
 Website: https://www.stake5labs.com
 ---
 
-![stake5lbas](stake5labs.png)
+![stake5lbas](./stake5labs.png)
 
 Stake5 Labs (S5) was established in 2019, focusing on the technical research of blockchain. The earliest result is the research on the Bitcoin Lightning Network, and more attention is currently being paid to the two directions of some PoS networks and Ethereum Layer 2.
 
