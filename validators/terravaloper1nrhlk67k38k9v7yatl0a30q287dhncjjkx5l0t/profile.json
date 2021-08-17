@@ -1,0 +1,9 @@
+{
+  "contact": { 
+      "email": "contact@feel-mining.com",
+      "twitter": "https://twitter.com/FeelMining"
+  },
+  "notifications": { 
+      "email": "admin_sys@feel-mining.com" 
+  }
+}
