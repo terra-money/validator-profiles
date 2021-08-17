@@ -29,7 +29,7 @@ We have a primary validation node and a backup validation node located in two di
 Have questions? You can reach us:
 
 Email: support@bi23.com<br/>
-Telegram: https://telegram.me/Bi23Labs
+Telegram: https://telegram.me/Bi23Labs<br/>
 Twitter: https://twitter.com/bi23com<br/>
 Website: https://bi23.com/
 
