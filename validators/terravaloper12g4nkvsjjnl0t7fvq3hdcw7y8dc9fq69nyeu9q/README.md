@@ -1,30 +1,37 @@
 ---
-Moniker: Pete's Fan Club
+Moniker: PFC
 Validator: terravaloper12g4nkvsjjnl0t7fvq3hdcw7y8dc9fq69nyeu9q
-Email: petes-fan-club@protonmail.com
-Twitter: @ClubPetes
-Telegram: @petes_fan_club   
+Email: PFC-Validator@protonmail.com
+Twitter: @PFC_Validator
+Telegram: @PFC_Validator   
 ---
 
 
-# Pete's Fan club
-![Pete's Fan Club](https://avatars.githubusercontent.com/u/81114960?s=400&u=f5ca8d8a320cabe56b1450f0fcefaddcf27007e9&v=4)
+# PFC
+![PFC](https://avatars.githubusercontent.com/u/81114960?s=400&u=f5ca8d8a320cabe56b1450f0fcefaddcf27007e9&v=4)
 
-This one goes out to the Pete's everywhere. Pete is the guy who told me about Luna.
+This one goes out to the People who told us about Terra everywhere. 
+Pete is the guy who told me.
+
+We started this validator to give back to the community, and to make it easier to 
+
+ 1. run a validator
+
+ 2. get shit done on Terra. 
 
 ## Team
 We believe in the anonymity and deregulated aspects that blockchains bring to the world. 
 
 ## Our Architecture
 
-Our validator is on a bare-metal, running on modern hardware, and constantly being monitored.
+Our validator is hosted on Google Cloud, and we provide scripts and tooling that we use to help everyone.
 
 ## Contact Us
 
 Have questions? You can reach us:
 
-- Email: petes-fan-club@protonmail.com
+- Email: pfc-validator@protonmail.com
 
 ### Website
 
-[Pete's Fan club GH repo](https://github.com/petes-fan-club/) 
+[PFC](https://pfc-validator.github.io/) 

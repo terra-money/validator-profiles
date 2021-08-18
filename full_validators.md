@@ -45,6 +45,7 @@
 | Terraforming | [Profile](./validators/terravaloper1hg70rkal5d86fl57k0gc7de0rrk4klgs59r7jc) | [Station Page](https://station.terra.money/validator/terravaloper1hg70rkal5d86fl57k0gc7de0rrk4klgs59r7jc) |
 | Staked | [Profile](./validators/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) | [Station Page](https://station.terra.money/validator/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) |
 | StakeWith.Us | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
+| Terra Bull | [Profile](./validators/terravaloper1j747dvwyg0kk9ltrz5ux443lhzzq5tgdpsa7qw) | [Station Page](https://station.terra.money/validator/terravaloper1j747dvwyg0kk9ltrz5ux443lhzzq5tgdpsa7qw) |
 | Arrington XRP Capital | [Profile](./validators/terravaloper1c6gve6zhye5690563wxmvns7mugz6plu4aj7d3) | [Station Page](https://station.terra.money/validator/terravaloper1c6gve6zhye5690563wxmvns7mugz6plu4aj7d3) |
 | Fair Square Lab | [Profile](./validators/terravaloper1cac2mcf2eszn9ln3fx4heym6kd363zqfelxrmr) | [Station Page](https://station.terra.money/validator/terravaloper1cac2mcf2eszn9ln3fx4heym6kd363zqfelxrmr) |
 | Wraith | [Profile](./validators/terravaloper1eutun6vh83lmyq0wmyf9vgghvurze2xanl9sq6) | [Station Page](https://station.terra.money/validator/terravaloper1eutun6vh83lmyq0wmyf9vgghvurze2xanl9sq6) |

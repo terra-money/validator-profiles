@@ -2,33 +2,31 @@
 Moniker: Terra-India
 Validator: terravaloper19ne0aqltndwxl0n32zyuglp2z8mm3nu0gxpfaw
 Email: contact@terraindia.info
+Telegram: https://t.me/TerraIndia
+Twitter: @Terra__India
+Website: https://www.terraindia.info
 ---
 
 # Terra India
 ![TerraIndia](./logo.png)
 
-We'd love to host a Terra full-node validator close to home, in India. We have publicly hosted rpc & lcd endpoints so that apps and developers can connect to it
-
-- RPC - tcp://in.terra.stakebin.com:26657
-- LCD - https://in.terra.stakebin.com
+We'd love to host a Terra full-node validator close to home, in India
 
 ## Our Architecture
 
-We use multiple containers and hardened images to safeguard the validator and other components. Public RPC and LCD endpoints are behind a load-balancer
+We use multiple containers and hardened images to safeguard the validator and other components
 
 ## Ecosystem Contributions
 
-We will be working towards it
+We plan to contribute towards terra ecosystem
 
-- 0% Commission
-- Host public rpc & lcd endpoints
+- Minor contributions towards oracle-feeder
 
 ## Contact Us
 
 Have questions? You can reach us:
 
+- Telegram: https://t.me/TerraIndia
+- Twitter: https://twitter.com/Terra__India
 - Email: contact@terraindia.info
-
-### Website
-
-https://www.terraindia.info
+- Website: https://www.terraindia.info
