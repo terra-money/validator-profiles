@@ -1,6 +1,9 @@
 {
     "contact": {
         "email": "david@blockstake.xyz",
-        "twitter": "https://twitter.com/blockstake_xyz"
+        "telegram": "https://t.me/blockstake_xyz"
+    },
+    "notifications": {
+        "email": "david@blockstake.xyz"
     }
 }

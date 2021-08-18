@@ -2,10 +2,12 @@
 Moniker: BlockStake.xyz
 Validator: terravaloper12x0uekrjre057h0vyrf9w8mkz6paf32qvn0q84
 Email: david@blockstake.xyz
+Telegram: https://t.me/blockstake_xyz
 Twitter: @blockstake_xyz
 Website: https://www.blockstake.xyz/
 ---
 
+![BlockStake](blockstakexyz.png)
 
 # BlockStake.xyz 
 A premier validator partner specializing in tendermint-based chains. 
