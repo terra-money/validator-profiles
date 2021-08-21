@@ -2,10 +2,11 @@
 Moniker: Cosmic Validator
 Validator: terravaloper1smkgwm78aqf0ja3qvtqwngzczpcekudvtluv9q
 Email: info@cosmicvalidator.com
-Telegram: https://t.me/CosmicValidator
-Twitter: https://twitter.com/CosmicValidator
+Telegram: @CosmicValidator
+Twitter: @CosmicValidator
 Website: https://cosmicvalidator.com
 ---
+
 
 ![Cosmic Validator](CosmicValidator.jpg)
 
