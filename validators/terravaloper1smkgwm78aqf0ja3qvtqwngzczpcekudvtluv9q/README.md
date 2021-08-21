@@ -4,11 +4,12 @@ Validator: terravaloper1smkgwm78aqf0ja3qvtqwngzczpcekudvtluv9q
 Email: info@cosmicvalidator.com
 Telegram: https://t.me/CosmicValidator
 Twitter: https://twitter.com/CosmicValidator
-Website: https://cosmicvalidator.com/
+Website: https://cosmicvalidator.com
 ---
 
 ![Cosmic Validator](CosmicValidator.jpg)
 
+## Cosmic Validator
 A staking service provider with a focus on the Cosmos ecosystem. We were selected recently by Tendermint as a top validator contributor to Cosmos and we received a large atom delegation from Tendermint to reward our efforts and our secure and proven staking infrastructure.
 We focus on providing a 100% uptime and security to maximize the rewards for our delegators. In addition, we offer excellent customer service with live support via our fast-growing telegram community.
 
