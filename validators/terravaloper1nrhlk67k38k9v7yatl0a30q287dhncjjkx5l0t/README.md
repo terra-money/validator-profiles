@@ -8,7 +8,7 @@ Twitter: @FeelMining
 
 # Feel Mining
 
-<img src="logo-feel-mining-blanc-png.png" />
+<img src="https://feel-mining.com/images/branding/bandeau-728x90.jpg" />
 
 Selling investment solutions in the field of blockchain and cryptocurrencies. Feel Mining is a french company, born in the alps in 2018.
 
