@@ -11,7 +11,7 @@ Website: https://dex.trace.link
 
 DexTrac is a multichain node operator that provides a high level of quality and reliability.
 We have a track record of working with core engineers in testing and documenting software.
-While we do have some serivers in various clouds, mission critical infrastructure is in private racks in highly secure data centers around the world.
+While we do have some servers in various clouds, mission critical infrastructure is in private racks in highly secure data centers around the world.
 
 ## Team
 The DexTrac team is made up of individuals with extensive experience in security, networking, and blockchain infrastructure.
