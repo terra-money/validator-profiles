@@ -1,6 +1,7 @@
 ---
 Moniker: Heavy Metal Finland
 Validator: terravaloper1xetqge5kmatfk6223hcfgf8z3tnukmjhrewxru
+Email: olli@sikstus.com
 Website: https://heavymetalfinland.sikstus.com/
 ---
 
