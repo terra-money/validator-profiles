@@ -3,13 +3,17 @@
 Moniker: Neptune Finance  
 Email: info@neptunefinance.org  
 Twitter: https://twitter.com/neptune_finance  
-Discord: https://discord.gg/QC3xbhn6  
+Discord: https://discord.gg/SdghPJea  
 Medium: https://neptunefinance.medium.com/  
 ---
 
 ![Neptune](neptune_logo.png =100x)
 
-Neptune Finance is an on-chain, collateralised loan-based, algorithmically balanced, automated yield farmer, which utilises the backend of the Anchor protocol to leverage provided bAsset collateral and use the UST loan in a variety of yield farming strategies. 
+## Ecosystem Contribution
+
+Neptune Finance is a leveraged yield farming platform with built in automated algorithmic liquidation protection. Spreading liquidity throughout the Terra ecosystem and bringing back yields to the users.  
+
+Neptune, in part, is focused on improving the network performance of the Terra blockchain by providing a reliable validator node for transaction confirmation, developing monitoring software to keep checks on the health of the network and deploying transactions nodes to expand the performance and decentralisation of the network.
 
 ## Use of funds
 
@@ -22,3 +26,5 @@ Have questions? You can reach us:
 
 - Email: info@neptunefinance.org  
 - Discord: https://discord.gg/SdghPJea  
+
+
