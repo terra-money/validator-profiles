@@ -4,7 +4,7 @@ Moniker: Neptune Finance
 Validator: terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk
 Email: info@neptunefinance.org  
 Twitter: https://twitter.com/neptune_finance  
-Discord: https://discord.gg/SdghPJea  
+Discord: https://discord.gg/bh8nFtcf5d  
 Medium: https://neptunefinance.medium.com/  
 ---
 
