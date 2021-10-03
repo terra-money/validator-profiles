@@ -3,6 +3,7 @@ Moniker: lambdacore
 Validator: terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky
 Email: info@lambdacore.finance
 Discord: @russel-vivier
+Telegram: @rvivier
 ---
 
 # 🚀 Lambda Core
@@ -33,4 +34,5 @@ Have questions? You can reach us:
 
 - Email: [`info@lambdacore.finance`](mailto:info@lambdacore.finance)
 - Discord: `@russel-vivier` (find us in [Terra](https://discord.gg/ftBEBurm) and [Terra Validators](https://discord.gg/TxsE6ryh) discord rooms)
+- Telegram: [`@rvivier`](https://t.me/rvivier)
 - Website: http://lambdacore.finance/
