@@ -24,6 +24,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | DokiaCapital          | [Profile](./validators/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1v5hrqlv8dqgzvy0pwzqzg0gxy899rm4kdur03x) |
 | DSRV - CHAISCAN.com   | [Profile](./validators/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64/README.md) | [Station Page](https://station.terra.money/validator/terravaloper175hhkyxmkp8hf2zrzka7cnn7lk6mudtv4uuu64) |
 | Easy 2 Stake          | [Profile](./validators/terravaloper1d0vfj9zvxfgcm4yt4ze4u35mvhj57eg2ku2ekv/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1d0vfj9zvxfgcm4yt4ze4u35mvhj57eg2ku2ekv) |
+| EZStaking.io.         | [Profile](./validators/terravaloper1vv4y54wczzk99ga65uvy7555n5q68gswcmdvj2/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vv4y54wczzk99ga65uvy7555n5q68gswcmdvj2) |
 | Figment Networks      | [Profile](./validators/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw) |
 | Forbole               | [Profile](./validators/terravaloper1jkqr2vfg4krfd4zwmsf7elfj07cjuzss30ux8g/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1jkqr2vfg4krfd4zwmsf7elfj07cjuzss30ux8g) |
 | FRESHLUNA             | [Profile](./validators/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1audgfvmgt0js54p3s8kj3r40uwej6vy2tv6rrw) |
@@ -32,6 +33,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | HuobiPool             | [Profile](./validators/terravaloper12kfeqrflptmlz5qj8agrm2ze6dzss3crm7uevf/README.md) | [Station Page](https://station.terra.money/validator/terravaloper12kfeqrflptmlz5qj8agrm2ze6dzss3crm7uevf) |
 | InfStones             | [Profile](./validators/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy) |
 | kytzu                 | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
+| 🚀 Lambda Core       | [Profile](./validators/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) |
 | MissionControl        | [Profile](./validators/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) |
 | Marte Cloud           | [Profile](./validators/terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk) |
 | Masternode24.de       | [Profile](./validators/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu/README.md) | [Station Page](https://station.terra.money/validator/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu) |
@@ -64,7 +66,6 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Terran One            | [Profile](./validators/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) |
 | Terran Stakers        | [Profile](./validators/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427) |
 | TERRA-FIRMA           | [Profile](./validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v) |
-| EZStaking.io.         | [Profile](./validators/terravaloper1vv4y54wczzk99ga65uvy7555n5q68gswcmdvj2/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vv4y54wczzk99ga65uvy7555n5q68gswcmdvj2) |
 
 
 ## What is a Validator Profile?
