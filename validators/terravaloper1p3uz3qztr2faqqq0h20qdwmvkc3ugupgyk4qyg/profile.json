@@ -1,0 +1,11 @@
+{
+  "contact": {
+    "email": "decentralizehk@protonmail.com",
+    "website": "https://decentralizehk.org/",
+    "telegram": "https://t.me/decentralizehk",
+    "twitter": "https://twitter.com/decentralizehk"
+  },
+    "notifications": { // notification settings
+        "email": "decentralizehk@protonmail.com" // email to receive notifications
+    }
+}
