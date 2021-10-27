@@ -15,6 +15,7 @@ Community
 
 
 We are making growth the french speakers Cosmos Community.
+
 You can join us on: https://t.me/CosmosFrance
 
 
