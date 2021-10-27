@@ -1,4 +1,4 @@
-<center>![StakeLab](./logo.png)</center>
+![StakeLab](./logo.png)
 
 Staking Hub for Cosmos ecosystem
  
