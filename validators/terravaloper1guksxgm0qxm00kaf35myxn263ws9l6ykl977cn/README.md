@@ -2,7 +2,7 @@
 Moniker: Pillow Staking - No commission
 Validator: terravaloper1guksxgm0qxm00kaf35myxn263ws9l6ykl977cn
 Email: info.terra@pillow.network
-Telegram: @pillownetworkterra
+Telegram: @pillowstaking
 ---
 
 # Pillow Network
@@ -38,7 +38,7 @@ We are active members of the Terra community and work on ecosystem tools.
 Have questions? You can reach us:
 
 - Email: info.terra@pillow.network
-- Telegram: [Official Channel](https://t.me/caronteterrastaking)
+- Telegram: [Official Channel](https://t.me/pillowstaking)
 - Discord: [Official Server](https://discord.gg/UJbQpD8K)
 
 
