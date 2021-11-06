@@ -31,7 +31,6 @@ We are active members of the Terra community and work on ecosystem tools.
 
 - Oracle validator software
 - 0% Commission
-- Moderator status on Terra discord
 
 ## Contact Us
 
@@ -44,4 +43,4 @@ Have questions? You can reach us:
 
 ### Website
 
-[Website Caronte Staking](https://carontestaking.com)
+[Website Pillow Staking](https://terra.pillow.network)
