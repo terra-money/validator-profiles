@@ -11,8 +11,8 @@ Website: https://masternode24.de
 ## About 
 Commonwealth of Independent States - Terra Supporters !
 
-Membership :
-12 States — Russia, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan
+## Membership
+Russia, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan
 
 ## Team
 
