@@ -7,13 +7,12 @@ Telegram: @masternode24.de
 Website: https://masternode24.de
 ---
 
-<p align="center">
-  <img src="https://github.com/Masternode24/validator-profiles/raw/masternode24/validators/terravaloper13307pxehvt0qply3kw9vk578u4az0u4mu9eef4/logo.png">
-</p>
-<p align="center">
-We are a validator, node operator, and service provider in Web 3.0.<br>
 
-</p>
+## About 
+Commonwealth of Independent States - Terra Supporters !
+
+Membership :
+12 States — Russia, Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan
 
 ## Team
 
