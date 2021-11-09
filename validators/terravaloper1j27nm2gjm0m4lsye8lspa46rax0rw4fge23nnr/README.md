@@ -1,10 +1,10 @@
+![LunaStation88](luna-station-88.jpg)
+
 ---
 Moniker: Luna Station 88
 Validator: terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr 
 ---
 # Luna Station 88
-
-![LunaStation88](luna-station-88.jpg)
 
 Luna Station 88 is the independent blockchain infrastructure provider.
 We started in 2017 with Ethereum mining, but in 2021 we completely switched to the bright side - proof of stake (PoS) validation, which is the most promising and green blockchain technology.
@@ -32,11 +32,9 @@ Github: https://github.com/Luna-Station-88
 
 Have questions? You can reach us via:
 
-Telegram: https://t.me/lunastationtalks
-
-Twitter: https://twitter.com/LunaStation88
-
-Discord: https://discord.gg/HY6G5BaK28
+- Telegram: https://t.me/lunastationtalks
+- Twitter: https://twitter.com/LunaStation88
+- Discord: https://discord.gg/HY6G5BaK28
 
 ### Website
 
