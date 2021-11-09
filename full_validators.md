@@ -63,3 +63,4 @@
 | setten.io               | [Profile](./validators/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) | [Station Page](https://station.terra.money/validator/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) |
 | Neptune Finance         | [Profile](./validators/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk) | [Station Page](https://station.terra.money/validator/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk) |
 | 🚀 Lambda Core         | [Profile](./validators/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) | [Station Page](https://station.terra.money/validator/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) |
+| Luna Station 88        | [Profile](./validators/terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr) | [Station Page](https://station.terra.money/validator/terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr) |
