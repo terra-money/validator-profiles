@@ -31,8 +31,11 @@ Github: https://github.com/Luna-Station-88
 ## Contact Us
 
 Have questions? You can reach us via:
+
 Telegram: https://t.me/lunastationtalks
+
 Twitter: https://twitter.com/LunaStation88
+
 Discord: https://discord.gg/HY6G5BaK28
 
 ### Website
