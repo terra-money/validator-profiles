@@ -1,9 +1,9 @@
-![LunaStation88](luna-station-88.jpg)
-
 ---
 Moniker: Luna Station 88
 Validator: terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr 
 ---
+
+![LunaStation88](luna-station-88.jpg)
 
 # Luna Station 88
 
