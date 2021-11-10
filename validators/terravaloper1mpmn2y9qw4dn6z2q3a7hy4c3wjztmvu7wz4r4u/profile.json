@@ -1,0 +1,10 @@
+{
+    "contact": { // contact info for delegators / outreach
+        "twitter": "thormaximalist",
+        "email": "d5sammy5@gmail.com",
+        "Discord": "@D5 Sammy"
+    },
+    "notifications": { // notification settings
+        "email": "d5sammy5@gmail.com" // email to receive notifications
+    }
+}
