@@ -1,6 +1,9 @@
 {
   "contact": {
-    "email": "hello@chorus.one",
-    "telegram": "@rflxvty"
+    "email": "support@chorus.one",
+    "telegram": "https://t.me/ChorusOne"
+  },
+  "notifications": {
+    "email": "techops@chorus.one"
   }
 }

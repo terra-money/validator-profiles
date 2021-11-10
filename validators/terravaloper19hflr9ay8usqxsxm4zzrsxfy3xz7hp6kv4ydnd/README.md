@@ -1,13 +1,13 @@
 ---
 Moniker: Orbital Command
 Validator: terravaloper19hflr9ay8usqxsxm4zzrsxfy3xz7hp6kv4ydnd
-Email: Orbital_Command1@protonmail.com
+Email: ocvalidator@gmail.com
 Telegram: https://t.me/orbitalcommand
 Twitter: @Orbital_Command
-Website: https://orbitalcommandvalidator.com/
+Website: https://orbitalcommand.io/
 ---
 
-![OrbitalCommand](orbitalcommand.jpg)
+![OrbitalCommand](logo.png)
 
 Orbital command is a staking validator that is dedicated solely to the Luna ecosystem. We are a validator that is FOR the community and BY the community. 
 
@@ -24,5 +24,5 @@ Have questions? You can reach us:
 
 - Telegram: https://t.me/orbitalcommand
 - Twitter: @Orbital_Command
-- Email: Orbital_Command1@protonmail.com
-- Website: https://orbitalcommandvalidator.com/
+- Email: ocvalidator@gmail.com
+- Website: https://orbitalcommand.io/
