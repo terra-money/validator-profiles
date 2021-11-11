@@ -6,11 +6,22 @@ Twitter: https://twitter.com/aurastake
 ---
 
 # Aura Stake
+
 ![Aura Stake](aurastake.png)
 
-Enriching the Terra ecosystem as a validator and more.
+> Making DeFi accessible.
 
 ## Website
 
 https://www.aurastake.com
 
+## Contact Us
+
+We can be reached at the following:
+
+- Twitter: [@aurastake](https://twitter.com/aurastake)
+- Email: admin@aurastake.com
+
+To join our community:
+
+- Telegram: https://t.me/aurastake
