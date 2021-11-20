@@ -105,13 +105,14 @@ git commit -m "Edit Wraith profile"
 git push origin Wraith-profile
 ```
 
-7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes.
+7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes. Name your PR with your validator moniker, and identify whether it is a "New Profile" or an "Edit to Existing Profile"
 
 8. We will review your PR as soon as possible. If there is no problem with your PR, we will merge it into our master branch, which will update your Validator Profile. If it is your first time creating a profile, we will add your entry to the [Validator Directory](#validator-directory).
 
 ### profile.json
 
 Registered validators (validators who have submitted a profile) can opt-in to receive support from Terra by putting their contact information in `profile.json`. Terra provides various validator-support such as automatic notifications when your validator is missing blocks or oracle votes.
+
 
 ```javascript
 {
@@ -124,3 +125,6 @@ Registered validators (validators who have submitted a profile) can opt-in to re
     }
 }
 ```
+
+### Terra Station Checkmark/ Inclusion in Asset Repo
+A complete profile including Terravaloper, and an email in the profile.json section must be submitted to receive a checkmark in terra station. New profiles are manually reviewed by the repo owner, and then a second reviewer must approve addition to the Station Assets Repo. This is the final step in a complete profile.
