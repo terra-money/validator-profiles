@@ -1,9 +1,9 @@
 {
   "contact": {
     "email": "info@ccvalidators.com",
-    "telegram": "@clemensg",
-    "notifications": { 
+    "telegram": "@clemensg"
+  },
+  "notifications": { 
       "email": "cs@ccvalidators.com"
-    }
   }
 }
