@@ -1,18 +1,24 @@
-  ---
+---
 Moniker: CAPAPULT
 Validator: terra1wqcc5g3k3mqg96pgvemzstmhkf42lt835gq8n7
 Email: validator@capapult.finance
 Telegram: @daniel_eliasson
 ---
 
+<img src="https://www.capapult.se/logo.png" width="100" height="100" />
 
-# <moniker>
+# CAPAPULT
 
-We are about to change the world of financial savings forever. - Scandinavia powered by @terra_money
+[capapult.se](https://capapult.se) \
+High Yield savings app for the Scandinavian Countries! 
+
+[capapult.finance](https://capapult.finance) \
+Capapult Validator, Stable and reliable.
+Don’t miss out on Capapult Lottery! 100% back to delegators.
+
+> 5% commissions
 
 ## Team
-
-CAPAPULT
 
 | Name                | Role      | Description                    |
 | ---------------     | -------   | -------------------------------|
@@ -21,9 +27,6 @@ CAPAPULT
 | Alessandro Candeago | Developer |                                |
 | Bruno Janvier       | Developer |                                |
 
-
-- 0% Commission
-
 ## Contact Us
 
 Have questions? You can reach us:
@@ -31,6 +34,6 @@ Have questions? You can reach us:
 - Email: validator@capapult.finance
 - Telegram: @daniel_eliasson
 
-### Website
-
+### Websites
+https://capapult.se \
 https://capapult.finance
