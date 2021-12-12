@@ -12,7 +12,7 @@ Website: https://www.westaking.io
 
 ## Our Architecture
 
-We are running validator nodes on various blockchains.
+We are running validator nodes on various blockchains.<br>
 It consists of Senty Architecture, and Validator and Sentry nodes are deployed to Data Center and Cloud.
 
 The core member is one, but we have two backups for unexpected situations.
