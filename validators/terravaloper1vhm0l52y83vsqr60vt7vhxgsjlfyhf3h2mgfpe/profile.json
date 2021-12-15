@@ -1,9 +1,9 @@
 {
-    "contact": { // contact info for delegators / outreach
+    "contact": { 
         "email": "info@tavis-digital.com",
         "telegram": "@tavisdigital"
     },
-    "notifications": { // notification settings
-        "email": "info@tavis-digital.com" // email to receive notifications
+    "notifications": { 
+        "email": "info@tavis-digital.com" 
     }
 }
