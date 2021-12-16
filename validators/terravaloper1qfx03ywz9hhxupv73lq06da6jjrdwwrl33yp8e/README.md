@@ -8,7 +8,7 @@ Telegram: @ugaenn
 
 # uGaenn
 
-![uGaenn Logo](./ugaenn_logo.png)
+![uGaenn Logo](./ugaenn_banner.png)
 
 uGaenn is a blockchain-focused company and validation nodes and signal data service provider.
 
