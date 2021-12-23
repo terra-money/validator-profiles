@@ -2,7 +2,7 @@
 Moniker: ATEAM
 Validator: terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp
 Email: contact@nodeateam.com
-Telegram: @jeelimm
+Telegram: @Rayjk126
 ---
 
 <img src="https://github.com/node-a-team/validator-profiles/blob/master/validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp/logo.png" width="20%"></img>  
@@ -26,8 +26,9 @@ Placing delegators' interests and long-term growth of Proof of Stake networks as
 | Name            | Role                                 |
 | --------------- | ------------------------------------ |
 | Michael Kim     | CEO                                  |
-| Jinmyung Kim    | SE & Node Operations                 |
-| Jeeuk Lim       | Internal Operations & Communications |
+| Jungmin Kim     | Internal Operations & Communications |
+| Chaeeun Min     | SE & Node Operations                 |
+| Changjin Hwang  | SE & Node Operations                 |
 
 
 ## Our Architecture
