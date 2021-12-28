@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "email": "info@bridgetowercapital.com",
+    "twitter": "https://twitter.com/BridgeTowerCap"
+  }
+}
+
+{
+    "contact": { // contact info for delegators / outreach
+        "email": "info@bridgetowercapital.com",
+	"twitter": "https://twitter.com/BridgeTowerCap"
+    },
+    "notifications": { // notification settings
+        "email": "tech@bridgetowercapital.com" // email to receive notifications
+    }
+}
