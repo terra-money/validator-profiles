@@ -1,1 +1,11 @@
-a
+{
+  "contact": {
+    "email": "securite@stakelab.fr",
+    "telegram": "https://t.me/stakelab_fr"
+    "twitter": "@StakeLab",
+    "website": "https://www.stakelab.fr"
+  },
+  "notifications": {
+    "discord": "Zdeadex#3976"
+  }
+}
