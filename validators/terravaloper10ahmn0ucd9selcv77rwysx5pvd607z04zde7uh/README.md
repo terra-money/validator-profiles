@@ -20,4 +20,5 @@ Staking Hub for Cosmos ecosystem
 The team is based in France and provide content for the Cosmos France community.
 <br>
 Telegram: https://t.me/CosmosFrance
+<br>
 Medium: https://medium.com/@stakelab
