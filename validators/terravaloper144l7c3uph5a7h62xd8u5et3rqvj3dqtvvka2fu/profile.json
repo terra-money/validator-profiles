@@ -1,6 +1,9 @@
 {
-  "contact": {
-    "email": "",
-    "telegram": ""
-  }
+    "contact": {
+        "email": "dmitry@p2p.org",
+        "telegram": "@dmiarg"
+    },
+    "notifications": {
+        "email": "alexey.z@p2p.org"
+    }
 }
