@@ -18,7 +18,7 @@ Get notified of potential risks: @TerraWatchdog
 Guardrails for building fast with Certainty! 
 
 
-SCV is a project incubated by ![Terran.one](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) in a partnership with ![unl1k3ly](https://twitter.com/unl1k3ly).
+SCV is a project incubated by [Terran.one](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) in a partnership with [unl1k3ly](https://twitter.com/unl1k3ly).
 
 
 ## Contact Us
