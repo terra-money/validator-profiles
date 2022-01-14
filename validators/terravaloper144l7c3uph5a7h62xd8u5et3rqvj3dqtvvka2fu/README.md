@@ -11,6 +11,7 @@ Website: https://p2p.org/
 ---
 
 ![P2P Validator](logo.svg)
+
 P2P Validator provides highly accessible Non-Custodial Staking to maximize cryptocurrency gains and facilitates their management with a realtime dashboard across 15+ blockchains.
 
 ## Team
@@ -33,8 +34,8 @@ P2P Validator provides highly accessible Non-Custodial Staking to maximize crypt
 
 ## Contact Us
 - Feel free to contact us:
-- [dmitry@p2p.org](mailto:dmitry@p2p.org)\
-- https://t.me/P2Pstaking\
+- [dmitry@p2p.org](mailto:dmitry@p2p.org)
+- https://t.me/P2Pstaking
 - https://twitter.com/p2pvalidator
 
 ### Website
