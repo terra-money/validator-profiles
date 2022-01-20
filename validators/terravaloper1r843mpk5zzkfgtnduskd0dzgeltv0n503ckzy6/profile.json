@@ -1,9 +1,9 @@
 {
-  "contact": { // contact info for delegators / outreach
+  "contact": {
       "email": "hello@flipsidecrypto.com",
       "twitter": "@flipsidecrypto"
   },
-  "notifications": { // notification settings
-      "email": "hello@flipsidecrypto.com" // email to receive notifications
+  "notifications": {
+      "email": "hello@flipsidecrypto.com"
   }
 }
