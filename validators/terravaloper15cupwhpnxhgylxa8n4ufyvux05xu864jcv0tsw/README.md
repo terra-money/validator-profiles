@@ -1,11 +1,11 @@
 ---
-Moniker: Figment Networks
+Moniker: Figment
 Validator: terravaloper15cupwhpnxhgylxa8n4ufyvux05xu864jcv0tsw
-Email: <contact@figment.network>
-Telegram: @claymenzel
+Email: <staking@figment.io>
+Telegram: https://t.me/StakingHub
 ---
 
-## Figment Networks
+## Figment
 
 Offering institutional grade infrastructure, software, and governance solutions for networks, token investors, and enterprise clients.
 
@@ -19,22 +19,22 @@ Offering institutional grade infrastructure, software, and governance solutions 
 
 ## Our Architecture
 
-Our physical infrastructure is combined with a network of public and private sentry nodes on Amazon Web Services, Google Cloud Providers, OVHcloud, Digital Ocean, and other public cloud platforms. We limit public internet connectivity to our physical validator nodes. Our facilities are connected to AWS & GCP using direct connections with VPN backup and to other cloud platforms using VPNs.
+Serving customers worldwide, Figment is one of the world’s largest blockchain infrastructure and services provider.
 
 ## Ecosystem Contributions
 
-We are active members of the Terra validator community, and we build tools for the network, like Hubble, our staking explorer.
+We are active members of the Terra validator community, and we build tools for the network, like Hubble, our staking explorer. We provide enterprise grade node and staking infrastructure, the Hubble Web 3 explorer, and developer tools while also actively participating in community & governance. Figment’s physical IDC, technical operations, development and management team are based in North America.
 
-Check it out here: <https://hubble.figment.network/terra/chains/columbus-3>
+Check it out here: <https://hubble.figment.io/terra/chains/columbus-5>
 
 ## Contact Us
 
 Have questions? You can reach us at:
 
-Email: <contact@figment.network>
+Email: <support@figment.io>
 Telegram: <https://t.me/FigmentNetworks>
 
 ### Website
 
-https://figment.network
+https://figment.io
 
