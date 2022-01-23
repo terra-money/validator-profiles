@@ -4,5 +4,19 @@
  Email: dill-project@protonmail.com
  Telegram: https://t.me/drill_terra
  Twitter: @project_drill
- Website: https://drill.lark.icu/
+ Website: https://drill.lark.icu
  ---
+
+ ![DrillProject](logo.png)
+
+ Drill Project is a staking validator.
+
+ ## Team
+ We are qualified and experienced engineering team that support Terra validator for community. We use higth performance servers only and our hardware located in distribuded datacenters. All our systems have a monitoring and support 24/7. 
+
+ ## Contact Us
+
+- Telegram: https://t.me/drill_terra
+- Twitter: https://twitter.com/project_drill
+- Email: dill-project@protonmail.com
+- Website: https://drill.lark.icu
