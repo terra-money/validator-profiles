@@ -7,12 +7,14 @@
  Website: https://drill.lark.icu
  ---
 
- ![DrillProject](logo.png)
+# Drill Project 
+
+![DrillProject](./logo.png)
 
  Drill Project is a staking validator.
 
  ## Team
- We are qualified and experienced engineering team that support Terra validator for community. We use higth performance servers only and our hardware located in distribuded datacenters. All our systems have a monitoring and support 24/7. 
+We are qualified and experienced engineering team that support Terra validator for community. We use high performance servers only and our hardware located in distributed datacenters. All our systems have a monitoring and support 24/7. 
 
  ## Contact Us
 
