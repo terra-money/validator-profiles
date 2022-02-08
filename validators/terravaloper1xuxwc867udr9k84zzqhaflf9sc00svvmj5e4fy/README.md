@@ -1,7 +1,8 @@
 ---
 Moniker: moonshot
 Validator: terravaloper1xuxwc867udr9k84zzqhaflf9sc00svvmj5e4fy
-Email: terra.moonshot@gmail.com
+Email: info@moonshot.army
+Website: https://www.moonshot.army
 Telegram: https://t.me/terra_moonshot
 Twitter: @terra_moonshot
 ---
@@ -17,4 +18,5 @@ Have questions? You can reach us:
 
 - Telegram: https://t.me/terra_moonshot
 - Twitter: @terra_moonshot
-- Email: terra.moonshot@gmail.com
+- Email: info@moonshot.army
+- Website: https://www.moonshot.army
