@@ -1,7 +1,7 @@
 ---
 Moniker: danku_zone w/ DAIC
 Validator: terravaloper12r8929na0amxfj406zw7vk8jmd03fmzcj9r2gg
-Email: office@daic.capital
+Email: validator@daic.capital
 Telegram: @validator_danku_DAIC
 Website: https://daic.capital/danku_zone/
 ---
