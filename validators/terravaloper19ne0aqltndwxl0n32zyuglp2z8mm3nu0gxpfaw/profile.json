@@ -1,9 +1,12 @@
 {
   "contact": {
-    "email": "contact@terraindia.io",
-    "telegram": "https://t.me/TerraIndia"
+    "email": "contact@stakebin.io",
+    "telegram": "https://t.me/StakeBin",
+    "website": "https://stakebin.io",
+    "keybase": "https://keybase.io/stakebin",
+    "twitter": "https://twitter.com/StakeBin"
   },
   "notifications": {
-    "email": "notify@terraindia.io"
+    "email": "contact@stakebin.io"
   }
 }
