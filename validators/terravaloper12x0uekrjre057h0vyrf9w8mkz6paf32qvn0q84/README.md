@@ -1,20 +1,20 @@
 ---
-Moniker: BlockStake.xyz
+Moniker: SeltonStake.com
 Validator: terravaloper12x0uekrjre057h0vyrf9w8mkz6paf32qvn0q84
-Email: david@blockstake.xyz
-Telegram: https://t.me/blockstake_xyz
-Twitter: @blockstake_xyz
-Website: https://www.blockstake.xyz/
+Email: david@seltonstake.com
+Telegram: https://t.me/seltonstake
+Twitter: @seltonstake
+Website: https://seltonstake.com
 ---
 
-![BlockStake](blockstakexyz.png)
+![SeltonStake](seltonstake.png)
 
-# BlockStake.xyz 
+# SeltonStake.com
 A premier validator partner specializing in tendermint-based chains. 
 
 ## Team
 
-BlockStake.xyz is a team of 3 blockchain enthusiast consisting of experienced DevOps specialists, engineers and BizDevs. We are fully committed to bring about a decentralized future. 
+SeltonStake is a team of 3 blockchain enthusiast consisting of experienced DevOps specialists, engineers and BizDevs. We are fully committed to bring about a decentralized future. 
 
 
 ## Why Choose Us
@@ -30,11 +30,11 @@ We pride ourselve in providing high-performance cloud based servers with best-in
 
 The best way to have a quick answer is to join our social media and telegram group chats. Our team is constantly monitoring those channels:
 
-Twitter: https://twitter.com/blockstake_xyz
-Telegram: https://t.me/blockstake_xyz
+Twitter: https://twitter.com/seltonstake
+Telegram: https://t.me/seltonstake
 
 
 
 ### Website
 
-https://www.blockstake.xyz/
+https://seltonstake.com
