@@ -1,11 +1,12 @@
 {
     "contact": {
-        "email": "info@neptunefinance.org",
+        "email": "info@nept.finance",
         "twitter": "@neptune_finance",
         "discord": "https://discord.gg/bh8nFtcf5d",
-        "medium": "https://neptunefinance.medium.com/"
+        "medium": "https://neptunefinance.medium.com/",
+        "website": "https://nept.finance" 
     },
     "notifications": {
-        "email": "tech@neptunefinance.org"
+        "email": "tech@nept.finance"
     }
 }
