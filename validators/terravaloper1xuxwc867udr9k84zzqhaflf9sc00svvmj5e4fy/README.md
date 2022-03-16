@@ -10,7 +10,10 @@ Twitter: @terra_moonshot
 # moonshot
 ![moonshot](moonshot.jpg)
 
-Providing a safe, reliable validator on our ride to the moon. Shoot for the moon. Even if you miss you'll land among the stars. Host on google cloud platform (GCP).
+Providing a safe, reliable validator on our ride to the moon. Shoot for the moon. Even if you miss you'll land among the stars.
+Moonshot runs our own dedicated servers geographically separated across multiple countries in Europe.  We utilize multi-party computation (MPC) [Horcrux](https://github.com/strangelove-ventures/horcrux) for high availability and increased key security. 
+
+We have 24/7 monitoring with info, minor, and major alerts with elevating methods of contact from telegram notifcations up to "do not disturb" overriding phone calls.
 
 ## Contact Us
 
