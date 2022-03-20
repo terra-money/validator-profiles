@@ -5,6 +5,7 @@ Email: contact@stakebin.io
 Telegram: https://t.me/StakeBin
 Twitter: @StakeBin
 Website: https://stakebin.io
+Discord: https://discord.gg/KTKc33PRev
 ---
 
 # StakeBin
@@ -32,3 +33,4 @@ Have questions? You can reach us:
 - Twitter: https://twitter.com/StakeBin
 - Email: contact@stakebin.io
 - Website: https://stakebin.io
+- Discord: https://discord.gg/KTKc33PRev
