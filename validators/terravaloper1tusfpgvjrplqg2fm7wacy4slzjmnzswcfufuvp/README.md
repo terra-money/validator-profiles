@@ -9,17 +9,14 @@ Telegram: @Rayjk126
     
 
 ## Node A-TEAM
-Node A-Team is a winning validator of multiple incentivized Proof-of-Stake network testnets. Currently, Node A-Team is currently validating for Terra, Cosmos, IRISnet, KAVA, IOV, E-Money, Solana and Orbit Chain. The team proved themselves as to be a top-tier validator through the history below: 
+Node A-Team is a winning validator of multiple incentivized Proof-of-Stake network testnets. Currently, Node A-Team is currently validating for Terra, Cosmos, IRISnet, KAVA, E-Money, Solana and Orbit Chain. The team proved themselves as to be a top-tier validator through the history below: 
 
 - **Terra** Genesis Drill Rank #3
 - **Cosmos** Game of Stakes “Never Jailed Group”
 - **IRISnet** Nyancat Testnet: All tasks completed - Full score
 - **Kava** Founder Member Badge
-- **IOV** Validator Candidate TOP 5
 - **E-Money** Reward Program - Full reward recipient
 - **Solana** Tour De Sol - Bug Bounty Recipient
-- **LINO Network** Validator Prize Winner Top 7
-- **Akash Network** Founding Member Challenge Winner
 
 Placing delegators' interests and long-term growth of Proof of Stake networks as top priority, Node A-Team promises to provide the most secure and trustworthy validator service.
 
@@ -27,7 +24,6 @@ Placing delegators' interests and long-term growth of Proof of Stake networks as
 | --------------- | ------------------------------------ |
 | Michael Kim     | CEO                                  |
 | Ray Kim         | Internal Operations & Communications |
-| Chaeeun Min     | SE & Node Operations                 |
 | Changjin Hwang  | SE & Node Operations                 |
 
 
