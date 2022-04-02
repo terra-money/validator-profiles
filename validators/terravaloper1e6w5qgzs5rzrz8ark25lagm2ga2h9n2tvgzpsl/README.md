@@ -1,6 +1,6 @@
 ---
 Moniker: Galactic Punks Validator
-Validator: terravaloper19z68rv3d7dzvvtlxzma89jxsrssf9j36ylsfwc
+Validator: terravaloper1e6w5qgzs5rzrz8ark25lagm2ga2h9n2tvgzpsl
 Email: gpvalidator@gmail.com
 Website: https://galacticpunks.io/
 ---
