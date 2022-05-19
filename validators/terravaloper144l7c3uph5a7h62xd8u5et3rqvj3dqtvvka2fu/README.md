@@ -1,7 +1,7 @@
 ---
 Moniker: P2P.ORG - P2P Validator
 Validator: terravaloper144l7c3uph5a7h62xd8u5et3rqvj3dqtvvka2fu
-Email: dmitry@p2p.org
+Email: terra@p2p.org
 Telegram: https://t.me/P2Pstaking
 Twitter: @P2Pvalidator
 Website: https://p2p.org/
@@ -34,7 +34,7 @@ P2P Validator provides highly accessible Non-Custodial Staking to maximize crypt
 
 ## Contact Us
 - Feel free to contact us:
-- [dmitry@p2p.org](mailto:dmitry@p2p.org)
+- [terra@p2p.org](mailto:terra@p2p.org)
 - https://t.me/P2Pstaking
 - https://twitter.com/p2pvalidator
 
