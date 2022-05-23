@@ -1,0 +1,10 @@
+{
+  "contact": {
+    "email": "contact@sabai.finance",
+    "twitter": "@SabaiFinance",
+	"telegram": "https://t.me/SabaiFinance"
+  },
+  "notifications": {
+	"email": "contact@sabai.finance"
+  }
+}

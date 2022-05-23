@@ -9,7 +9,6 @@ Website: https://staking.fund
 
 <img src="https://github.com/0xChanwoo/validator-profiles/blob/master/validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse/logo.png" width="350px"></img>  
 
-
 Staking Fund has been participating in the validating role since 2018 and is one of proud genesis validators for Terra mainnet.
 
 Terra: [1st Place](https://github.com/forbole/terra-launch/blob/master/GENESIS.md#validator-drill) on Validator Drill<br/>

@@ -1,6 +1,10 @@
 {
   "contact": {
-    "email": "co_staking@neoply.com",
-    "twitter": "@NEOPLY_KR"
+    "email": "hello@iqlusion.io",
+    "twitter": "@iqlusioninc",
+    "website": "https://www.iqlusion.io/"
+  },
+  "notifications": {
+    "email": "hello@iqlusion.io"
   }
 }
