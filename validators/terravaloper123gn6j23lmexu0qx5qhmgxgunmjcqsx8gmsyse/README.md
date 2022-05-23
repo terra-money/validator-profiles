@@ -1,17 +1,16 @@
 ---
 Moniker: Staking Fund
 Validator: terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse
-Email: go@staking.fund
 Twitter: @stakingfund
 Website: https://staking.fund
 ---
 
 <br>
 
-<img src="https://github.com/winslyn/validator-profiles/blob/master/validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse/logo.png" width="350px"></img>  
+<img src="https://github.com/0xChanwoo/validator-profiles/blob/master/validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse/logo.png" width="350px"></img>  
 
 
-Staking Fund has been participating in the validating role since early 2018 and is a proud genesis validator for Terra mainnet. We are based in Seoul and actively engaging in numerous novel Proof-of-Stake networks.
+Staking Fund has been participating in the validating role since 2018 and is one of proud genesis validators for Terra mainnet.
 
 Terra: [1st Place](https://github.com/forbole/terra-launch/blob/master/GENESIS.md#validator-drill) on Validator Drill<br/>
 Oasis: [1st Place](https://medium.com/oasis-protocol-project/questnet-weekly-update-bde6783004d8) on The QuestNet<br/>
@@ -21,7 +20,7 @@ Solana: Participant of Invite-Only [Soft Launch Phase(SLP)](https://forums.solan
 
 ### Ecosystem Contributions
 
-We operate explorers for Columbus mainnet and Soju testnet:
+We operate explorers for Columbus mainnet and Bombay testnet:
 
 Mainnet Explorer - https://terra.stake.id/ \
-Testnet Explorer - https://soju.stake.id/
+Testnet Explorer - https://bombay.stake.id/
