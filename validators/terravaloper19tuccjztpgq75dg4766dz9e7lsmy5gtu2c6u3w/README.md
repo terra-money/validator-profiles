@@ -11,7 +11,7 @@ Website: BigBang.systems
 We are a passionate and experienced team running nodes, managing servers and coding. But above all, we are LUNAtics!
 
 ## Watch Our Live Terra 2.0 Server Metrics
-- Website: BigBang.systems
+- Website: www.BigBang.systems
 
 ## Contact Us
 - Email: contact@bigbang.systems
