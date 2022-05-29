@@ -12,7 +12,10 @@ We are a passionate and experienced team running nodes, managing servers and cod
 
 
 ## Watch Our Live Terra 2.0 Server Metrics
+
 - Website: www.BigBang.systems
 
 ## Contact Us
+
+Have questions? You can reach us:
 - Email: contact@bigbang.systems
