@@ -2,7 +2,7 @@
 Moniker: BigBang.systems
 Validator: terravaloper19tuccjztpgq75dg4766dz9e7lsmy5gtu2c6u3w
 Email: contact@bigbang.systems
-Website: http://BigBang.systems
+Website: www.BigBang.systems
 ---
 
 # BigBang.systems
