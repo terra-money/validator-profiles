@@ -4,7 +4,7 @@ Validator: terravaloper1a6n088fsjxp7e63zrh7dvllhelksu6g0wzqal5
 Email: terra@waltsoft.net
 Website: https://waltsoft.net/
 ---
- ![Waltsoft](Waltsoft.png  =250x250)
+ ![Waltsoft](Waltsoft.png|width=100px)
 
 
 # <moniker> 
