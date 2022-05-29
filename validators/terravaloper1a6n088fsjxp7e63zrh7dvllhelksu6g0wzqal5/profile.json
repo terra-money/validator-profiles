@@ -1,5 +1,8 @@
 {
   "contact": {
     "email": "waltsoft.inc@gmail.com",
-  }
+  },
+  "notifications": { // notification settings
+  "email": "waltsoft.inc@gmail.com" // email to receive notifications
+}
 }
