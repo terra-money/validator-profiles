@@ -15,10 +15,6 @@ Tendermint-based chains validator.
 
  Our main infra is deployed in public Cloud
 
-## Ecosystem Contributions
-
-Actives members of many tendermint based chain. We don’t abstain on governance proposal and discuss the tradeoff of each proposal for the networks we are validating. 
-We are using cloud instances.
 
 ## Contact Us
 
