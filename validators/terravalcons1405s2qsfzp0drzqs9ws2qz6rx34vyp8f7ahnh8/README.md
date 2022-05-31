@@ -5,7 +5,7 @@ Email: validatort@athens-project.eu
 Website: https://www.athens-project.eu/terravalidator
 ---
 # Athens Project validator.
-![Athens Project](validators/terravalcons1405s2qsfzp0drzqs9ws2qz6rx34vyp8f7ahnh8/logo.png)
+![AthensProject](./logo.png)
 
 Greece-powered validator! 
 3-Layer Firewall-DDoS Mitigation, Realtime Monitoring, Stake with us!🚀
