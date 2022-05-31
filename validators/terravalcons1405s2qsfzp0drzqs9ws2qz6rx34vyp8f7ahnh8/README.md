@@ -1,4 +1,3 @@
-
 ---
 Moniker: Athens Project
 Validator: terravalcons1405s2qsfzp0drzqs9ws2qz6rx34vyp8f7ahnh8
