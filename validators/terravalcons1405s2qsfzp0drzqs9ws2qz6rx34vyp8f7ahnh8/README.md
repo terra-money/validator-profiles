@@ -6,8 +6,7 @@ Email: info@lunareserve.com
 Website: https://www.athens-project.eu/terravalidator
 ---
 
-# <moniker> 
-Athens Project validator.
+# <Athens Project validator.> 
 
 # Luna Reserve System
 ![LunaReserve](athensproject.jpg)
