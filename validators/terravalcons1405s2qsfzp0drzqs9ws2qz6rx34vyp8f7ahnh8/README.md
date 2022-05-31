@@ -1,6 +1,6 @@
 ---
 Moniker: Athens Project
-Validator: terravalcons1405s2qsfzp0drzqs9ws2qz6rx34vyp8f7ahnh8
+Validator: terravalcons197rtf0hsxv4vjr6y9pqeh54jy9jhnl8ffcyz4
 Email: validatort@athens-project.eu
 Website: https://www.athens-project.eu/terravalidator
 ---
