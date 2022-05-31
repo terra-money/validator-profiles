@@ -8,7 +8,7 @@ Website: https://www.athens-project.eu/terravalidator
 # <Moniker> 
 
 # Athens Project validator.
-![Athens Project validator.](./logo.jpg)
+!.[Athens Project](./logo.jpg)
 
 Greece-powered validator! 
 3-Layer Firewall-DDoS Mitigation, Realtime Monitoring, Stake with us!🚀
