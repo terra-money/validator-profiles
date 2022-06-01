@@ -1,14 +1,15 @@
 
 ---
 Moniker: Neptune Finance  
-Validator: terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk
-Email: info@neptunefinance.org  
+Validator: terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk  
+Email: info@nept.finance  
+Website: https://nept.finance  
 Twitter: https://twitter.com/neptune_finance  
 Discord: https://discord.gg/bh8nFtcf5d  
 Medium: https://neptunefinance.medium.com/  
 ---
 
-![Neptune](neptune_logo.png =100x)
+![Neptune](./neptune_logo.svg)
 
 ## Ecosystem Contribution
 
@@ -25,7 +26,7 @@ Funds gathered through staking rewards will be directed at paying for server inf
 
 Have questions? You can reach us:
 
-- Email: info@neptunefinance.org  
-- Discord: https://discord.gg/SdghPJea  
+- Email: info@nept.finance  
+- Discord: https://discord.gg/bh8nFtcf5d  
 
 

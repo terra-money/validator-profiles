@@ -1,10 +1,10 @@
 ---
-Moniker: Autism Capital
+Moniker: Autism Staking
 Validator: terravaloper1zc9uadde55t4k3aw9uvgpkhwpsyzkq3k20g38r
-Email: autismcapital@protonmail.com
+Email: autismstaking@protonmail.com
 ---
 
-# Autism Capital 🧩
+# Autism Staking 🧩
 
 Harnessing the power of autists to provide great validator service. 
 
@@ -22,5 +22,8 @@ If you're blessed with autism, asperger's syndrome, or have any other intellectu
 
 Have questions? You can reach us:
 
-- Email: autismcapital@protonmail.com
+- Email: autismstaking@protonmail.com
 
+## Disclaimer
+
+We're inspired by https://twitter.com/AutismCapital but have no relations with them
