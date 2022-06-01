@@ -13,6 +13,8 @@ Since 2019, FreshLuna runs on bare metal in a SSAE16 SOC2 certified Tier 3 datac
 
 ## Our Architecture
 
+We run a validator and multiple sentry nodes in different continents. Not only for Terra, but for more than 16 other blockchains.
+
 - 99.999% Network SLA (250+ Gb/second of Tier-1 bandwidth from several providers and hundreds of network peers)
 - Power Redundancy: N+1 (100% Power Uptime SLA, with Caterpillar Diesel Generators and UPS battery backups)
 - Cooling Redundancy: N+1
