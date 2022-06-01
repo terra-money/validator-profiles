@@ -1,4 +1,3 @@
-
 ---
 Moniker: Noderunners
 Validator: terravaloper17utc33x2x8qxqxhynch45lfa8ecwhawjugsuw5
