@@ -1,0 +1,11 @@
+{
+  "contact": {
+    "telegram": "https://t.me/coinhall_org",
+    "twitter": "https://twitter.com/coinhall_org",
+    "website": "https://coinhall.org",
+    "email": "validator@coinhall.org"
+  },
+  "notifications": {
+    "email": "validator@coinhall.org"
+  }
+}

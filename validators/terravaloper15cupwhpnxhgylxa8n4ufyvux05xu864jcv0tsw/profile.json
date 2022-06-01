@@ -1,6 +1,9 @@
 {
   "contact": {
-    "email": "",
-    "telegram": ""
-  }
+    "email": "support@figment.io",
+    "telegram": "https://t.me/StakingHub"
+  },
+    "notifications": {
+        "email": "staking@figment.io"
+    }
 }

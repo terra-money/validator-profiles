@@ -1,46 +1,25 @@
 ---
 Moniker: Chorus One
 Validator: terravaloper15urq2dtp9qce4fyc85m6upwm9xul30496sgk37
-Email: <hello@chorus.one>
-Telegram: @FelixLts
+Email: techops@chorus.one
+Telegram: https://t.me/chorusone
+Twitter: @ChorusOne
+Website: https://chorus.one/
 ---
 
-# Chorus One
+![ChorusOne](ChorusOne.jpg)
 
-Chorus One is operating staking services and infrastructure to help you to securely increase your crypto holdings.
+We currently operate validating nodes on over 25 decentralised networks and have over 3 years of experience running nodes on Tendermint-based PoS chains. Our infrastructure is designed to be secure, highly available and redundant. We value contributing to Terra's ecosystem and strive to build tools and/or produce content for Terra. In the past, we have had ledger support for LUNA on Anthem and produced content such as podcasts and blog articles that highlighted the Terra ecosystem. We care about the direction of Terra and therefore also actively monitor and participate in all Terra governance proposals. 
 
 ## Team
 
-We are a Swiss-based startup active in the Proof-of-Stake ecosystem on networks such as Cosmos, Solana, Celo, and more. 
-
-| Name         | Role 
-| ------------ | --------------- |
-| Brian Crain  | CEO             |
-| Meher Roy    | CTO             |
-
-Learn more about us on our website: https://chorus.one
-
-## Our Architecture
-
-Highly available, geographically distributed mix of bare metal setups in data centers (with HSMs) and multi-provider supporting cloud infrastructure. 
-
-Full description of our infrastructure: <https://gdoc.pub/doc/e/2PACX-1vQXb1kd0zqYT8K4B4XYb-lrlfRIuPDXsgiTjj94gDOjw3ezEUAtjvxR8yfbKJypmioKeGRrhkLCtZog>
-
-## Ecosystem Contributions
-
-We participate actively in the Terra community and governance. Other contributions include Ledger transaction support for Terra on Anthem and content on the Terra ecosystem:
-
-Anthem: https://anthem.chorus.one
-Our Terra blog: https://blog.chorus.one/tag/terra/
-Our monthly newsletter: https://chorusone.substack.com
+Chorus One is a team of over 20 ambitious and self-reflective individuals on a mission to advance peer-to-peer collaboration at scale. Visit our website to learn more about our team. 
 
 ## Contact Us
 
-Have questions? You can reach us via:
+Have questions? You can reach us:
 
-Email: <hello@chorus.one>
-Telegram: <https://t.me/ChorusOne>
-
-### Website
-
-https://chorus.one
+Website: https://chorus.one
+Twitter: https://twitter.com/chorusone
+Telegram: https://t.me/chorusone
+Email: support@chorus.one 

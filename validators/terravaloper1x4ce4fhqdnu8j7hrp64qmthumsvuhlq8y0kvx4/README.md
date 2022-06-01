@@ -1,5 +1,5 @@
 ---
-Moniker: Mission control
+Moniker: MissionControl
 Validator: terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4
 Email: support@mcontrol.ml
 Telegram: @MissionControlStakingBot
@@ -8,15 +8,13 @@ Website: https://mcontrol.ml/
 ---
 
 # MISSION CONTROL
+Choose a secure and reliable validator based in Italy 🇮🇹, we use sentry architecture to ensure maximum uptime and protection from DDoS attacks
 
-<img src="https://missioncontrolv.keybase.pub/banner.jpg" width="350px"></img>
-�
-0% commission for Q1 2021, then 5%
-## INFO
-Choose an eco-friendly validator based in Italy, we use 100% renewable energies. 
-> All our nodes are alredy updated to v0.4.2
+[<img src="https://mcontrol.ml/banner.jpg" width="550px"></img>](https://mcontrol.ml/)
+
 ## SECURITY
 To ensure maximum uptime we have a sentry node architecture, with nodes distributed around the world. Each server, router and switch has redundant power and we have full DDoS Protected fiber optic connections.
+
 ## GOVERNANCE
 These are our votes in the past proposals:
 - #18 Proposal to decrease PoolRecoveryPeriod - `YES`
@@ -26,6 +24,7 @@ These are our votes in the past proposals:
 - #28 Enable TerraTHB - `YES`
 - #32 Increase Oracle reward band from 7% to 12% - `YES`
 - #36 Further improvements to minting parameters - `YES`
+- #119 TFL Columbus-5 Upgrade Proposal - `YES`
 
 ## FAQ
 ### WHAT IS TERRA?

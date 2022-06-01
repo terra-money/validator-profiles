@@ -1,11 +1,22 @@
 ---
-Moniker: terra.bi23
+Moniker: Bi23 Labs
 Validator: terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh
 Email: support@bi23.com
 Twitter: @bi23com
----
+Telegram: https://telegram.me/Bi23Labs
+Website: https://bi23.com/
 
-# terra.bi23
+---
+![image](https://user-images.githubusercontent.com/6767618/129671877-84b430f2-3051-4e29-afa8-eba735f5bb64.png)
+
+
+
+# Bi23 Labs
+
+Bi23 Labs is a trusted POS infrastructure provider and validator to comfortably stake your coins and earn rewards.
+
+### Team
+
 
 Bi23 Labs is a trusted POS infrastructure provider and validator to comfortably stake your coins and earn rewards.
 
@@ -25,6 +36,7 @@ We have a primary validation node and a backup validation node located in two di
 Have questions? You can reach us:
 
 Email: support@bi23.com<br/>
+Telegram: https://telegram.me/Bi23Labs<br/>
 Twitter: https://twitter.com/bi23com<br/>
 Website: https://bi23.com/
 

@@ -1,7 +1,7 @@
 ---
 Moniker: Luna Orbit
 Validator: terravaloper1p94a6vwl9dkd98cyrlmzf6ydjdgfvamyhu33fa
-Email: logicwins@gmail.com
+Email: justinlunaorbit@protonmail.com
 Telegram: @lunaorbitchat
 Website: http://lunaorbit.space
 ---
@@ -20,7 +20,7 @@ Top of the line equipment paired with enterprise grade hosting management that h
 
 Have questions? You can reach us:
 
-- Email: logicwins@gmail.com
+- Email: justinlunaorbit@protonmail.com
 - Telegram: https://t.me/lunaorbitchat
 
 ### Website
