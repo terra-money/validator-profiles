@@ -9,11 +9,11 @@ Website: https://freshluna.com/
  ![freshluna logo](freshluna-logo.png)
 
 # <moniker> 
-Since 2019, FreshLuna runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, YubiHSM2 hardware protected keys, with 24/7 monitoring, alerting, and analytics.
+Since 2019, FreshLuna runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geographically distributed private sentry nodes, YubiHSM2 hardware protected keys, with 24/7 monitoring, alerting, and analytics. Besides Terra, we run validators in more than 16 other blockchains. Please visit our website for more info.
 
 ## Our Architecture
 
-We run a validator and multiple sentry nodes in different continents. Not only for Terra, but for more than 16 other blockchains.
+The FreshLUNA validator is connected to our private sentry nodes in different continents.
 
 - 99.999% Network SLA (250+ Gb/second of Tier-1 bandwidth from several providers and hundreds of network peers)
 - Power Redundancy: N+1 (100% Power Uptime SLA, with Caterpillar Diesel Generators and UPS battery backups)
@@ -25,7 +25,7 @@ We run a validator and multiple sentry nodes in different continents. Not only f
 - Redundant main nodes
 - Redundant Netgate firewalling around main node & signer
 - Private peering via Wireguard VPN with multiple globally distributed sentry nodes
-- Intel Xeon 9th generation processors
+- Intel Xeon processors
 - Enterprise grade disks
 - Nodes on NVME SSD disks in RAID 1
 - Daily node backup to RAID 10
