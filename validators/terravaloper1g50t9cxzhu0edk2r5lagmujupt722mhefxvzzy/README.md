@@ -1,7 +1,7 @@
 ---
 Moniker: wave
-Validator: terravaloper1hqzf3tnw0py69xd5swwr3c7tqcumwjzdzqca7l
-Email: nionocto@gmail.com
+Validator: terravaloper1g50t9cxzhu0edk2r5lagmujupt722mhefxvzzy
+Email: contact@0xwave.com
 Telegram: @WaveWays
 Website: https://bity.hns.to/
 ---
