@@ -1,0 +1,11 @@
+{
+  "contact": {
+    "email": "hello@stakin.com",
+    "telegram": "https://t.me/StakinOfficial",
+    "keybase": "https://keybase.io/stakin",
+    "twitter": "https://twitter.com/StakinOfficial"
+  },
+   "notifications": { 
+        "email": "hello@stakin.com" 
+    }
+}
