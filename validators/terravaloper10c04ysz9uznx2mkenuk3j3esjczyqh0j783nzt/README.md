@@ -1,6 +1,6 @@
 ---
 Moniker: SCV-Security
-Validator: terravaloper1k5hw6rl060zpnnjhgnvky9cs8evrts2g2l28tt
+Validator: terravaloper10c04ysz9uznx2mkenuk3j3esjczyqh0j783nzt
 Email: contact@scv.services
 Website: https://scv.services
 Twitter: @scv_security
