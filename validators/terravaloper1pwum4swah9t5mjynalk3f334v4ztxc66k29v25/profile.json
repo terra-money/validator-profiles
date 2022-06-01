@@ -1,0 +1,12 @@
+{
+    "contact": {
+        "email": "hello@whispernode.com",
+        "twitter": "@whispernode",
+        "telegram": "https://t.me/WhisperNode",
+        "discord": "https://discord.gg/4E5KZsRtjE",
+        "website": "https://WhisperNode.com/"
+    },
+    "notifications": {
+        "email": "ben@whispernode.com"
+    }
+}
