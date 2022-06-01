@@ -7,7 +7,7 @@ Website: https://www.synergynodes.com
 ---
 
 # Synergy Nodes - Glory
-![SynergyNodes](synergynodes.jpg)
+![SynergyNodes](synergynodes.jpeg)
 
 We are operating a highly secure and stable Validator Node for Terra V2. We provide core infrastructure support for Blockchains Protocols by operating Nodes on dedicated servers managed by experienced professionals. Also, we actively interact with the community and participate in governance.
 
