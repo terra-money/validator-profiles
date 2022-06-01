@@ -1,6 +1,6 @@
 ---
 Moniker: BlockNgine.io
-Validator: terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz
+Validator: terravaloper1yy5379nk24xffpq4egw7ue4ad3j7l79ma2enmz
 Email: support@blockngine.io
 Telegram: https://t.me/BlockNgine
 Twitter: @NGINE
