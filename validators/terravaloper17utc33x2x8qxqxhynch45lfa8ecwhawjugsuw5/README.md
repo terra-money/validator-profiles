@@ -3,7 +3,7 @@ Moniker: Noderunners
 Validator: terravaloper17utc33x2x8qxqxhynch45lfa8ecwhawjugsuw5
 Email: info@noderunners.biz
 Telegram: https://t.me/noderunners
-Twitter: https://twitter.com/noderunners
+Twitter: @noderunners
 Website: http://noderunners.biz
 ---
 
