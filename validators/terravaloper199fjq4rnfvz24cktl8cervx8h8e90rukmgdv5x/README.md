@@ -1,6 +1,7 @@
 ---
 Moniker: ✅ CryptoCrew Validators #IBCgang
 Email: info@ccvalidators.com
+Validator: terravaloper199fjq4rnfvz24cktl8cervx8h8e90rukmgdv5x
 Telegram emergency contact: @clemensg
 Discord emergency contact: @Claimens | CryptoCrew#3460
 Telegram public group: https://t.me/cryptocrew_validators
