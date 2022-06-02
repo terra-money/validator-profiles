@@ -2,5 +2,8 @@
   "contact": {
     "email": "validator@gidorah.xyz",
     "telegram": "https://t.me/blocbits"
-  }
+  },
+    "notifications": {
+        "email": "validator@gidorah.xyz"
+    }
 }
