@@ -28,5 +28,5 @@ us at:
 - Discord: https://discord.gg/CqwEwHMu
 - Twitter: [@0xgidorah](https://twitter.com/0xgidorah)
 - Email: validator@gidorah.xyz
-- Website: https://https://www.gidorah.xyz/
+- Website: https://www.gidorah.xyz/
 
