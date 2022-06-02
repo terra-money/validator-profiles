@@ -1,6 +1,11 @@
 {
   "contact": {
-    "email": "wrayjohn157@gmail.com",
-    "telegram": "@Entropy157"
+    "email": "info@anchorstaking.com",
+    "twitter": "@AnchorStaking",
+    "telegram": "@entropy157",
+    "website": "https://www.anchorstaking.com/"
+  },
+  "notifications": {
+    "email": "info@anchorstaking.com"
   }
 }
