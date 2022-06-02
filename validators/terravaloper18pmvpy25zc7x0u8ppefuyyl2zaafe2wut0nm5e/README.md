@@ -5,7 +5,7 @@ Email: sw.yunsuk@gmail.com
 Telegram: @yun_yeo
 ---
 
-# OneStar
+# Y
 <p align="center">
   <img src="Y-logo.png" width="200" height="200">
 </p>
