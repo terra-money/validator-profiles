@@ -25,8 +25,8 @@ We offer enterprise-level, highly secure infrastructure services for public bloc
 You can reach us:
 
 - Email: richard@stakingcabin.com
-- Telegram: @stakingcabin
-- Discord: @stakingcabin
+- Telegram: [Official Channel](https://t.me/+htI03BO35W82NDI1)
+- Discord: [Official Server](https://discord.gg/8gbnaxVCfJ)
 
 ### Website
 
