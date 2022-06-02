@@ -6,7 +6,7 @@ Telegram: @blockpane
 Website: https://blockpane.com
 ---
 
-![blockpane logo](blockpane.svg)
+ ![blockpane logo](blockpane.png)
 
 # <moniker>
 🔥 Fast, datacenter-hosted, bare-metal validators 🔥
