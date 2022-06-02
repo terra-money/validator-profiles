@@ -1,0 +1,9 @@
+{
+  "contact": {
+    "email": "dan@blocksteady.xyz",
+    "telegram": "@dancube"
+  },
+  "notifications": { // notification settings
+        "email": "dan@blocksteady.xyz" // email to receive notifications
+    }
+}

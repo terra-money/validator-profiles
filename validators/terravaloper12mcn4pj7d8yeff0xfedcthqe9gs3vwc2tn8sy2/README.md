@@ -1,22 +1,17 @@
 ---
-Moniker: Go-Terra
-Validator: terravaloper12mcn4pj7d8yeff0xfedcthqe9gs3vwc2tn8sy2 (Go-Terra)
-Telegram: https://t.me/Go_Terra
+Moniker: Stake n' Shake
+Validator: terravaloper12mcn4pj7d8yeff0xfedcthqe9gs3vwc2tn8sy2
+
 ---
 
-# Go-Terra
-![Go-Terra](GTLogo.png)
-
-
+# Stake n' Shake
 
 ## Our Architecture
 
-We run a cloud based validator ensuring maximum uptime, and security.
+We manage a multi-server cloud architecture.
 
 ## Contact Us
 
 Have questions? You can reach us:
 
-- Email: Operator@go-Terra.io
-- website: https://go-terra.io/
-- Telegram: https://t.me/Go_Terra
+- Email: stakenshake.money@gmail.com

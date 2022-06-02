@@ -4,7 +4,7 @@ Validator: terravaloper1magm90vzn4t75da3jadmahcp5ya075ez9t6rwa
 Email: craigslist.validator@protonmail.com
 ---
 
-# Craig
+# Craig (Classic)
 
 ![Craig](Craig.png)
 
@@ -14,3 +14,5 @@ Email: craigslist.validator@protonmail.com
 | --------------- | ------- | ---------------------------- |
 | Craig | Founder | The Larry's mostly not (?) evil doppelgänger... |
 
+## Notes
+* "Classic Craig. What a noob" --@gamerguv

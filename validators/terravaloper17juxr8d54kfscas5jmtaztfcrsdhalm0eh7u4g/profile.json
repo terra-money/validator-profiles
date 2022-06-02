@@ -1,0 +1,16 @@
+{
+  "contact": {
+    "email": "info@bridgetowercapital.com",
+    "twitter": "https://twitter.com/BridgeTowerCap"
+  }
+}
+
+{
+    "contact": {
+        "email": "info@bridgetowercapital.com",
+	"twitter": "https://twitter.com/BridgeTowerCap"
+    },
+    "notifications": {
+        "email": "tech@bridgetowercapital.com"
+    }
+}

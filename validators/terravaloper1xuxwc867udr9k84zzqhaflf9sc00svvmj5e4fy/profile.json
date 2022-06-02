@@ -1,8 +1,11 @@
 {
   "contact": {
-      "email": "terra.moonshot@gmail.com"
+      "email": "info@moonshot.army",
+      "telegram": "https://t.me/terra_moonshot",
+      "twitter": "@terra_moonshot",
+      "website": "https://www.moonshot.army"
   },
   "notifications": {
-      "email": "terra.moonshot@gmail.com"
+      "email": "info@moonshot.army"
   }
 }

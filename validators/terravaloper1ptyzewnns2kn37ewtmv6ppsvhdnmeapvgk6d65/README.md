@@ -1,11 +1,23 @@
 ---
 Moniker: WeStaking
 Validator: terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65
+Email: admin@westaking.io
+Twitter: @westaking_io
+Telegram: @westkaking
+Website: https://www.westaking.io
 ---
 
-# WeStaking
+![westaking](westaking.png)
 
-Delegate your luna to us for the staking rewards. We will do our best as secure and stable validator.
+
+## Our Architecture
+
+We are running validator nodes on various blockchains.<br>
+It consists of Senty Architecture, and Validator and Sentry nodes are deployed to Data Center and Cloud.
+
+The core member is one, but we have two backups for unexpected situations.
+
+Visit our website to read more information on our team.
 
 ### Website
 

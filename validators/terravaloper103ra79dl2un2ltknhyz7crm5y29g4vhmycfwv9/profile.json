@@ -1,6 +1,10 @@
 {
   "contact": {
-    "email": "crypto_node@neoply.com",
-    "telegram": "@yepp4you"
+    "email": "hello@iqlusion.io",
+    "twitter": "@iqlusioninc",
+    "website": "https://www.iqlusion.io/"
+  },
+  "notifications": {
+    "email": "hello@iqlusion.io"
   }
 }

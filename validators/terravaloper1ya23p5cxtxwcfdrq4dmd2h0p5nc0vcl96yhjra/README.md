@@ -13,24 +13,24 @@ By delegating, you agree to the Staking Service Agreement at: [https://btcsecure
 
 ## 7 reasons to choose the BTC.Secure for delegation
 
-1. We have been successfully **validating Terra since the genesis** (since April 24, 2019, for at least 2 years and 3 months) and **always update** the validator infrastructure **on time**. BTC.Secure is **never jailed**.
-2. We invest in high-quality infrastructure because the high **reliability** and **stability** of validators are always a **priority for us**. We have a competent infrastructure setup with dedicated servers for the validator, backup, and sentry nodes, and we also have our own monitoring and notification system for missing block signatures, which gives us the opportunity to keep **uptime close to 100%** and we are in the **list of the best** in terms of **missed blocks** and **missed oracle votes** among **all Terra validators**.
-3. We **maintain validators in Terra testnets**, which are also reliable and have an uptime as close to 100% as possible. This is important for the Terra team to test new updates and helps to improve the Terra ecosystem.
+1. We have been successfully **validating Terra since the genesis classic** (since April 24, 2019, more than 3 years) and **always update** the validator infrastructure **on time**. BTC.Secure is **never jailed**.
+2. We invest in high-quality infrastructure because the high **reliability** and **stability** of validators are always a **priority for us**. We have a competent infrastructure setup with dedicated servers for the validator, backup, and sentry nodes, and we also have our own monitoring and notification system for missing block signatures, which gives us the opportunity to keep **uptime close to 100%** and we are in the **list of the best** in terms of **missed blocks** among **all Terra validators**.
+3. We **maintain validator in Terra testnet**, which is also reliable and have an uptime as close to 100% as possible. This is important for the Terra developers to test new updates and helps to improve the Terra ecosystem.
 4. We **participate in all the votes** in Terra and make informed decisions, carefully studying the proposals.
 5. We have created and are developing the knowledge base on the Terra ecosystem — **BTC.Secure Learn** in [English](https://learn.btcsecure.io/terra) & [Russian](https://learn.btcsecure.io/ru/terra).
 6. We are confident in the quality of our service and offer the [Staking Services Agreement](https://btcsecure.io/agreement), according to which we guarantee our delegators **100% validation stability in Terra** (100% Service Level Agreement).
-7. Our company is located in the **United States** as a corporation **BTC.Secure Inc.** and we provide staking services in **full compliance with the laws**. This is especially important for the global expansion of UST, as well as other stablecoins and projects built on Terra.
+7. Our company is located in the **United States** as a corporation **BTC.Secure Inc.** and we provide staking services in **full compliance with the laws**.
 
 ## Team
 
 | Name                 | Role            | Contact         |
 | -------------------- | --------------- | --------------- |
 | Konstantin Meleshkin | Founder & CEO   | [Telegram](https://t.me/KonstantinB2S), [LinkedIn](https://www.linkedin.com/in/konstantinb2s/), [Email](mailto:konstantin@btcsecure.io) |
-| Nikolay Popov        | COO             | [Telegram](https://t.me/asp1n), [LinkedIn](https://www.linkedin.com/in/asp1nn/), [Email](mailto:nikolay.popov@btcsecure.io) |
+| Nikolay Popov        | COO             | [Telegram](https://t.me/asp1n), [LinkedIn](https://www.linkedin.com/in/asp1nn/), [Email](mailto:nikolay@btcsecure.io) |
 
 We love new technology and believe that using technology correctly can change the world and make people’s lives better.
 
-For our company the **blockchain** is that technology. We have been working for over 3 years in the digital finance and assets field. We started with crypto trading activity, where our main principles were **security** and **reliability**.
+For our company the **blockchain** is that technology. We have been working for over 4.5 years in the digital finance and assets field. We started with crypto trading activity, where our main principles were **security** and **reliability**.
 
 Bitcoin (BTC) was the first cryptocurrency, we started with it and learned how to provide the most stable trading service possible to customers.
 

@@ -1,6 +1,9 @@
 {
   "contact": {
-    "email": "",
-    "telegram": ""
+    "email": "hello@stake5labs.com",
+    "telegram": "https://t.me/lqyice"
+  },
+  "notifications": {
+    "email": "hello@stake5labs.com"
   }
 }
