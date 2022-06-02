@@ -29,7 +29,7 @@ Our protection against cyber attacks consists of a mix of Sentries based designe
 
 We are active members of the Terra community and work on ecosystem tools like https://wallet.syncnode.ro/
 
-- 20% Commission
+- 10% Commission
 
 
 ## Contact Us
