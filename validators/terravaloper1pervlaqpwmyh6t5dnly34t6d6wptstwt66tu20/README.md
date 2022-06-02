@@ -1,10 +1,10 @@
 ---
 Moniker: Craig
-Validator: terravaloper1magm90vzn4t75da3jadmahcp5ya075ez9t6rwa
+Validator:terravaloper1pervlaqpwmyh6t5dnly34t6d6wptstwt66tu20
 Email: craigslist.validator@protonmail.com
 ---
 
-# Craig (Classic)
+# Craig
 
 ![Craig](Craig.png)
 
@@ -15,4 +15,5 @@ Email: craigslist.validator@protonmail.com
 | Craig | Founder | The Larry's mostly not (?) evil doppelgänger... |
 
 ## Notes
-* "Classic Craig. What a noob" --@gamerguv
+I am in no way affilliated with Larry @larry0x; however, one day we will meet and finally decide who is the real doppelgänger...
+
