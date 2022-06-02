@@ -16,7 +16,6 @@ Validator: terravaloper14q4vvp2vtmfcaejx4qy8nw9autudx0zjt30r24
 * US Based Staff
 * GCP Cloud hosting
 * 24/7 Monitoring
-* Elite team of web 3 veterans (EOS to Cosmos to Terra)
 * Years of combined blockchain experience 
 * All Tendermint chains supported 
 * Customer service first
