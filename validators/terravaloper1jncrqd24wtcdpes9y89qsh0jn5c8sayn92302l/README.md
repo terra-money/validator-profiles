@@ -11,7 +11,7 @@ Website: https://staker.space
 
 # Staker Space
 
-Staker Space is maintaining different public blockchain networks. The reason that we decided to start this was that validating networks always needed a decentralized set. We are small independent node-operator, that is very passionate and dedicated about supporting open networks to secure the future of the decentralized systems.
+Staker Space is maintaining different public blockchain networks. The reason that we decided to start with Staker Space was because blockchain networks centralization is dangerous to the health of the network. This is how we position ourself: An independent node-operator, that is very passionate and dedicated about supporting open networks to secure the future of the decentralized systems.
 
 ## Team
 
@@ -21,7 +21,7 @@ You can be sure we are dedicated to Terra. In V1 we were genesis validators and 
 
 ## Contact Us
 
-Have questions? You can reach us:
+If you have any questions, please send us a message at the contact options below:
 
 - Email: hello@staker.space
 - Telegram: https://t.me/staker_space
