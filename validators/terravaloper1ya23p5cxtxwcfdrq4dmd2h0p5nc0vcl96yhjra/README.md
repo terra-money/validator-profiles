@@ -25,8 +25,8 @@ By delegating, you agree to the Staking Service Agreement at: [https://btcsecure
 
 | Name                 | Role            | Contact         |
 | -------------------- | --------------- | --------------- |
-| Konstantin Meleshkin | Founder & CEO   | [Telegram](https://t.me/KonstantinB2S), [LinkedIn](https://www.linkedin.com/in/konstantinb2s/), [Email](mailto:konstantin@btcsecure.io) |
-| Nikolay Popov        | COO             | [Telegram](https://t.me/asp1n), [LinkedIn](https://www.linkedin.com/in/asp1nn/), [Email](mailto:nikolay@btcsecure.io) |
+| Konstantin Meleshkin | Founder & CEO   | [Telegram](https://t.me/KonstantinMeleshkin), [LinkedIn](https://www.linkedin.com/in/konstantinb2s/), [Email](mailto:konstantin@btcsecure.io) |
+| Nikolay Popov        | COO             | [Telegram](https://t.me/asp1n), [LinkedIn](https://www.linkedin.com/in/asp1n/), [Email](mailto:nikolay@btcsecure.io) |
 
 We love new technology and believe that using technology correctly can change the world and make people’s lives better.
 
