@@ -80,7 +80,8 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Terran Stakers           | [Profile](./validators/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427) |
 | TERRA-FIRMA              | [Profile](./validators/terravaloper1s6j9wxyprdsxmdf6mvsegsldvmtk0p92pa7aey/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1s6j9wxyprdsxmdf6mvsegsldvmtk0p92pa7aey) |
 | Ubik.Capital             | [Profile](./validators/terravaloper14lggrv6qm9zu7r8r936zn3x6dawgurdmw3ksug/README.md) | [Station Page](https://station.terra.money/validator/terravaloper14lggrv6qm9zu7r8r936zn3x6dawgurdmw3ksug) |
-| Y             | [Profile](./validators/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e/README.md) | [Station Page](https://station.terra.money/validator/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e) |
+| Y                        | [Profile](./validators/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e/README.md) | [Station Page](https://station.terra.money/validator/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e) |
+| 0base.vc                 | [Profile](./validators/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36) |
 
 
 ## What is a Validator Profile?
