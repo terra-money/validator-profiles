@@ -1,4 +1,3 @@
-
 ---
 Moniker: NITAWA
 Validator: terravaloper150pqxd0j27mjg4yy4fafhkm7gfhsk8xvyfft0y
