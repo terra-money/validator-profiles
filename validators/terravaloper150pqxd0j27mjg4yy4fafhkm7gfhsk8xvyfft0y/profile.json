@@ -1,9 +1,10 @@
 {
   "contact": {
-    "email": "arman@nitawa.com",
+    "email": "infra@nitawa.com",
+    "twitter": "https://twitter.com/nitawa_systems",
     "telegram": "https://t.me/nitawa_systems"
   },
   "notifications": {
-    "email": "arman@nitawa.com"
+    "email": "infra@nitawa.com"
   }
 }
