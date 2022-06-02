@@ -1,13 +1,13 @@
 ---
 Moniker: Iron Star Finance
-Validator: terravaloper15kty6a6tkun7p3mfq24x5xfzud367lvfme4r2a
+Validator: terravaloper1chzrxuuajgp4huaanpwuz63xtc2wyq3mfzpk5f
 Email: admin@ironstar.finance
 Twitter: @IronStarFinance
-Website: http://IronStar.Finance/
+Website: https://IronStar.Finance/
 ---
 
 # <Iron Star Finance> 
-![IronStarFinancelogo](IFS-logo.png)
+![IronStarFinancelogo](ISF-logo.png)
 
 ## Ecosystem Contributions
 We create products to increase the accessibility and utility of $UST--more cool and immediately actionable news to come! Follow us on Twitter (@IronStarFinance) to hear about our latest projects and everything DeFi.
