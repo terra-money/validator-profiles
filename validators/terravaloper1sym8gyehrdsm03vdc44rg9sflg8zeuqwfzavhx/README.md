@@ -1,6 +1,6 @@
 ---
 Moniker: syncnode
-Validator: terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx
+Validator: terravaloper1e4sju9ya52l8ndjcneut4hg52y228360j0w86r
 Email: support@syncnode.ro
 Telegram: @syncnode
 ---
@@ -29,7 +29,7 @@ Our protection against cyber attacks consists of a mix of Sentries based designe
 
 We are active members of the Terra community and work on ecosystem tools like https://wallet.syncnode.ro/
 
-- 20% Commission
+- 10% Commission
 
 
 ## Contact Us
