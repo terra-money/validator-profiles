@@ -22,7 +22,11 @@ We offer enterprise-level, highly secure infrastructure services for public bloc
 
 ## Contact Us
 
-The best way to have a quick answer is: Discord: @StakingCabin or Telgram: @stakingcabin
+You can reach us:
+
+- Email: richard@stakingcabin.com
+- Telegram: @stakingcabin
+- Discord: @stakingcabin
 
 ### Website
 
