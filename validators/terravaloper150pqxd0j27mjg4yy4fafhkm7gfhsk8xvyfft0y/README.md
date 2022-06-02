@@ -2,8 +2,8 @@
 Moniker: NITAWA
 Validator: terravaloper150pqxd0j27mjg4yy4fafhkm7gfhsk8xvyfft0y
 Email: infra@nitawa.com
+Twitter: https://twitter.com/nitawa_systems
 Telegram: https://t.me/nitawa_systems
-Twitter: @nitawa_systems
 Website: https://nitawa.com
 ---
 
@@ -27,10 +27,10 @@ Visit our website to read more information.
 
 ## Contact Us
 
-Have questions? You can reach us at ff:
+Have questions? You can reach us at the ff:
 
+- Twitter: https://twitter.com/nitawa_systems
 - Telegram: https://t.me/nitawa_systems
-- Twitter: @nitawa_systems
 - Email: infra@nitawa.com
 - Website: https://nitawa.com
 
