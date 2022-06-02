@@ -7,7 +7,7 @@ Twitter: @0xgidorah
 Website: https://www.gidorah.xyz
 ---
 
-![Gidorah](Gidorah_hand.jpg)
+![Gidorah](Gidorah_hand.png)
 
 Web3 Syndicate and Infrastructure
 Web3 projects are being built and driven by a devoted community of 
