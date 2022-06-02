@@ -1,6 +1,10 @@
 {
   "contact": {
-    "email": "",
-    "telegram": ""
+    "email": "admin@westaking.io",
+    "telegram": "@westaking",
+    "twitter": "@westaking_io"
+  },
+  "notifications": {
+    "email": "admin@westaking.io"
   }
 }

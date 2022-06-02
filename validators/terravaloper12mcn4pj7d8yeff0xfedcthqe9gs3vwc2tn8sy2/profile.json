@@ -1,6 +1,8 @@
 {
   "contact": {
-    "email": "Jared.m.warn@gmail.com",
-    "telegram": "TBD"
-  }
+    "email": "stakenshake.money@gmail.com",
+  },
+  "notifications": {
+   "email": "stakenshake.money@gmail.com"
+ }
 }

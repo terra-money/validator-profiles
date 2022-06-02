@@ -1,19 +1,17 @@
 ---
-Moniker: LunaRewards.com
+Moniker: Luna Rewards
 Validator: terravaloper1xl2ujgt7f6xn8v26rjkhy4f20x5plc3nq6nql7
 Email: contact@lunarewards.com
+Website: https://lunarewards.com
 ---
 
-# Luna Rewards
 ![Luna Rewards](lunarewards-logo.png)
 
-Luna Rewards is experienced staking service provider with secure and reliable nodes.
+Luna Rewards is an experienced staking service provider.
+Our High-performance nodes allow us to generate blocks really fast and with constant supervision.
+We fully support the Terra community and we adapt quickly to all Terra network requirements.
 
-Our High-performance servers allow us to generate blocks really fast.
+### Contact Us
 
-Stake with us and earn rewards.
-
-### Website
-
-https://lunarewards.com/
-
+- Email: contact@lunarewards.com
+- Website: https://lunarewards.com

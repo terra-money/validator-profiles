@@ -15,7 +15,7 @@ Stakin is an infrastructure operator for Proof-of-Stake (PoS) public blockchain,
 
 At Stakin, the whole team is very optimist on the future of Proof-of-Stake (PoS) cryptocurrencies. We believe it can improve the distribution of wealth and leads us towards a better-decentralized future while being energy-efficient and thus sustainable.
 
-We've been validating on Terra Money since genesis and are a strong supporter of the Cosmos ecosystem.
+We've been validating on Terra Money since genesis and are a strong supporter of the Terra and Cosmos ecosystems. 
 
 We pride ourselves on supporting amazing communities and networks such as:
 
@@ -24,11 +24,16 @@ We pride ourselves on supporting amazing communities and networks such as:
 - Irisnet (IRIS)
 - Kava Labs (KAVA)
 - E-Money (NGM)
+- Persistence (XPRT)
+- Regen Network (REGEN)
 - Tezos (XTZ)
 - Icon (ICX)
 - Solana (SOL)
 - Near (NEAR)
 - Kusama (KSM)
+- Polkadot (DOT)
+- Skale (SKL)
+- Polygon (MATIC)
 
 ## Team
 
@@ -37,7 +42,7 @@ We pride ourselves on supporting amazing communities and networks such as:
 | Edouard Lavidalle | Co-Founder           | [@EdouardL](https://twitter.com/EdouardL)         |
 | Tiago Machado     | Co-Founder           | [@Tyootiago](https://twitter.com/tyootiago)       |
 | Ian Enanoria      | Community Manager    | [@Iamdeadlyz](https://twitter.com/Iamdeadlyz)     |
-| Giselle Schout    | Content Marketer     | [@GiseleSchout](https://twitter.com/GiseleSchout) |
+| Gisele Schout     | Content Marketer     | [@GiseleSchout](https://twitter.com/GiseleSchout) |
 | Fábio Maricato    | Product/UX-UI        | [@Maricato](https://twitter.com/maricato)         |
 | Abhishek Sharma   | Blockchain Developer | [@CryptosAbhi](https://twitter.com/cryptosabhi/)  |
 
