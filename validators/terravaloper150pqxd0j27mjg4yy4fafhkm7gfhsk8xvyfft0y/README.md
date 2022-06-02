@@ -13,7 +13,7 @@ Website: https://nitawa.com
 NITAWA Systems have a vast experience in building and running secure and resilient nodes in Cardano, Solana, Tendermint and Substrate-based chains - adopting ITIL and enterprise-grade infrastructure practices to make sure our services are safe, secure and resilient. We have 24/7 monitoring for all nodes and utilizing PagerDuty for real-time alarm aggregation and dispatching service. Information Security is at the heart of what we do and set the bar for enterprise-grade security as well as backup systems.
 
 ## Team
-Our team is composed of highly experienced Systems and Network Administrators, Developers and Economist. 
+Our team is composed of highly experienced Systems and Network Administrators, Developers and Economist.
 
 | Name          | Role                |
 | ------------- | ------------------- |
