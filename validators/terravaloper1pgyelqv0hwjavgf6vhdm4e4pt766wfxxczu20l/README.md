@@ -1,6 +1,6 @@
 ---
 Moniker: High Stakes 🇨🇭
-Validator: terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427
+Validator: terravaloper1pgyelqv0hwjavgf6vhdm4e4pt766wfxxczu20l
 Email: contact@highstakes.ch
 Twitter: @HighStakes_CH
 Telegram: https://t.me/HighStakesSwitzerland
