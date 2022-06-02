@@ -1,5 +1,5 @@
 ---
-Moniker:Aardvark
+Moniker: Aardvark
 Validator: terravaloper1wzvgc8j840qtsfsa55kuf9cypqwa2tqnkrduqx
 Email: security@blockpane.com
 Telegram: @blockpane
