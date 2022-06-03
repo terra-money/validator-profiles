@@ -2,10 +2,6 @@
 Moniker: Orbital Command
 Validator: terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf
 Email: ocvalidator@gmail.com
-Telegram: https://t.me/ocintelligence
-Twitter: https://twitter.com/Orbital_Command
-Website: https://orbitalcommand.io/
-Discord: https://discord.gg/5PfNez24h9
 ---
 
 ![OrbitalCommand](logo.png)
@@ -27,3 +23,4 @@ Have questions? You can reach us:
 - Twitter: https://twitter.com/Orbital_Command
 - Email: ocvalidator@gmail.com
 - Website: https://orbitalcommand.io/
+- Discord: https://discord.gg/5PfNez24h9
