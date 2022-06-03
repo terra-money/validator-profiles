@@ -6,7 +6,7 @@ Telegram: @SP9641
 Website: http://zeusstaking.com/
 ---
 
-# <Moniker> 
+# <moniker> 
 
  ![wavelogo](zeus_staking.jpg)
 
