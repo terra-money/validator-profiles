@@ -13,7 +13,7 @@ We have over 7 years of experience in the blockchain industry. We have helped ma
 We provide education and services for the developer community. 
 
 ## Our Architecture
-We have enterprise-grade bare metal servers located in multiple regions: United States and Europe. Our team is comprised of developers and devops experts with over 10 years of experience.   
+We have enterprise-grade bare metal servers located in multiple regions across the United States and Europe. 
 
 ## Contact Us
 
