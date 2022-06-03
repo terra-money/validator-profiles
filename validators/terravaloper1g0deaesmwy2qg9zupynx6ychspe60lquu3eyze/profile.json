@@ -3,7 +3,7 @@
     "email": "stakesabai@gmail.com",
     "telegram": "https://t.me/SabaiFinance"
   },
-  "notifications": { // notification settings
-        "email": "stakesabai@gmail.com" // email to receive notifications
+  "notifications": {
+        "email": "stakesabai@gmail.com"
   }
 }
