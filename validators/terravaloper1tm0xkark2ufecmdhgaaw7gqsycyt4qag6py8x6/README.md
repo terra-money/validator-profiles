@@ -15,11 +15,11 @@ We are operating a highly secure and stable Validator Node for Terra V2. We prov
 
 ## Contributions to Ecosystem
 
-#1. Youtube Channel: 
+## 1. Youtube Channel: 
 
 We operate our Youtube channel focused on providing technical tutorials on how to install and operate validator nodes for various Cosmos based blockchains. Also, we support other validators who have issues with their nodes or provide one-to-one free support to install and configure the nodes.
 
-#2. Ping.pub based Cosmos blockchain explorer.
+## 2. Ping.pub based Cosmos blockchain explorer.
 
 [https://cosmosrun.info](https://cosmosrun.info)
 
@@ -29,9 +29,9 @@ We are operating a Cosmos blockchains explorer at cosmosrun.info for both mainne
 
 ## What Next?
 
-#1. Currently we are in the process of setting up infrastructure to provide Snapshots on regular basis for both Mainnets and Testnets. This will help node operators to quickly sync a new node. We are planning to provide both full and pruned snapshots for many Cosmos based blockchains. We will start with Terra V2 and a few other blockchains within the next 2 weeks.
+1. Currently we are in the process of setting up infrastructure to provide Snapshots on regular basis for both Mainnets and Testnets. This will help node operators to quickly sync a new node. We are planning to provide both full and pruned snapshots for many Cosmos based blockchains. We will start with Terra V2 and a few other blockchains within the next 2 weeks.
 
-#2. We will operate IBC Relayers between many cosmos blockchains. We should be able to start these IBC Relayers in a month.
+2. We will operate IBC Relayers between many cosmos blockchains. We should be able to start these IBC Relayers in a month.
 
 As and when we have updates on the above, we will share the info through our various social channels such as Twitter, Telegram, Discord, and on our website.
 
