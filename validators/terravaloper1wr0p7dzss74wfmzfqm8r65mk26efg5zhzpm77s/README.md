@@ -1,7 +1,7 @@
 ---
 Moniker: White Whale
 Validator: terravaloper1wr0p7dzss74wfmzfqm8r65mk26efg5zhzpm77s
-Email: <info@whitewhale.money>
+Email: info@whitewhale.money
 Telegram: https://t.me/whitewhaleofficial
 Discord: https://discord.com/invite/whitewhale
 ---
