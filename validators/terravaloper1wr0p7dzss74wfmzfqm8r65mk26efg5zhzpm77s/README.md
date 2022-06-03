@@ -19,21 +19,6 @@ White Whale is an interchain liquidity protocol made by Lunatics who have been a
 - We fought until the end trying to defend the depeg of UST on Terra classic.
 - We operate as a validator to protect the Lunatic community's interests through governance participation and strong engagement in all community discussions.
 
-## Team
-
-| Name         | Role 
-| ------------ | --------------- |
-| Sebastian    | Founder         |
-| Sencom       | CTO             |
-| 0xFable      | COO             |
-| Kerber0x     | Lead SC Dev     |
-| Bossanova    | Dev             |
-| PyInvesting  | Dev             |
-| Vinodhum     | Dev             |
-| 0xbobloblaw  | Dev             |
-| Kaimen Sano  | Dev             |
-| Jujujayb     | Designer        |
-
 ## Website
 
 - https://whitewhale.money/
