@@ -39,8 +39,8 @@ As and when we have updates on the above, we will share the info through our var
 
 If you have any questions, you can reach us at:
 
-- Telegram: https://t.me/SynergyNodesTerra
 - Email: contact@synergynodes.com
 - Twitter: https://twitter.com/SynergyNodes
+- Telegram: https://t.me/SynergyNodesTerra
 - Discord: https://discord.gg/UEppF4sBdM
 - Website: https://www.synergynodes.com
