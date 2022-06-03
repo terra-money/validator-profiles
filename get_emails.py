@@ -4,9 +4,7 @@ import json
 import pathlib
 
 
-EMAIL_REGEX = re.compile(r"[a-z0-9]+[\._]?[a-z0-9]+[@]\w+[.]\w{2,3}")
-
-
+EMAIL_REGEX = re.compile(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b')
 files = glob.glob("*/*/*.json")
 emails = {}
 
