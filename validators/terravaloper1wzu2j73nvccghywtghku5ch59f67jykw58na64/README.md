@@ -1,7 +1,7 @@
 ---
 Moniker: Secure Secrets
-Validator: terravaloper1qr8ewxc0xx2vuq7jhe2evsde2k4c4cku6wf23h
-Email: mohammedp@securesecrets.org
+Validator: terravaloper1wzu2j73nvccghywtghku5ch59f67jykw58na64
+Email: security@securesecrets.org
 Telegram: @mohammedpatla
 Website: https://securesecrets.org/
 ---
