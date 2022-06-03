@@ -6,6 +6,7 @@ Telegram: @SynergyNodesTerra
 Discord: https://discord.gg/UEppF4sBdM
 Twitter: https://twitter.com/SynergyNodes
 Website: https://www.synergynodes.com
+Youtube: https://www.youtube.com/channel/UCFOFPbgP0wLTQ007NtNl_oQ
 ---
 
 # Synergy Nodes
@@ -15,7 +16,9 @@ We are operating a highly secure and stable Validator Node for Terra V2. We prov
 
 ## Contributions to Ecosystem
 
-## 1. Youtube Channel: 
+## 1. Youtube Channel:
+
+[https://www.youtube.com/channel/UCFOFPbgP0wLTQ007NtNl_oQ](https://www.youtube.com/channel/UCFOFPbgP0wLTQ007NtNl_oQ)
 
 We operate our Youtube channel focused on providing technical tutorials on how to install and operate validator nodes for various Cosmos based blockchains. Also, we support other validators who have issues with their nodes or provide one-to-one free support to install and configure the nodes.
 
