@@ -7,15 +7,8 @@ Email: mail@toppshelf.co
 Website: https://toppshelf.co
 ---
 
-## The Goods
-
-The Top Shelf is hard to reach. That is why you keep your valuable there. Committed to security on and off the chain, Top Shelf is your anon validator. Immutable by design of the organization, Top Shelf will always have a safe space available for your Luna.
-
-## Team
-
-* Johnnie has a long history in security dating back to 1865. 
-* Julio leads our QA processes, with experience in debugging since 1942
-* Hennessy, despite having over 130 years of organic marketing, is just along for the memes. Its good to have a cheerleader.
+# Top Shelf Classic DEPRECATED
+Boys, it has been a pleasure, but the party is over. Terra 2.0 is where it's at. Find us there at https://station.terra.money/validator/terravaloper1a98g7kjemhgvmu4zyddnrv8fgccd4keac0w38t
 
 # Contact Us
 Have questions? You can reach us:
