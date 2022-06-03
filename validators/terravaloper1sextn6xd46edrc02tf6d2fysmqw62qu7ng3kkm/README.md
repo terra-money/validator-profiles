@@ -1,6 +1,6 @@
 ---
 Moniker: MissionControl
-Validator: terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4
+Validator: terravaloper1sextn6xd46edrc02tf6d2fysmqw62qu7ng3kkm
 Email: stake@mcontrol.ml
 Discord: https://discord.gg/aGdC7CC
 Website: https://mcontrol.ml/
