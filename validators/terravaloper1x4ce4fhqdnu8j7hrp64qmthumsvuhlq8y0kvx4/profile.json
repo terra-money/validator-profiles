@@ -1,10 +1,10 @@
 
 {
     "contact": {
-        "email": "support@mcontrol.ml",
-        "telegram": "@MissionControlStakingBot"
+        "email": "stake@mcontrol.ml",
+        "telegram": ""
     },
     "notifications": {
-        "email": "support@mcontrol.ml"
+        "email": "stake@mcontrol.ml"
     }
 }

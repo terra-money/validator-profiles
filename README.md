@@ -49,10 +49,10 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Masternode24.de          | [Profile](./validators/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu/README.md) | [Station Page](https://station.terra.money/validator/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu) |
 | Mosaic                   | [Profile](./validators/terravaloper15s5d4lm0n75af9jxwawqzl73trnrypdslajxz4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper15s5d4lm0n75af9jxwawqzl73trnrypdslajxz4) |
 | MoonletWalle             | [Profile](./validators/terravaloper19xe62428tlfesdym0zn5wx9slyefqjp00r67kw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper19xe62428tlfesdym0zn5wx9slyefqjp00r67kw) |
-| moonshot                 | [Profile](./validators/terravaloper1xuxwc867udr9k84zzqhaflf9sc00svvmj5e4fy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1xuxwc867udr9k84zzqhaflf9sc00svvmj5e4fy) |
+| moonshot                 | [Profile](./validators/terravaloper1l9mchtvqgvpyskgtemsrkjn0e57a7wm6c863uj/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1l9mchtvqgvpyskgtemsrkjn0e57a7wm6c863uj) |
 | NEOPLY                   | [Profile](./validators/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9/README.md) | [Station Page](https://station.terra.money/validator/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9) |
 | Neptune Finance          | [Profile](./validators/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk) |
-| NITAWA                   | [Profile](./validators/terravaloper193zuma3tk69kvffz9nqnca7z99tz7ej5ze9s7k/README.md) | [Station Page](https://station.terra.money/validator/terravaloper193zuma3tk69kvffz9nqnca7z99tz7ej5ze9s7k) |
+| NITAWA                   | [Profile](./validators/terravaloper150pqxd0j27mjg4yy4fafhkm7gfhsk8xvyfft0y/README.md) | [Station Page](https://station.terra.money/validator/terravaloper150pqxd0j27mjg4yy4fafhkm7gfhsk8xvyfft0y) |
 | Orbital Command          | [Profile](./validators/terravaloper19hflr9ay8usqxsxm4zzrsxfy3xz7hp6kv4ydnd/README.md) | [Station Page](https://station.terra.money/validator/terravaloper19hflr9ay8usqxsxm4zzrsxfy3xz7hp6kv4ydnd) |
 | P2P.ORG - P2P Validator  | [Profile](./validators/terravaloper144l7c3uph5a7h62xd8u5et3rqvj3dqtvvka2fu/README.md) | [Station Page](https://station.terra.money/validator/terravaloper144l7c3uph5a7h62xd8u5et3rqvj3dqtvvka2fu) |
 | POS Bakerz               | [Profile](./validators/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) |
@@ -64,7 +64,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | SolidStake               | [Profile](./validators/terravaloper1fhx7y75643tze8dxf4m9gwhkxn955q8r7vxjel/README.md) | [Station page](https://station.terra.money/validator/terravaloper1fhx7y75643tze8dxf4m9gwhkxn955q8r7vxjel) |
 | stake.systems            | [Profile](./validators/terravaloper1a9q6jl792qg36cp025ccjtgyf4qxrwzqjkmk5d/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1a9q6jl792qg36cp025ccjtgyf4qxrwzqjkmk5d) |
 | Staked                   | [Profile](./validators/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) |
-| StakeSabai               | [Profile](./validators/terravaloper1g6g0v23c6tv75ygk5za4s2ewwestdfj0k2cy2x/README.md) | [Station page](https://station.terra.money/validator/terravaloper1g6g0v23c6tv75ygk5za4s2ewwestdfj0k2cy2x) |
+| StakeSabai               | [Profile](./validators/terravaloper1g0deaesmwy2qg9zupynx6ychspe60lquu3eyze/README.md) | [Station page](https://station.terra.money/validator/terravaloper1g0deaesmwy2qg9zupynx6ychspe60lquu3eyze) |
 | StakeTo.Me               | [Profile](./validators/terravaloper1z7we2y02fy2kvw0tdq8k26j4t370n58wxvl4ge)           | [Station Page](https://station.terra.money/validator/terravaloper1z7we2y02fy2kvw0tdq8k26j4t370n58wxvl4ge) |
 | Staker Space             | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
 | StakeWith.Us             | [Profile](./validators/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvq89r3r) |
@@ -75,12 +75,14 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Talis Protocol           | [Profile](./validators/terravaloper1qd0uk3wrw73x662y2gx4kaulrzlcky6275gl5s/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qd0uk3wrw73x662y2gx4kaulrzlcky6275gl5s) |
 | Tavis Digital            | [Profile](./validators/terravaloper1vhm0l52y83vsqr60vt7vhxgsjlfyhf3h2mgfpe/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vhm0l52y83vsqr60vt7vhxgsjlfyhf3h2mgfpe) |
 | Terra Bull               | [Profile](./validators/terravaloper1j747dvwyg0kk9ltrz5ux443lhzzq5tgdpsa7qw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1j747dvwyg0kk9ltrz5ux443lhzzq5tgdpsa7qw) |
-| StakeBin                 | [Profile](./validators/terravaloper19ne0aqltndwxl0n32zyuglp2z8mm3nu0gxpfaw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper19ne0aqltndwxl0n32zyuglp2z8mm3nu0gxpfaw) |
+| StakeBin                 | [Profile](./validators/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc/README.md) | [Station Page](https://station.terra.money/validator/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) |
 | Terran One               | [Profile](./validators/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1krj7amhhagjnyg2tkkuh6l0550y733jnjnnlzy) |
 | Terran Stakers           | [Profile](./validators/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1uymwfafhq8fruvcjq8k67a29nqzrxnv9m6m427) |
 | TERRA-FIRMA              | [Profile](./validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v) |
 | Ubik.Capital             | [Profile](./validators/terravaloper14lggrv6qm9zu7r8r936zn3x6dawgurdmw3ksug/README.md) | [Station Page](https://station.terra.money/validator/terravaloper14lggrv6qm9zu7r8r936zn3x6dawgurdmw3ksug) |
 | Athens Project             | [Profile](./validators/terravaloper1dmkdw7q23acc72knqv9yu46pz2m363705cnt27/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1dmkdw7q23acc72knqv9yu46pz2m363705cnt27) |
+| Y                        | [Profile](./validators/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e/README.md) | [Station Page](https://station.terra.money/validator/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e) |
+| 0base.vc                 | [Profile](./validators/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36) |
 
 
 ## What is a Validator Profile?
