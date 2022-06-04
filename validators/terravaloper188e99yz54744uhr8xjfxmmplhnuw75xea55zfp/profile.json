@@ -1,7 +1,8 @@
 {
   "contact": {
-	"telegram": "https://t.me/SmartStake",
-    "twitter": "https://twitter.com/SmartStake"
+      "email": "info@smartstake.io",
+      "telegram": "https://t.me/SmartStake",
+      "twitter": "https://twitter.com/SmartStake"
   },
   "notifications": {
   }
