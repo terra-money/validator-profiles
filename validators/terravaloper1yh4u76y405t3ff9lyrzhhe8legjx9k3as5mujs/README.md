@@ -1,41 +1,35 @@
 ---
-Moniker: wave
-Validator: terravaloper1hqzf3tnw0py69xd5swwr3c7tqcumwjzdzqca7l
-Email: nionocto@gmail.com
-Telegram: @WaveWays
-Website: https://bity.hns.to/
+Moniker: KingSuper
+Validator: terravaloper1yh4u76y405t3ff9lyrzhhe8legjx9k3as5mujs
+Email: aditya.verma.manit@gmail.com
+Telegram: @programming_lord
+Website: https://king.super.site
 ---
 
- ![wavelogo](wavelogo.png)
+ ![KingSuper](KingSuper.png)
 
-# <moniker> 
-Tendermint-based chains validator.
+# KingSuper
+We are a team of software developers and operate on 18 networks in total, some of them includes the graph protocol, mina, osmosis, agoric, umee, juno.
 
 ## Team
 
-Wave is a team of 3 engineers structured arround a Dev Ops, a BackEnd Engineer and a Tech lead. We believe that the anonymity is stronger and more resilient than the reputation in many aspects of the blockchain world.
+KingSuper is a team of 2 software engineers, who switched to blockchain world because we love web3. We believe that the anonymity is stronger and more resilient than the reputation in many aspects of the blockchain world.
 
-
-| Name            | Role    | 
-| --------------- | ------- | 
-| Abef            | CTO     | 
-| Maxime S.       | DevOps  | 
-| Matthieu M.     | Backend | 
 
 ## Our Architecture
 
-We are sticking to the best practice with Sentries → relay nodes → validator → HSM. Our main infra is deployed in Google Cloud, our backup infra is OVH.
-Prometheus analytics, Prometheus node exporter, grafana and others script for DDOS mitigation and reporting tools.
+We follow sentry architecture to avoid DDos attacks and use yubiHSM2 for signing blocks. We have strict policies in place for security measures. 
+We have a grafana dashboard and a alerting setup in place so in case anything goes wrong we get a call.
 
 ## Ecosystem Contributions
 
-Actives members of many tendermint based chain. We don’t abstain on governance proposal and discuss the tradeoff of each proposal for the networks we are validating. 
-We are using an independent oracle server.
+We have contributed a lot to Cosmos ecosystem, Graph protocol,and Mina protocol. We are also a grant recipient from Graph protocol, Mina, Axelar, Umee, Aleo.
+We host the governance alert bot and faucet bot for many cosmos based chains. Not only that we are technical moderators with Axelar and Umee. We helped them in conduction of their testnets
 
 ## Contact Us
 
-The best way to have a quick answer is: Discord: @Waves#9228 or Telgram: @WaveWays
+The best way to have a quick answer is: Discord: @KingSuper#3702 or Telgram: @programming_lord
 
 ### Website
 
-https://bity.hns.to/
+https://king.super.site
