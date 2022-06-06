@@ -1,6 +1,7 @@
-| Moniker                 |                                                                                       |                                                                                                           |
-|-------------------------| ------------------------------------------------------------------------------------- | -----------------------------------------------------------------
-| AuraStake               | [Profile](./validators/terravaloper1rjmzlljxwu2qh6g2sm9uldmtg0kj4qgyy9jx24) | [Station Page](https://station.terra.money/validator/terravaloper1rjmzlljxwu2qh6g2sm9uldmtg0kj4qgyy9jx24) |
+
+| Moniker                 |                                                                             |                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------|
+| AuraStake               | [Profile](./validators/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r) | [Station Page](https://station.terra.money/validator/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r) |
 | WeStaking               | [Profile](./validators/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) | [Station Page](https://station.terra.money/validator/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) |
 | hashed                  | [Profile](./validators/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) | [Station Page](https://station.terra.money/validator/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) |
 | Staker Space            | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
