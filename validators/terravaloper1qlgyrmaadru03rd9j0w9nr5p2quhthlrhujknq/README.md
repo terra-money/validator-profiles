@@ -1,5 +1,5 @@
 ---
-Moniker:Interdimensional Cable
+Moniker: Interdimensional Cable
 Validator: terravaloper1qlgyrmaadru03rd9j0w9nr5p2quhthlrhujknq
 Email: info@InterdimensionalCable.co
 Discord: RickS#3103
