@@ -1,6 +1,7 @@
 ---
 Moniker: abitration
 Validator: terravaloper1r09u7wn4nujsscqwc2p87dly0nasvdyxaj5m7h
+Email: btc4658257@protonmail.com
 ---
 
 ![abitration](abitration.png)
