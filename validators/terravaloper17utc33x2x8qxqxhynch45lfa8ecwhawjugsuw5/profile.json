@@ -1,0 +1,11 @@
+{
+    "contact": {
+        "email": "info@noderunners.biz",
+        "twitter": "@noderunners",
+        "telegram": "https://t.me/noderunners",
+        "website": "http://noderunners.biz"
+    },
+    "notifications": {
+        "email": "info@noderunners.biz"
+    }
+}

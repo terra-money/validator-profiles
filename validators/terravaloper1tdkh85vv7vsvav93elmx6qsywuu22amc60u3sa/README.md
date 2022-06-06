@@ -1,20 +1,33 @@
 ---
-Moniker: setten.io
+Moniker: Setten
 Validator: terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa
 Email: hello@setten.io
 Telegram: https://t.me/setten_io
 Twitter: https://twitter.com/setten_io
 ---
 
-# setten.io
+# Setten
 
-Stake safe, earn smart.
+Powering Terra with fast and reliable infrastructure ⚡
 
-We are building toolings and reliable staking services on the most promising blockchains out there.
+## Who we are
 
-## Ecosystem Contributions
+Setten is a swiss based blockchain infrastructure company founded by Etienne Napoleone, DevOps at Terraform Labs, from 2019 to 2021.
 
-##### comming soon at http://terra.setten.io
+We are now half a dozen people and growing quickly.
+
+## Validator
+
+We started our validator in February 2021; it has been running strong since then.
+
+In 2022, we switched from a fully cloud-based infra to hosting the nodes on bare metal servers in two swiss datacenters.
+
+## Service
+
+We offer a Terra centric Blockchain as a Service.
+
+Spin up Terra endpoints in a few seconds.
+Our high availability LCD API provides fast and reliable access to the Terra network so you can focus on building and scaling next-generation protocols.
 
 ### Website
 

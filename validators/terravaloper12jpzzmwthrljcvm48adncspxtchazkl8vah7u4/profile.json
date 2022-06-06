@@ -1,7 +1,9 @@
 {
-  "contact": {
-    "email": "contact@synergynodes.com",
-    "telegram": "https://t.me/SynergyNodesTerra",
-    "keybase": "https://keybase.io/synergynodes"
-  }
+    "contact": {
+        "email": "contact@synergynodes.com",
+        "telegram": "@SynergyNodesTerra"
+    },
+    "notifications": {
+        "email": "contact@synergynodes.com"
+    }
 }

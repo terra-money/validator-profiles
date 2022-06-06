@@ -1,52 +1,71 @@
 ---
 Moniker: BTC.Secure
 Validator: terravaloper1ya23p5cxtxwcfdrq4dmd2h0p5nc0vcl96yhjra
-Email: <hello@btcsecure.io>
-Telegram: @KonstantinB2S
+Email: hello@btcsecure.io
+Telegram: @BTCSecureTeam
 ---
 
 # BTC.Secure
 
-Staking-as-a-Service provider with priority in speed, security and reliability. Operated by BTC.Secure Inc.
+Stake with the highly secure and stable validator. Earn rewards with 100% SLA guarantee. Operated by BTC.Secure Inc.
+
+By delegating, you agree to the Staking Service Agreement at: [https://btcsecure.io/agreement](https://btcsecure.io/agreement)
+
+## 7 reasons to choose the BTC.Secure for delegation
+
+1. We have been successfully **validating Terra since the genesis classic** (since April 24, 2019, more than 3 years) and **always update** the validator infrastructure **on time**. BTC.Secure is **never jailed**.
+2. We invest in high-quality infrastructure because the high **reliability** and **stability** of validators are always a **priority for us**. We have a competent infrastructure setup with dedicated servers for the validator, backup, and sentry nodes, and we also have our own monitoring and notification system for missing block signatures, which gives us the opportunity to keep **uptime close to 100%** and we are in the **list of the best** in terms of **missed blocks** among **all Terra validators**.
+3. We **maintain validator in Terra testnet**, which is also reliable and have an uptime as close to 100% as possible. This is important for the Terra developers to test new updates and helps to improve the Terra ecosystem.
+4. We **participate in all the votes** in Terra and make informed decisions, carefully studying the proposals.
+5. We have created and are developing the knowledge base on the Terra ecosystem — **BTC.Secure Learn** in [English](https://learn.btcsecure.io/terra) & [Russian](https://learn.btcsecure.io/ru/terra).
+6. We are confident in the quality of our service and offer the [Staking Services Agreement](https://btcsecure.io/agreement), according to which we guarantee our delegators **100% validation stability in Terra** (100% Service Level Agreement).
+7. Our company is located in the **United States** as a corporation **BTC.Secure Inc.** and we provide staking services in **full compliance with the laws**.
 
 ## Team
 
-We love new technologies and believe that the right use of technology can change the world and make people's lives better.
+| Name                 | Role            | Contact         |
+| -------------------- | --------------- | --------------- |
+| Konstantin Meleshkin | Founder & CEO   | [Telegram](https://t.me/KonstantinMeleshkin), [LinkedIn](https://www.linkedin.com/in/konstantinb2s/), [Email](mailto:konstantin@btcsecure.io) |
+| Nikolay Popov        | COO             | [Telegram](https://t.me/asp1n), [LinkedIn](https://www.linkedin.com/in/asp1n/), [Email](mailto:nikolay@btcsecure.io) |
 
-For our company, blockchain has become such a technology. We have been working in the field of digital finance and assets for more than 3 years. We started with the cryptocurrency exchange activity, where the main principles for us were **security** and **reliability**.
+We love new technology and believe that using technology correctly can change the world and make people’s lives better.
 
-Bitcoin (BTC) — is the first cryptocurrency, it was with him that we interacted and learned to provide customers with the most reliable exchange service.
+For our company the **blockchain** is that technology. We have been working for over 4.5 years in the digital finance and assets field. We started with crypto trading activity, where our main principles were **security** and **reliability**.
 
-Hence, our brand — **BTC.Secure**, which literally means "Bitcoin + security/reliability", was born, and since Bitcoin has now become almost a symbol of the blockchain and everything connected with it, the meaning of our brand can be translated as "Digital currencies and assets in safe hands".
+Bitcoin (BTC) was the first cryptocurrency, we started with it and learned how to provide the most stable trading service possible to customers.
 
-**Our mission:** Improve the quality of communication and exchange of values with the help of blockchain technology.
+That’s how the **BTC.Secure** brand was born, since Bitcoin is the symbol of the blockchain and everything related to it, you can consider our brand name to mean “Digital currency and assets in good hands”
 
-We create and maintain highly accessible infrastructure for blockchain networks based on Proof-of-Stake technology and now work in the **Minter**, **Terra** and **IRIS** blockchains with a total stake of more than $10,000,000 from ~1,000 clients who trust us with their digital assets.
+The goal of **BTC.Secure is:**
 
-We are legally registered in the United States as **BTC.Secure Inc.** in the State of Delaware, and we conduct our business in **full compliance with the law**.
+> Raise the bar for communication and exchange of valuable assets using blockchain technology.
 
-Staking does not imply direct management of customer funds, but requires us, as a staking provider, to maintain 100% of the working infrastructure under any load in the blockchain. After all, our activity depends on how fast and stable the blockchain will work, and, as a result, the amount of income of our clients.
+We create and maintain highly accessible infrastructure for blockchain networks based on Proof-of-Stake technology and now work in the **Minter**, **Terra** and **IRIS** blockchains.
 
-The United States currently has the best legislation in the crypto industry, and that's why we, like many of the most successful projects, are located there.
+We are legally registered in the United States as **BTC.Secure Inc.** in the state of Delaware and we act with **full compliance with the law**, which matters a lot in the crypto industry, where blockchain companies are often in a grey area or don’t exist at all.
 
-**This once again underlines our high standards:** Reliability and safety without compromise.
+We work with the online bank **Mercury** from San Francisco, which specializes with technological startups and helps us deal with finance in the most efficient way possible to provide our customers with the most reliable staking service possible.
 
-| Name                 | Role
-| -------------------- | --------------- |
-| Konstantin Meleshkin | CEO             |
-| Nikolay Popov        | COO             |
+Staking doesn’t imply direct control over customers’ funds, but it does imply that we, as the staking provider, are required to support a 100% functional infrastructure under any amount of pressure in the blockchain. Since it’s our activity that decides how fast and stable the blockchain will work, and consequentially, our customers’ income.
 
-## Our Architecture
+The United States has the most compatible law with the crypto industry, that’s why we, like many of the more successful projects, are located there.
 
-High-performance dedicated servers in the infrastructure of validators.
+**This further emphasizes our high standards:**
 
-Multiple data centers. Distributed infrastructure from Moscow to San Francisco.
+> Reliability and security with no strings attached.
+
+## Infrastructure
+
+High-performance dedicated servers for the validator, backup, and sentry nodes.
+
+Multiple data centers. Distributed infrastructure in EU, US and Asia.
 
 Separate server racks with limited access to management and encryption of all data at the validators. 24x7 infrastructure control.
 
 Validators have stable uptime of 99.99%+ with proprietary monitoring and security.
 
 Our infrastructure is protected from:
+
 - Spam transactions
 - DDoS-attacks
 - Hacker attacks
@@ -57,14 +76,18 @@ Our infrastructure is protected from:
 
 ## Contact Us
 
-Have questions? You can reach us via:
+Have questions? You can reach us:
 
-Email: <hello@btcsecure.io>
+Email: [hello@btcsecure.io](mailto:hello@btcsecure.io)
 
-Telegram: <https://t.me/BTCSecureTeam>
+Telegram: [https://t.me/BTCSecureTeam](https://t.me/BTCSecureTeam)
 
-Or follow us on Telegram to learn more about BTC.Secure: <https://t.me/BTCSecure>
+## Follow Us
 
-### Website
+Twitter: [https://twitter.com/BTCSecure](https://twitter.com/BTCSecure)
 
-https://btcsecure.io
+Telegram: [https://t.me/BTCSecure](https://t.me/BTCSecure)
+
+## Website
+
+[https://btcsecure.io](https://btcsecure.io/)

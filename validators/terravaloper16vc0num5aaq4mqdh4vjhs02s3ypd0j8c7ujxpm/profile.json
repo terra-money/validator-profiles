@@ -1,0 +1,11 @@
+{
+  "contact": {
+    "email": "admin@stakely.io",
+    "twitter": "@Stakely_io",
+    "website": "https://stakely.io",
+    "telegram": "@stakely"
+  },
+  "notifications": {
+    "email": "admin@stakely.io"
+  }
+}
