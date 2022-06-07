@@ -18,7 +18,7 @@ KuCoin is a global cryptocurrency exchange for numerous digital assets and crypt
 
 ## Contact Us
 
-email: staking@flsdex.com 
+email: staking@kucoin.com
 
 ### Website
 
