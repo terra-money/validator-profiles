@@ -33,7 +33,7 @@ Actives members of many tendermint based chain.
 Mainnet validator in:
 - Umee [https://www.mintscan.io/umee/validators/umeevaloper1vn5ysf7u9dssn2pm6h8agmqerxc5mq79p3e9ny], 
 - Evmos [https://www.mintscan.io/evmos/validators/evmosvaloper1cn3mdzauql5af585mq0xksn26lmlh7naplgs6c], 
-- Gravity Bridge [https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1nxe9tzg3a3036s934c0vad557qelt8tlz85jx5]
+- Gravity Bridge [https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1nxe9tzg3a3036s934c0vad557qelt8tlz85jx5],
 - and few others small chains
 
 We are maintaining IBC relayer for Terra with: Gravity, Umee, Evmos, Crescent.
