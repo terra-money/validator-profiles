@@ -5,8 +5,11 @@ Email: terranonynode@gmail.com
 Telegram: @fad_en
 Website: TBA
 ---
+
+![anonynodelogo](anonynode.png)
+
 # anonynode 
-Tendermint-based chains validator.
+LUNA validator.
 
 ## Team
 
