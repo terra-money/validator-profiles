@@ -24,7 +24,7 @@ Our priorities are to maintain maximum validator uptime and secure delegated ass
 
 ## Our Architecture
 
-We are using sentry nodes and firewall to mitigate DDOS attacks. Using tKMS to secure our validator's keys. Our main infra is deployed in OVH, our backup infra is Hetzner.
+We are using sentry nodes and firewall to mitigate DDOS attacks on validator's node. Using tKMS to secure our validator's keys. Our main infra is deployed in OVH, our backup infra is Hetzner.
 We using grafana, discord and telegram bots as alerts system.
 
 ## Ecosystem Contributions
