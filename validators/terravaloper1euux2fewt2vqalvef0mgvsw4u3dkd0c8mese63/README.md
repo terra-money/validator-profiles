@@ -1,6 +1,6 @@
 ---
 Moniker: CoinBevy
-Validator: terravaloper1yxkfgpyu6m2wkgw4ljuky9lvn59r3wn0ksfvyl
+Validator: terravaloper1euux2fewt2vqalvef0mgvsw4u3dkd0c8mese63
 Email: hello@coinbevy.com
 ---
 
