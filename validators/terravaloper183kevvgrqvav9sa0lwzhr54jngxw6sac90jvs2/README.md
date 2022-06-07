@@ -1,4 +1,12 @@
 
+---
+
+Moniker: KuCoin
+Validator: terravaloper183kevvgrqvav9sa0lwzhr54jngxw6sac90jvs2
+Email: staking@kucoin.com
+
+---
+
  ![kucoinlogo](kucoin.jpg)
 
 # <moniker> 
