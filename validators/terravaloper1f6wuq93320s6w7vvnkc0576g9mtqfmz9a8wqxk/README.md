@@ -17,7 +17,7 @@ DELIGHT is a genesis validator of Terra and Terra Classic, which has shared and 
 
 ### Validator Address for Delegation
 
-terravaloper1fjuvyccn8hfmn5r7wc2t3kwqy09zzp6tyjcf50
+terravaloper1f6wuq93320s6w7vvnkc0576g9mtqfmz9a8wqxk
 
 ### Website
 
