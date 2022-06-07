@@ -9,7 +9,7 @@ Website: https://enigma-validator.com/
 
 # Enigma
 <p align="center">
-  <img src="logo.jpg" width="300">
+  <img src="logo.png" width="300">
 </p>
 
 Enigma is a Proof of Stake validator in more than twenty blockchains - We are passionate about technologies and data interpretations
