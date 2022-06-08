@@ -6,6 +6,8 @@ Twitter: @activenodes_io
 Website: https://www.activenodes.io
 ---
 
+ ![activenodes](activenodes.png)
+
 # Active Nodes
 Trusted nodes operator and Validator for Proof of Stake blockchains with years of industry experience. Active Nodes has been providing secure blockchain infrastructure across leading Proof-of-Stake protocols in the Cosmos ecosystem.
 The company has secured more than $70m USD worth in assets under its secure validation enterprise Infrastructure with multiple nodes around the world.
