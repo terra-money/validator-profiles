@@ -7,6 +7,7 @@ Website: https://twitter.com/R3d_Herring
 ---
 
 # Red Herring
+![Red Herring](redherring.jpg)
 
 ## About Us
 
