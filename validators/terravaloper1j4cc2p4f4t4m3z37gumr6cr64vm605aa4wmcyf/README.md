@@ -17,10 +17,10 @@ Moon Platoon is a community validator created out of the dust of Luna Classic. W
 
 Our Goals:
 * To earn you the most rewards while maintaining high validator node integrity
-* To make sure our delegators and the larger Luna community as a whole, are heard through governance
-* To focus soley on the Luna project and advancing the ecosystem
+* To make sure our delegators and the larger Luna community are heard through governance
+* To focus solely on the Luna project and advancing the ecosystem
 
-We will also donate 1% of our earnings per year to either Angel Protocol, the community pool, or dev's looking to get their projects off the ground.
+We will also donate 1% of our earnings per year to either Angel Protocol, the community pool, or devs looking to get their projects off the ground.
 We believe that we can help our delegators earn more by advancing Luna and the ecosystem as a whole. Donating to these commmunities helps with that.
 
 You can contact us anytime by joining our [Discord](https://discord.gg/THNykHraWv).
