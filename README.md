@@ -2,7 +2,7 @@
 
 ## Validator Directory
 
-_NOTE: Validators that have yet to put up a profile have been hidden. Get the full list of validators [here](https://station.terra.money/stake)_
+_NOTE: Validators that have not yet put up a profile are hidden. Get the full list of validators [here](https://station.terra.money/stake)._
 
 | Moniker                  |                                                                                       |                                                                                                           |
 |--------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -90,7 +90,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 
 ## What is a Validator Profile?
 
-As a validator, it's not enough to maintain rock-solid, reliable infrastructure -- you also need to market yourself effectively and court delegations from prospecting delegators. Validator Profiles, hosted here on this Github repository give you a platform to give potential delegators and clients a brief introduction on your team, philosophy, architecture and infrastructure, and present your ecosystem contributions. If you need vouching from us, we'll apply a badge for any claims that we can validate.
+As a validator, it's not enough to maintain rock-solid, reliable infrastructure. You also need to market yourself effectively and court delegations from prospecting delegators. The Validator Profiles hosted on this Github repository give you a platform to give potential delegators and clients a brief introduction to your team, philosophy, architecture, and infrastructure, and present your ecosystem contributions. Badges may be applied by the maintainers of this repo only for claims that can be validated.
 
 ## How to change your Validator Profile
 
@@ -103,7 +103,7 @@ git clone git@github.com:xxxxxx/validator-profiles.git
 cd validator-profiles/
 ```
 
-3. Create a new branch and switch to a new branch by your validator name. For example:
+3. Create and switch to a new branch named after your validator. For example:
 
 ```sh
 git checkout -b Wraith-profile
@@ -121,13 +121,13 @@ git commit -m "Edit Wraith profile"
 git push origin Wraith-profile
 ```
 
-7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes. Name your PR with your validator moniker, and identify whether it is a "New Profile" or an "Edit to Existing Profile"
+7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes. Name your PR with your validator moniker, and identify whether it is a "New Profile" or an "Edit to Existing Profile."
 
-8. We will review your PR as soon as possible. If there is no problem with your PR, we will merge it into our master branch, which will update your Validator Profile. If it is your first time creating a profile, we will add your entry to the [Validator Directory](#validator-directory).
+8. Your PR will be reviewed as soon as possible. If there are no problems with your PR, it will be merged into the master branch, which will update your Validator Profile. If it is your first time creating a profile, you will be added to the [Validator Directory](#validator-directory).
 
 ### profile.json
 
-Registered validators (validators who have submitted a profile) can opt-in to receive support from Terra by putting their contact information in `profile.json`. Terra provides various validator-support such as automatic notifications when your validator is missing blocks or oracle votes.
+Registered validators (validators who have submitted a profile) can opt-in to receive support from Terra by putting their contact information in a `profile.json`. Terra provides various validator support such as automatic notifications when your validator is missing blocks or votes.
 
 
 ```javascript
@@ -143,4 +143,7 @@ Registered validators (validators who have submitted a profile) can opt-in to re
 ```
 
 ### Terra Station Checkmark/ Inclusion in Asset Repo
-A complete profile including Terravaloper, and an email in the profile.json section must be submitted to receive a checkmark in terra station. New profiles are manually reviewed by the repo owner, and then a second reviewer must approve addition to the Station Assets Repo. This is the final step in a complete profile.
+
+A complete profile including a Terravaloper and an email in the profile.json section must be submitted to receive a checkmark in Terra Station. New profiles are manually reviewed by the repo owner, and then a second reviewer must approve the addition to the Station Assets Repo. This is the final step in a complete profile.
+
+
