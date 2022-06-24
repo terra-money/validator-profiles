@@ -46,6 +46,7 @@ for val_address in os.listdir('./validators'):
             separators=(',', ': '),
             sort_keys=True
         )
+        json_file.write('\n')
 
 # Print relevant errors for exploration.
 print(json.dumps(errors, indent=2, sort_keys=True))
