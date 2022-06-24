@@ -1,6 +1,6 @@
 ---
 Moniker: Hex Trust
-Validator: terravaloper1wyycam5xm0hdfe8ekeddwue72fcz4gnjggpgnh
+Validator: terravaloper135rv58zmcs6usxazsqrc70uwc4mlxkwdlhmlu9
 Email: enquiries@hextrust.com
 Website: https://hextrust.com/
 ---
