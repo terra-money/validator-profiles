@@ -90,7 +90,7 @@ _NOTE: Validators that have not yet put up a profile are hidden. Get the full li
 
 ## What is a Validator Profile?
 
-As a validator, it's not enough to maintain rock-solid, reliable infrastructure. You also need to market yourself effectively and court delegations from prospecting delegators. The Validator Profiles hosted on this Github repository give you a platform to give potential delegators and clients a brief introduction to your team, philosophy, architecture, and infrastructure, and present your ecosystem contributions. Badges may be applied by the maintainers of this repo only for claims that can be validated.
+As a validator, it's not enough to maintain rock-solid, reliable infrastructure. You also need to market yourself effectively and court delegations from prospecting delegators. The Validator Profiles hosted on this Github repository give you a platform to give potential delegators and clients a brief introduction on your team, philosophy, architecture and infrastructure, and to present your ecosystem contributions. Badges may be applied by the maintainers of this repo only for claims that can be validated.
 
 ## How to change your Validator Profile
 
@@ -121,13 +121,13 @@ git commit -m "Edit Wraith profile"
 git push origin Wraith-profile
 ```
 
-7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes. Name your PR with your validator moniker, and identify whether it is a "New Profile" or an "Edit to Existing Profile."
+7. Under your repo page, click the “New pull request” button. Make a Pull Request to our repository with a summary of the changes. Name your PR with your validator moniker and identify whether it is a "New Profile" or an "Edit to Existing Profile."
 
 8. Your PR will be reviewed as soon as possible. If there are no problems with your PR, it will be merged into the master branch, which will update your Validator Profile. If it is your first time creating a profile, you will be added to the [Validator Directory](#validator-directory).
 
 ### profile.json
 
-Registered validators (validators who have submitted a profile) can opt-in to receive support from Terra by putting their contact information in a `profile.json`. Terra provides various validator support such as automatic notifications when your validator is missing blocks or votes.
+Registered validators (validators who have submitted a profile) can opt in to receiving support from Terra by putting their contact information in a `profile.json` file. Terra provides various validator support such as automatic notifications when your validator is missing blocks or votes.
 
 
 ```javascript
@@ -144,6 +144,4 @@ Registered validators (validators who have submitted a profile) can opt-in to re
 
 ### Terra Station Checkmark/ Inclusion in Asset Repo
 
-A complete profile including a Terravaloper and an email in the profile.json section must be submitted to receive a checkmark in Terra Station. New profiles are manually reviewed by the repo owner, and then a second reviewer must approve the addition to the Station Assets Repo. This is the final step in a complete profile.
-
-
+A complete profile including a Terravaloper and a contact email in the profile.json file must be submitted in order to receive a checkmark in Terra Station. New profiles are manually reviewed by the repo owner and a second reviewer approves the addition to the Station Assets Repo. This is the final step in completing a profile.
