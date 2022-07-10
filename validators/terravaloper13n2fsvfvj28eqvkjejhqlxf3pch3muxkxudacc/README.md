@@ -4,7 +4,7 @@ Validator: terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc
 Email: contact@stakebin.io
 Telegram: https://t.me/StakeBin
 Twitter: https://twitter.com/StakeBin
-Website: https://stakebin.io
+Website: https://terra.stakebin.io
 Discord: https://discord.gg/KTKc33PRev
 ---
 
@@ -22,7 +22,7 @@ We use multiple containers and hardened images to safeguard the validator and ot
 
 We plan to contribute more towards terra ecosystem
 
-- Terra and ecosystem analytics dashboard at https://stakebin.io
+- Terra and ecosystem analytics dashboard at https://terra.stakebin.io
 
 ## Contact Us
 
@@ -31,5 +31,5 @@ Have questions? You can reach us:
 - Telegram: https://t.me/StakeBin
 - Twitter: https://twitter.com/StakeBin
 - Email: contact@stakebin.io
-- Website: https://stakebin.io
+- Website: https://terra.stakebin.io
 - Discord: https://discord.gg/KTKc33PRev
