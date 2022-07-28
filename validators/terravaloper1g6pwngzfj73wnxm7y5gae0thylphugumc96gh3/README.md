@@ -1,6 +1,6 @@
 ---
 Moniker: Hermes Protocol | Earn airdrops & more!
-Validator: terra1g6pwngzfj73wnxm7y5gae0thylphugumc2k48z
+Validator: terravaloper1g6pwngzfj73wnxm7y5gae0thylphugumc96gh3
 Email: support@hermesprotocol.io
 Website: https://hermesprotocol.io
 ---
