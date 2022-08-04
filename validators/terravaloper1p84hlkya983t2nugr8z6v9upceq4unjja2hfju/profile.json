@@ -1,11 +1,10 @@
 {
   "contact": {
-    "email": "validators@stakeguru.xyz",
-    "website": "https://stakeguru.xyz",
-    "keybase": "stakeguru",
-    "twitter": "https://twitter.com/stakeguru"
+    "email": "validators@nakanodo.xyz",
+    "website": "https://nakanodo.xyz",
+    "keybase": "nakanodo"
   },
   "notifications": {
-    "email": "validators@stakeguru.xyz"
+    "email": "validators@nakanodo.xyz"
   }
 }
