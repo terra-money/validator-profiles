@@ -1,6 +1,6 @@
 ---
 Moniker: AutoStake
-Validator: terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz
+Validator: terravaloper1yy5379nk24xffpq4egw7ue4ad3j7l79ma2enmz
 Email: support@autostake.net
 Telegram: https://t.me/AutoStake_net
 Twitter: @NGINE
