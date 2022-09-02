@@ -3,7 +3,6 @@ Moniker: NITAWA
 Validator: terravaloper193zuma3tk69kvffz9nqnca7z99tz7ej5ze9s7k
 Email: infra@nitawa.com
 Twitter: https://twitter.com/nitawa_systems
-Telegram: https://t.me/nitawa_systems
 Website: https://nitawa.com
 ---
 
