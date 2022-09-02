@@ -30,7 +30,5 @@ Visit our website to read more information.
 Have questions? You can reach us at the ff:
 
 - Twitter: https://twitter.com/nitawa_systems
-- Telegram: https://t.me/nitawa_systems
 - Email: infra@nitawa.com
 - Website: https://nitawa.com
-
