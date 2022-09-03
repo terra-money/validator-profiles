@@ -4,7 +4,7 @@ Validator: terravaloper1l9mchtvqgvpyskgtemsrkjn0e57a7wm6c863uj
 Email: info@moonshot.army
 Website: https://www.moonshot.army
 Discord: https://discord.gg/YZaFA3JPrF
-Twitter: [@moonshot_army](https://twitter.com/moonshot_army)
+Twitter: @moonshot_army
 ---
 
 # moonshot
