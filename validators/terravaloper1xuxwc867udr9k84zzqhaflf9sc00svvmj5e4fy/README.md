@@ -3,8 +3,8 @@ Moniker: moonshot
 Validator: terravaloper1xuxwc867udr9k84zzqhaflf9sc00svvmj5e4fy
 Email: info@moonshot.army
 Website: https://www.moonshot.army
-Telegram: https://t.me/terra_moonshot
-Twitter: @terra_moonshot
+Discord: https://discord.gg/YZaFA3JPrF
+Twitter: @moonshot_army
 ---
 
 # moonshot
@@ -20,7 +20,7 @@ We have 24/7 monitoring with info, minor, and major alerts with elevating method
 
 Have questions? You can reach us:
 
-- Telegram: https://t.me/terra_moonshot
-- Twitter: @terra_moonshot
+- Discord: https://discord.gg/YZaFA3JPrF
+- Twitter: @moonshot_army
 - Email: info@moonshot.army
 - Website: https://www.moonshot.army
