@@ -21,6 +21,6 @@ We have 24/7 monitoring with info, minor, and major alerts with elevating method
 Have questions? You can reach us:
 
 - Discord: https://discord.gg/YZaFA3JPrF
-- Twitter: @moonshot_army
+- Twitter: [@moonshot_army](https://twitter.com/moonshot_army)
 - Email: info@moonshot.army
 - Website: https://www.moonshot.army
