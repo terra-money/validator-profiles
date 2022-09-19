@@ -1,12 +1,12 @@
 ---
-Moniker: StakeTo.Me
+Moniker: Vegas validator
 Validator: terravaloper1z7we2y02fy2kvw0tdq8k26j4t370n58wxvl4ge
 ---
 
-# staketo.me
+# Vegas validator
 
-DevOps and Blockchain consultant
+## Community validator
 
 ### Website
 
-https://staketo.me (on building)
+https://Vegasvalidator.com
