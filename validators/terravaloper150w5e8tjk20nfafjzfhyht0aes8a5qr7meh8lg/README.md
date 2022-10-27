@@ -3,6 +3,8 @@ Moniker: ❤ LunaPunks ❤
 Validator: terravaloper150w5e8tjk20nfafjzfhyht0aes8a5qr7meh8lg
 Email: admin@lunapunks.io
 Website: https://lunapunks.io
+Twitter: https://twitter.com/LunaPunksNFT
+Discord: https://discord.gg/2DDXFCyAwe
 ---
 
  ![LunaPunks](./LunaPunks_220.jpg)
