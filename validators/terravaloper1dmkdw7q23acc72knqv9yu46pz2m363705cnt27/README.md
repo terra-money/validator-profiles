@@ -1,18 +1,17 @@
 ---
-Moniker: Athens Project
-Validator: terravaloper1dmkdw7q23acc72knqv9yu46pz2m363705cnt27
-Email: validatort@athens-project.eu
+Moniker: CryptoKings
+Validator: terravaloper1urzzga0tjwthu5aejujtgmh4kcvvpj87vk45rz
+Email: cryptokingslunc@gmail.com
 Website: https://www.athens-project.eu/terravalidator
 ---
-# Athens Project validator.
-![AthensProject](./logo.png)
+# CryptoKings validator.
+![CryptoKings](./logo.png)
 
 Greece-powered validator! 
-3-Layer Firewall-DDoS Mitigation, Realtime Monitoring, Stake with us!🚀
+3-Layer Firewall-DDoS Mitigation, Realtime Monitoring, Stake with us! You earn we burn 50% of commisions🚀
 
 ## Contact Us
 
 Have questions? You can reach us:
 - Telegram @Panvasi
-- Email: validatort@athens-project.eu
-- Website: https://www.athens-project.eu/terravalidator
+- Email: cryptokingslunc@gmail.com
