@@ -1,6 +1,6 @@
 ---
 Moniker: Th-Validators
-Validator: validators/terravaloper1uyu9sx8q5lmsdrj4t8w0unvd2u2uudq2kwpuxu
+Validator: validators/terravaloper1uyu9sx8q5lmsdrj4t8w0unvd2u2uudq2kpdpk0
 Email: th.validator@gmail.com
 Telegram: @ThValidator
 Website: https://th-vaildators.com/
