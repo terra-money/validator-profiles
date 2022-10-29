@@ -1,6 +1,10 @@
 {
   "contact": {
-    "email": "bitcat365.com@gmail.com",
-    "telegram": "https://t.me/joinchat/LBbAfRU0nlwushyr9sfJAQ"
+    "email": "hi@bitcat365.com",
+    "telegram": "@bitcat365",
+    "twitter": "@bitcat365"
+  },
+   "notifications": {
+       "email": "hi@bitcat365.com"
   }
 }

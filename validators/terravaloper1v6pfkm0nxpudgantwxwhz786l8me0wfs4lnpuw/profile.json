@@ -1,0 +1,11 @@
+{
+  "contact": { 
+      "email": "validator@forbole.com",
+      "telegram": "@forbole",
+      "twitter": "@forbole",
+      "keybase": "forbole"
+  },
+  "notifications": {
+      "email": "validator@forbole.com"
+  }
+}

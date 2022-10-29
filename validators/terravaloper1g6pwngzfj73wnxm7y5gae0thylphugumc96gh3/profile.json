@@ -1,0 +1,13 @@
+{
+    "contact": {
+      "email": "support@hermesprotocol.io",
+      "telegram": "@Hermes_Protocol",
+      "twitter": "@HermesProtocol",
+      "discord": "https://discord.gg/RkZvDsWaGk",
+      "keybase": "https://keybase.io/hermesprotocol"
+    },
+     "notifications": {
+         "email": "validator+notifications@hermesprotocol.io"
+    }
+  }
+  

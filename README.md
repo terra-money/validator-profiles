@@ -2,15 +2,16 @@
 
 ## Validator Directory
 
-_NOTE: Validators that have yet to put up a profile have been hidden. Get the full list of validators [here](https://station.terra.money/stake)_
+_NOTE: Validators that have not yet put up a profile are hidden. Get the full list of validators [here](https://station.terra.money/stake)._
 
 | Moniker                  |                                                                                       |                                                                                                           |
 |--------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | 01node.com               | [Profile](./validators/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1khfcg09plqw84jxy5e7fj6ag4s2r9wqsgm7k94) |
 | Inotel                   | [Profile](./validators/terravaloper1vqegsqhe8q06t6jwgvww0qcr2u6v6g9xrwjnmw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vqegsqhe8q06t6jwgvww0qcr2u6v6g9xrwjnmw) |
+| Active Nodes             | [Profile](./validators/terravaloper1a9zv7n6pmkzlm3wj6c23qyejqlmyxsl5faanrv/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1a9zv7n6pmkzlm3wj6c23qyejqlmyxsl5faanrv) | 
 | Arrington XRP Capital    | [Profile](./validators/terravaloper1c6gve6zhye5690563wxmvns7mugz6plu4aj7d3/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1c6gve6zhye5690563wxmvns7mugz6plu4aj7d3) |
 | ATEAM                    | [Profile](./validators/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1tusfpgvjrplqg2fm7wacy4slzjmnzswcfufuvp) |
-| AuraStake                | [Profile](./validators/terravaloper1rjmzlljxwu2qh6g2sm9uldmtg0kj4qgyy9jx24/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1rjmzlljxwu2qh6g2sm9uldmtg0kj4qgyy9jx24) |
+| AuraStake                | [Profile](./validators/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r) |
 | Autism Staking           | [Profile](./validators/terravaloper1zc9uadde55t4k3aw9uvgpkhwpsyzkq3k20g38r/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1zc9uadde55t4k3aw9uvgpkhwpsyzkq3k20g38r) |
 | B-Harvest                | [Profile](./validators/terravaloper15zcjduavxc5mkp8qcqs9eyhwlqwdlrzy6jln3m/README.md) | [Station Page](https://station.terra.money/validator/terravaloper15zcjduavxc5mkp8qcqs9eyhwlqwdlrzy6jln3m) |
 | Bi23 Labs                | [Profile](./validators/terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1jsdfyz8uhw2nd7cl45709w40r268phmvxam8eh) |
@@ -39,11 +40,13 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | GT Capital               | [Profile](./validators/terravaloper1rn9grwtg4p3f30tpzk8w0727ahcazj0f0n3xnk/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1rn9grwtg4p3f30tpzk8w0727ahcazj0f0n3xnk) |
 | HashQuark                | [Profile](./validators/terravaloper13ww603e55suhavpuyjft3htxca6g4tldt92pgf/README.md) | [Station Page](https://station.terra.money/validator/terravaloper13ww603e55suhavpuyjft3htxca6g4tldt92pgf) |
 | Heavy Metal Finland      | [Profile](./validators/terravaloper1xetqge5kmatfk6223hcfgf8z3tnukmjhrewxru/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1xetqge5kmatfk6223hcfgf8z3tnukmjhrewxru) |
+| Hermes Protocol          | [Profile](./validators/terravaloper1g6pwngzfj73wnxm7y5gae0thylphugumc96gh3/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1g6pwngzfj73wnxm7y5gae0thylphugumc96gh3) |
 | HuobiPool                | [Profile](./validators/terravaloper12kfeqrflptmlz5qj8agrm2ze6dzss3crm7uevf/README.md) | [Station Page](https://station.terra.money/validator/terravaloper12kfeqrflptmlz5qj8agrm2ze6dzss3crm7uevf) |
 | InfStones                | [Profile](./validators/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy) |
 | kytzu                    | [Profile](./validators/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1jyjg55hzsh0f4xymy0kuuan30pp4q75ruqmvyt) |
+| KK  Validator            | [Profile](./validators/terravaloper1lnlasdy5r2hdjz3ta2r86ufkz309zdjvqshec4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1lnlasdy5r2hdjz3ta2r86ufkz309zdjvqshec4) |
 | 🚀 Lambda Core           | [Profile](./validators/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) |
-| Luna Station 88          | [Profile](./validators/terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr) |
+| Luna Station 88          | [Profile](./validators/terravaloper1ccwgk6gvgtm556gxe0v79p48nrgsey05w3fle4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1ccwgk6gvgtm556gxe0v79p48nrgsey05w3fle4) |
 | MissionControl           | [Profile](./validators/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) |
 | Marte Cloud              | [Profile](./validators/terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1dg7zhmt4g4zq74y4tksq4xfzf5pwx4cnngavjk) |
 | Masternode24.de          | [Profile](./validators/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu/README.md) | [Station Page](https://station.terra.money/validator/terravaloper15qjn7ke9s47qn4mte3lerkxtjjgp38n5qquzsu) |
@@ -53,15 +56,17 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | NEOPLY                   | [Profile](./validators/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9/README.md) | [Station Page](https://station.terra.money/validator/terravaloper103ra79dl2un2ltknhyz7crm5y29g4vhmycfwv9) |
 | Neptune Finance          | [Profile](./validators/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk) |
 | NITAWA                   | [Profile](./validators/terravaloper150pqxd0j27mjg4yy4fafhkm7gfhsk8xvyfft0y/README.md) | [Station Page](https://station.terra.money/validator/terravaloper150pqxd0j27mjg4yy4fafhkm7gfhsk8xvyfft0y) |
-| Orbital Command          | [Profile](./validators/terravaloper19hflr9ay8usqxsxm4zzrsxfy3xz7hp6kv4ydnd/README.md) | [Station Page](https://station.terra.money/validator/terravaloper19hflr9ay8usqxsxm4zzrsxfy3xz7hp6kv4ydnd) |
+| Orbital Command          | [Profile](./validators/terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf) |
 | P2P.ORG - P2P Validator  | [Profile](./validators/terravaloper144l7c3uph5a7h62xd8u5et3rqvj3dqtvvka2fu/README.md) | [Station Page](https://station.terra.money/validator/terravaloper144l7c3uph5a7h62xd8u5et3rqvj3dqtvvka2fu) |
 | POS Bakerz               | [Profile](./validators/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1nwrksgv2vuadma8ygs8rhwffu2ygk4j24w2mku) |
+| Reality Flux             | [Profile](./validators/terravaloper1vrkzjujfds9p8t5g0xety3e3ft4dep02etv9le/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vrkzjujfds9p8t5g0xety3e3ft4dep02etv9le) |
 | Rockaway Blockchain Fund | [Profile](./validators/terravaloper173de34wwvak6d4829h5vmxvm98y5vl08tmfgrq/README.md) | [Station Page](https://station.terra.money/validator/terravaloper173de34wwvak6d4829h5vmxvm98y5vl08tmfgrq) |
 | RockX                    | [Profile](./validators/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1aw0znxtlq0wrayyz7wppz3qnw94hfrmnnrcxja) |
 | SeltonStake.com          | [Profile](./validators/terravaloper12x0uekrjre057h0vyrf9w8mkz6paf32qvn0q84)           | [Station Page](https://station.terra.money/validator/terravaloper12x0uekrjre057h0vyrf9w8mkz6paf32qvn0q84) |
 | setten.io                | [Profile](./validators/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa)           | [Station Page](https://station.terra.money/validator/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) |
-| Smart Stake              | [Profile](./validators/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1alpf6snw2d76kkwjv3dp4l7pcl6cn9uyt0tcj9) |
+| Smart Stake              | [Profile](./validators/terravaloper188e99yz54744uhr8xjfxmmplhnuw75xea55zfp/README.md) | [Station Page](https://station.terra.money/validator/terravaloper188e99yz54744uhr8xjfxmmplhnuw75xea55zfp) |
 | SolidStake               | [Profile](./validators/terravaloper1fhx7y75643tze8dxf4m9gwhkxn955q8r7vxjel/README.md) | [Station page](https://station.terra.money/validator/terravaloper1fhx7y75643tze8dxf4m9gwhkxn955q8r7vxjel) |
+| Spica Nova            | [Profile](./validators/terravaloper1j5k9jank9kkwwjwce0ljy723xfppnpunv959l0/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1j5k9jank9kkwwjwce0ljy723xfppnpunv959l0) |
 | stake.systems            | [Profile](./validators/terravaloper1a9q6jl792qg36cp025ccjtgyf4qxrwzqjkmk5d/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1a9q6jl792qg36cp025ccjtgyf4qxrwzqjkmk5d) |
 | Staked                   | [Profile](./validators/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1h6rf7y2ar5vz64q8rchz5443s3tqnswrpf4846) |
 | StakeSabai               | [Profile](./validators/terravaloper1g0deaesmwy2qg9zupynx6ychspe60lquu3eyze/README.md) | [Station page](https://station.terra.money/validator/terravaloper1g0deaesmwy2qg9zupynx6ychspe60lquu3eyze) |
@@ -72,7 +77,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 | Staking Fund             | [Profile](./validators/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse/README.md) | [Station Page](https://station.terra.money/validator/terravaloper123gn6j23lmexu0qx5qhmgxgunmjcqsx8gmsyse) |
 | syncnode                 | [Profile](./validators/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1sym8gyehrdsm03vdc44rg9sflg8zeuqwfzavhx) |
 | Synergy Nodes            | [Profile](./validators/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4/README.md) | [Station Page](https://station.terra.money/validator/terravaloper12jpzzmwthrljcvm48adncspxtchazkl8vah7u4) |
-| Talis Protocol           | [Profile](./validators/terravaloper1qd0uk3wrw73x662y2gx4kaulrzlcky6275gl5s/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1qd0uk3wrw73x662y2gx4kaulrzlcky6275gl5s) |
+| Talis Protocol           | [Profile](./validators/terravaloper1vjr8z6g38f39j23y55pdektc3l2uqc9y02f9k5/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vjr8z6g38f39j23y55pdektc3l2uqc9y02f9k5) |
 | Tavis Digital            | [Profile](./validators/terravaloper1vhm0l52y83vsqr60vt7vhxgsjlfyhf3h2mgfpe/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vhm0l52y83vsqr60vt7vhxgsjlfyhf3h2mgfpe) |
 | Terra Bull               | [Profile](./validators/terravaloper1j747dvwyg0kk9ltrz5ux443lhzzq5tgdpsa7qw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1j747dvwyg0kk9ltrz5ux443lhzzq5tgdpsa7qw) |
 | StakeBin                 | [Profile](./validators/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc/README.md) | [Station Page](https://station.terra.money/validator/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) |
@@ -87,7 +92,7 @@ _NOTE: Validators that have yet to put up a profile have been hidden. Get the fu
 
 ## What is a Validator Profile?
 
-As a validator, it's not enough to maintain rock-solid, reliable infrastructure -- you also need to market yourself effectively and court delegations from prospecting delegators. Validator Profiles, hosted here on this Github repository give you a platform to give potential delegators and clients a brief introduction on your team, philosophy, architecture and infrastructure, and present your ecosystem contributions. If you need vouching from us, we'll apply a badge for any claims that we can validate.
+As a validator, it's not enough to maintain rock-solid, reliable infrastructure. You also need to market yourself effectively and court delegations from prospecting delegators. The Validator Profiles hosted on this Github repository give you a platform to give potential delegators and clients a brief introduction on your team, philosophy, architecture and infrastructure, and to present your ecosystem contributions. Badges may be applied by the maintainers of this repo only for claims that can be validated.
 
 ## How to change your Validator Profile
 
@@ -100,7 +105,7 @@ git clone git@github.com:xxxxxx/validator-profiles.git
 cd validator-profiles/
 ```
 
-3. Create a new branch and switch to a new branch by your validator name. For example:
+3. Create and switch to a new branch named after your validator. For example:
 
 ```sh
 git checkout -b Wraith-profile
@@ -118,13 +123,13 @@ git commit -m "Edit Wraith profile"
 git push origin Wraith-profile
 ```
 
-7. Under your repo page, click the “New pull request” button. Make a Pull Request with our repository with a summary of changes. Name your PR with your validator moniker, and identify whether it is a "New Profile" or an "Edit to Existing Profile"
+7. Under your repo page, click the “New pull request” button. Make a Pull Request to our repository with a summary of the changes. Name your PR with your validator moniker and identify whether it is a "New Profile" or an "Edit to Existing Profile."
 
-8. We will review your PR as soon as possible. If there is no problem with your PR, we will merge it into our master branch, which will update your Validator Profile. If it is your first time creating a profile, we will add your entry to the [Validator Directory](#validator-directory).
+8. Your PR will be reviewed as soon as possible. If there are no problems with your PR, it will be merged into the master branch, which will update your Validator Profile. If it is your first time creating a profile, you will be added to the [Validator Directory](#validator-directory).
 
 ### profile.json
 
-Registered validators (validators who have submitted a profile) can opt-in to receive support from Terra by putting their contact information in `profile.json`. Terra provides various validator-support such as automatic notifications when your validator is missing blocks or oracle votes.
+Registered validators (validators who have submitted a profile) can opt in to receiving support from Terra by putting their contact information in a `profile.json` file. Terra provides various validator support such as automatic notifications when your validator is missing blocks or votes.
 
 
 ```javascript
@@ -140,4 +145,5 @@ Registered validators (validators who have submitted a profile) can opt-in to re
 ```
 
 ### Terra Station Checkmark/ Inclusion in Asset Repo
-A complete profile including Terravaloper, and an email in the profile.json section must be submitted to receive a checkmark in terra station. New profiles are manually reviewed by the repo owner, and then a second reviewer must approve addition to the Station Assets Repo. This is the final step in a complete profile.
+
+A complete profile including a Terravaloper and a contact email in the profile.json file must be submitted in order to receive a checkmark in Terra Station. New profiles are manually reviewed by the repo owner and a second reviewer approves the addition to the Station Assets Repo. This is the final step in completing a profile.
