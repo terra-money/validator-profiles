@@ -1,6 +1,6 @@
 ---
 Moniker: 👑🔥CryptoKings🔥👑
-Validator: terravaloper1dmkdw7q23acc72knqv9yu46pz2m363705cnt27
+Validator: terravaloper1urzzga0tjwthu5aejujtgmh4kcvvpj87vk45rz
 Email: cryptokingslunc@gmail.com
 Twitter: https://twitter.com/cryptokingslunc
 telegram: https://telegram.me/panvasi
