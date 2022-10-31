@@ -5,7 +5,7 @@ Email: sokil-stake.proton.me
 Twitter: https://twitter.com/SokilStake
 ---
 
- ![sokil-stake](./sokil-stake-500.png)
+ ![sokil-stake](./sokil-stake-1_001.png)
 
 # 🇺🇦 Sokil Stake
 
