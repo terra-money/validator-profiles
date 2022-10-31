@@ -6,7 +6,7 @@ Telegram: @LUNCCommunityitalia
 Website: https://luncitalia.com/
 ---
 
- ![luncitalia](luncitalia.png)
+ ![luncitalia](luncitalia.jpg)
 
 # <moniker> 
 Official Italian community Validator on LUNC.
