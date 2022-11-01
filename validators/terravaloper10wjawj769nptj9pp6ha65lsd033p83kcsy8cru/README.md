@@ -7,7 +7,7 @@ Telegram: https://t.me/+L0iS2_dmrF9kZjUx
 
 # LUX Blockchain Validators
 
-Stake with a highly secure and reliable validator. Operated by Maned Owl Events, LLC. 
+Stake with a highly secure and reliable validator. Operated by LUX Payband. 
 
 ## Why choose LUX Blockchain Validators for delegation?
 
