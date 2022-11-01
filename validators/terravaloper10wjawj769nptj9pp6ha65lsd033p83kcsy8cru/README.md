@@ -9,6 +9,8 @@ Telegram: https://t.me/+L0iS2_dmrF9kZjUx
 
 Stake with a highly secure and reliable validator. Operated by LUX Payband. 
 
+![](logo.png)
+
 ## Why choose LUX Blockchain Validators for delegation?
 
 1. Our infrastructure is industry leading managed and 24/7 with proprietary monitoring and software ensuring **security** and **reliability** of LUX Blockchain Validators. In fact, we have standby nodes and connection to multiple sentry nodes with 99.99% uptime. Because delegation of your hard-earned resources must be trusted to reliable and secure validators with little to no risk of missing block signatures or being jailed.
