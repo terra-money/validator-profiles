@@ -7,9 +7,9 @@ Telegram: https://t.me/+L0iS2_dmrF9kZjUx
 
 # LUX Blockchain Validators
 
-Stake with a highly secure and reliable validator. Operated by LUX Payband. 
+![LUX Blockchain Validators](logo.png)
 
-![](logo.png)
+Stake with a highly secure and reliable validator. Operated by LUX Payband. 
 
 ## Why choose LUX Blockchain Validators for delegation?
 
