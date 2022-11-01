@@ -4,10 +4,9 @@ Validator: terravaloper10wjawj769nptj9pp6ha65lsd033p83kcsy8cru
 Email: info@luxpayband.io
 Telegram: https://t.me/+L0iS2_dmrF9kZjUx
 ---
+![LUX Blockchain Validators](LX.png)
 
 # LUX Blockchain Validators
-
-![LUX Blockchain Validators](LX.png)
 
 Stake with a highly secure and reliable validator. Operated by LUX Payband. 
 
