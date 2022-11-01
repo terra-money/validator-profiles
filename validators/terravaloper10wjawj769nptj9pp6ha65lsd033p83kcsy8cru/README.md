@@ -24,7 +24,7 @@ Stake with a highly secure and reliable validator. Operated by LUX Payband.
 
 | Name                 | Role            | Contact         |
 | -------------------- | --------------- | --------------- |
-| Alex Blackshire | Founder & CEO   | [Telegram](https://t.me/+L0iS2_d), [LinkedIn](https://www.linkedin.com/in/alex-blackshire/), [Email](mailto:alex@luxpayband.io) |
+| Alex Blackshire | Founder & CEO   | [Telegram](https://t.me/+L0iS2_dmrF9kZjUx), [LinkedIn](https://www.linkedin.com/in/alex-blackshire/), [Email](mailto:alex@luxpayband.io) |
 
 We have a passion for technology. In 2013, we started off creating and producing large scale festivals through America. In fact, to date, we have amassed an events ecosystem of over 250,000 foodies and outdoor enthusiast. In 2018, our love for technology led us to begin building a contactless wristband payment wallet on the Stellar blockchain for our festival and event ecosystems. Over the years, we have successfully partnered with the like of the Chicago Cubs and as recent as October 2022, voted one of America’s top food truck festivals. 
 
