@@ -1,9 +1,10 @@
 {
-  "contact": { 
-  "email": "info@luncitalia.com",
-  "telegram": "@LUNCCommunityitalia"
+  "contact": {
+    "email": "info@luncitalia.com",
+    "telegram": "@LUNCCommunityitalia",
+    "twitter": "@LUNC_Italia"
   },
-  "notifications": { 
-      "email": "info@luncitalia.com" 
+   "notifications": {
+       "email": "info@luncitalia.com"
   }
 }
