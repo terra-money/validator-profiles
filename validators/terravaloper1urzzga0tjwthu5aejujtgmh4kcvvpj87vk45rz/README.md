@@ -13,7 +13,7 @@ Our mission is: The fair governance votes, funding DApps and burn every month 50
 ## Contact Us
 
 Have questions? You can reach us:
-- Telegram @Panvasi
+- Telegram @ApeironNodes
 - Email: cryptokingslunc@gmail.com
 - Twitter: https://twitter.com/ApeironNodes
 - telegram: https://telegram.me/ApeironNodes
