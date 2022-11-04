@@ -2,7 +2,7 @@
 Moniker: Apeiron Nodes 🔗
 Validator: terravaloper1urzzga0tjwthu5aejujtgmh4kcvvpj87vk45rz
 Email: cryptokingslunc@gmail.com
-Twitter: https://twitter.com/cryptokingslunc
+Twitter: https://twitter.com/ApeironNodes
 telegram: https://telegram.me/panvasi
 ---
 # Apeiron Nodes 🔗 validator.
