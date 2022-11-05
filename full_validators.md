@@ -69,3 +69,5 @@
 | StakeBin                | [Profile](./validators/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) | [Station Page](https://station.terra.money/validator/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) |
 | Orbital Command         | [Profile](./validators/terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf) | [Station Page](https://station.terra.money/validator/terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf) |
 | ❤️ LunaPunks.io ❤️      | [Profile](./validators/terravaloper150w5e8tjk20nfafjzfhyht0aes8a5qr7meh8lg) | [Station Page](https://station.terra.money/validator/terravaloper150w5e8tjk20nfafjzfhyht0aes8a5qr7meh8lg) |
+| 🇮🇹Lunc Community ITALIA🇮🇹 | [Profile](./validators/terravaloper1ef4hd8agtx8unaut0fc99zs9928qzm6txjcx40) | [Station Page](https://station.terra.money/validator/terravaloper1ef4hd8agtx8unaut0fc99zs9928qzm6txjcx40) |
+| ❤️ LUNC 🔥 AUS LOTTO 🥃   | [Profile](./validators/terravaloper1kewjknvtym2lesr4qdldqc36cfrt8s432zmvhh) | [Station Page](https://station.terra.money/validator/terravaloper1kewjknvtym2lesr4qdldqc36cfrt8s432zmvhh) |
