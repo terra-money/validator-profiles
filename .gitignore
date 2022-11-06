@@ -28,7 +28,6 @@ create_dirs.py
 *.log
 *.sql
 *.sqlite
-*.json
 
 # OS generated files #
 ######################

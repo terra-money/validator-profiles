@@ -1,7 +1,7 @@
 ---
 Moniker: Bit Cat🐱
 Validator: terravaloper1k4ef8m95t7eq522evmmuzvfkpla04pezmu4j7k
-Email: bitcat365.com@gmail.com
+Email: hi@bitcat365.com
 Telegram: https://t.me/bitcat365
 Twitter: @bitcat365
 Website: https://www.bitcat365.com
@@ -10,12 +10,10 @@ Website: https://www.bitcat365.com
 ![bitcat](bitcat.png)
 
 
-Bit Cat is dedicated to building the infrastructure of blockchain and developing tools. Right now it has successfully run multiple PoS nodes already, with adopting enterprise-grade infrastructure to make sure the service it provided safe and stable, Bit Cat has been entrusted with tens of millions of dollars asset. 
+Bit Cat is committed to building blockchain infrastructure and development tools, including wallet and block explorer. Bit Cat provides a public Staking service and has successfully run multiple PoS nodes, with tens of millions of dollars in asset delegation. The staking business adopts enterprise-level infrastructure and operation, maintenance managers with professional technical background to ensure the security and stability of the services provided.
 
 ## Team
-The core team members come from the top internet and blockchain companies, who have participated in the design and development of many well-known blockchain projects.
-
-Visit our website to read more information on our team.
+The core team members of Bit Cat come from top internet and blockchain companies, and have participated in the design and development of many well-known blockchain projects. The technology stacks of team members include Javascript, Dart, Golang and Java.
 
 ## Contact Us
 
@@ -23,5 +21,5 @@ Have questions? You can reach us:
 
 - Telegram: https://t.me/bitcat365
 - Twitter: @bitcat365
-- Email: bitcat365.com@gmail.com
+- Email: hi@bitcat365.com
 - Website: https://www.bitcat365.com

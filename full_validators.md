@@ -1,6 +1,7 @@
-| Moniker             |                                                                                       |                                                                                                           |
-| ------------------- | ------------------------------------------------------------------------------------- | -----------------------------------------------------------------
-| AuraStake               | [Profile](./validators/terravaloper1rjmzlljxwu2qh6g2sm9uldmtg0kj4qgyy9jx24) | [Station Page](https://station.terra.money/validator/terravaloper1rjmzlljxwu2qh6g2sm9uldmtg0kj4qgyy9jx24) |
+
+| Moniker                 |                                                                             |                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------|
+| AuraStake               | [Profile](./validators/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r) | [Station Page](https://station.terra.money/validator/terravaloper1ulwqct0df2xuuaqzcq4yax3msdqgew6ehhcl7r) |
 | WeStaking               | [Profile](./validators/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) | [Station Page](https://station.terra.money/validator/terravaloper1ptyzewnns2kn37ewtmv6ppsvhdnmeapvgk6d65) |
 | hashed                  | [Profile](./validators/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) | [Station Page](https://station.terra.money/validator/terravaloper1p54hc4yy2ajg67j645dn73w3378j6k05vmx9r9) |
 | Staker Space            | [Profile](./validators/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) | [Station Page](https://station.terra.money/validator/terravaloper1pc0gs3n6803x7jqe9m7etegmyx29xw38aaf3u7) |
@@ -63,6 +64,10 @@
 | MissionControl          | [Profile](./validators/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) | [Station Page](https://station.terra.money/validator/terravaloper1x4ce4fhqdnu8j7hrp64qmthumsvuhlq8y0kvx4) |
 | setten.io               | [Profile](./validators/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) | [Station Page](https://station.terra.money/validator/terravaloper1tdkh85vv7vsvav93elmx6qsywuu22amc60u3sa) |
 | Neptune Finance         | [Profile](./validators/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk) | [Station Page](https://station.terra.money/validator/terravaloper1jkg3wy5q9q6jlshjf2r6p9nf4flwtr6hp30rjk) |
-| 🚀 Lambda Core         | [Profile](./validators/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) | [Station Page](https://station.terra.money/validator/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) |
-| Luna Station 88        | [Profile](./validators/terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr) | [Station Page](https://station.terra.money/validator/terravaloper1j27nm2gjm0m4lsye8lspa46rax0rw4fge23nnr) |
-| StakeBin               | [Profile](./validators/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) | [Station Page](https://station.terra.money/validator/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) |
+| 🚀 Lambda Core          | [Profile](./validators/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) | [Station Page](https://station.terra.money/validator/terravaloper1mgdsc0get3w984h03a02zy6gmg3kgqtfqs3tky) |
+| Luna Station 88         | [Profile](./validators/terravaloper1ccwgk6gvgtm556gxe0v79p48nrgsey05w3fle4) | [Station Page](https://station.terra.money/validator/terravaloper1ccwgk6gvgtm556gxe0v79p48nrgsey05w3fle4) |
+| StakeBin                | [Profile](./validators/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) | [Station Page](https://station.terra.money/validator/terravaloper13n2fsvfvj28eqvkjejhqlxf3pch3muxkxudacc) |
+| Orbital Command         | [Profile](./validators/terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf) | [Station Page](https://station.terra.money/validator/terravaloper1lelhxdzwn9ddecv6sv0kcxj5tguurxnzcfs5wf) |
+| ❤️ LunaPunks.io ❤️      | [Profile](./validators/terravaloper150w5e8tjk20nfafjzfhyht0aes8a5qr7meh8lg) | [Station Page](https://station.terra.money/validator/terravaloper150w5e8tjk20nfafjzfhyht0aes8a5qr7meh8lg) |
+| 🇮🇹Lunc Community ITALIA🇮🇹 | [Profile](./validators/terravaloper1ef4hd8agtx8unaut0fc99zs9928qzm6txjcx40) | [Station Page](https://station.terra.money/validator/terravaloper1ef4hd8agtx8unaut0fc99zs9928qzm6txjcx40) |
+| ❤️ LUNC 🔥 AUS LOTTO 🥃   | [Profile](./validators/terravaloper1kewjknvtym2lesr4qdldqc36cfrt8s432zmvhh) | [Station Page](https://station.terra.money/validator/terravaloper1kewjknvtym2lesr4qdldqc36cfrt8s432zmvhh) |
