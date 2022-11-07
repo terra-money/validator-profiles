@@ -7,7 +7,7 @@ Twitter: @1_MAX_fee
 ---
 
 <p align="center">
-  <img src="orion-money.png" width="200" height="200">
+  <img src="logo.png" width="500" height="500">
 </p>
 
 # Orion.Money
