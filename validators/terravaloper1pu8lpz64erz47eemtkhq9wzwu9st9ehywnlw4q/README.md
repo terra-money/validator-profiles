@@ -10,7 +10,7 @@ Twitter: @1_MAX_fee
   <img src="logo.png" width="500" height="500">
 </p>
 
-# Orion.Money
+# 1% MAX fee & 100% UPTIME
 
 We are community centric validator that shares its full commission net revenue with our token stakers. To learn more please visit us at https://orion.money
 
