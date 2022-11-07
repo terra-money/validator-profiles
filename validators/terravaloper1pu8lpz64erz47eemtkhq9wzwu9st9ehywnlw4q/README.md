@@ -7,10 +7,12 @@ Twitter: @1_MAX_fee
 ---
 
 <p align="center">
-  <img src="logo.png" width="500" height="500">
+  <img src="logo.png" width="250" height="250">
 </p>
 
+<p align="center">
 # 1% MAX fee & 100% UPTIME
+</p>
 
 We are a stable validator with the most favorable conditions. Our commission is 1% maximum and 100% uptime. We work for you, and we prove it in practice! Our telegram chat with news: @MAX_fee1. Our live telegram chat: @MAX_fee1chat
 
