@@ -12,7 +12,7 @@ Twitter: @1_MAX_fee
 
 # 1% MAX fee & 100% UPTIME
 
-We are community centric validator that shares its full commission net revenue with our token stakers. To learn more please visit us at https://orion.money
+We are a stable validator with the most favorable conditions. Our commission is 1% maximum and 100% uptime. We work for you, and we prove it in practice! Our telegram chat with news: @MAX_fee1. Our live telegram chat: @MAX_fee1chat
 
 ## Our Architecture
 
