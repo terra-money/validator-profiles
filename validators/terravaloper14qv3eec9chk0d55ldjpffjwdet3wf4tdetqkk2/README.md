@@ -2,6 +2,7 @@
 Moniker: Oneiric Stake
 Validator: terravaloper14qv3eec9chk0d55ldjpffjwdet3wf4tdetqkk2
 Email: voipster3@gmail.com
+Twitter: https://twitter.com/cougarmasters
 ---
 
 # Oneiric Stake
