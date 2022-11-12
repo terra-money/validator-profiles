@@ -1,4 +1,4 @@
-<img src="img/luncspain.png" />
+<img src="img/banner_lcspain.png" />
 
 
 ---
