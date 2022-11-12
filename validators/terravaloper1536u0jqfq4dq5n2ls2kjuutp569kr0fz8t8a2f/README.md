@@ -6,5 +6,9 @@ Telegram: @WaveWays
 Website: https://luncspain-validator.net/
 ---
 
- (luncspain.png)
+<img src="img/luncspain.png" />
+ 
+ 
+ 
+
 
