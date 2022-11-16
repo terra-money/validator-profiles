@@ -1,27 +1,50 @@
 ---
 Moniker: Moon Platoon
 Validator: terravaloper1j4cc2p4f4t4m3z37gumr6cr64vm605aa4wmcyf
-Email: <info@moonplatoon.co>
-Discord: Shyradi#3810
+Email: info@moonplatoon.co
+Website: https://moonplatoon.co
+Twitter: @platoon_moon
+Telegram: @mplatoon
+Discord: https://discord.gg/THNykHraWv
 ---
 
+![MoonPlatoon](logo.png)
+
 # Moon Platoon
+### _**“Making sure your votes count while earning you sweet staking rewards”**_
 
-Moon Platoon is a community created after the Luna Classic exploit. We did not like that people who bought post de-peg couldn't vote on proposals or delegate. While we understood the reasoning behind this, we felt we didn't have a voice in the process. We decided to create Moon Platoon to make sure that in Luna 2.0 all Luna holders have a vote. We believe in putting the community first and doing our best to make informed decisions about proposals that will effect our delegators and the ecosystem as a whole. We hope that if you share the same values as us, that you will delegate to us so that we may vote for you, and earn you some sweet sweet staking rewards. We understand that you have choices when choosing validators, that's why we will always do right by the people who entrust us to serve their interests.
+Moon Platoon is a community validator created out of the dust of Luna Classic. We weren't pleased with how investors who bought post de-peg weren't allowed to vote. We want to make sure that all Luna holders have a voice going forward.
 
-# Team
+Our Goals:
+* To earn you the most rewards while maintaining high validator node integrity
+* To make sure our delegators and the larger Luna community are heard through governance
+* To focus solely on the Luna project and advancing the ecosystem
 
-| Name         | Role 
-| ------------ | --------------- |
-| Chad         | Creator         |
-| Ben          | DevOps/Security |
+We will also donate 1% of our earnings per year to either Angel Protocol, the community pool, or devs looking to get their projects off the ground.
+We believe that we can help our delegators earn more by advancing Luna and the ecosystem as a whole. Donating to these commmunities helps with that.
 
-## A secure, reliable, community driven validator that puts our delegators first.
+You can contact us anytime by joining our [Discord](https://discord.gg/THNykHraWv).
 
-We believe in advancing decentralization of Luna and blockchains as a whole. \
-We believe running a secure & reliable node is of utmost importance so that our delegators benefit \
+## Team
+| Name       | Role       |
+| ---------- | ---------- |
+| Chad       | Founder    |
+| Ben        | SysAdmin   |
 
+## Our Setup
+
+* Multiple American, European, and Asian Data Centers
+* Daily Backups - Onsite and Offsite
+* 24/7 Monitoring
+* Physical Security
+* Failover protocols in case of outage
+
+## Contact Us
+* Email: [info@moonplatoon.co](info@moonplatoon.co)
+* Twitter: [@platoon_moon](https://twitter.com/platoon_moon)
+* Telegram: [@mplatoon](https://t.me/mplatoon)
+* Discord: [https://discord.gg/THNykHraWv](https://discord.gg/THNykHraWv)
 
 ### Website
 
-https://www.moonplatoon.co
+* [https://moonplatoon.co](https://moonplatoon.co)

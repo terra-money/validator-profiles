@@ -1,9 +1,10 @@
 {
   "contact": {
-    "twitter": "https://twitter.com/platoon_moon",
-    "discord": "Shyradi#3810",
-    "website": "https://moonplatoon.co",
-    "email": "info@moonplatoon.co"
+    "email": "info@moonplatoon.co",
+    "twitter": "@platoon_moon",
+    "telegram": "@mplatoon",
+    "discord": "https://discord.gg/THNykHraWv",
+    "website": "https://moonplatoon.co"
   },
   "notifications": {
     "email": "info@moonplatoon.co"
