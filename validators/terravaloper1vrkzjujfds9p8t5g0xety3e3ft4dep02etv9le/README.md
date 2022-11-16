@@ -1,5 +1,5 @@
 ---
-Moniker: Reality Flux
+Moniker: NFTSwitch.xyz w/ Reality Flux
 Validator: terravaloper1vrkzjujfds9p8t5g0xety3e3ft4dep02etv9le
 Email: validator@realityflux.io
 ---
