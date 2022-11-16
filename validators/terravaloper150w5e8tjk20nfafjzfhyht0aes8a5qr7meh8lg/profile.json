@@ -6,7 +6,7 @@
     "keybase": "https://keybase.io/hippietechie",
     "discord": "https://discord.gg/2DDXFCyAwe"
   },
-  "notifications": { // notification settings
-      "email": "admin@lunapunks.io" // email to receive notifications
+  "notifications": {
+    "email": "admin@lunapunks.io"
   }
 }
