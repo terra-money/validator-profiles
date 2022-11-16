@@ -8,7 +8,7 @@ Email: validator@realityflux.io
 
 # NFTSwitch.xyz w/ Reality Flux
 
-We changed our name to be more recognizable and to better reflect our mission. We received an emergency allocation and built a dApp for the Terra ecosystem.  
+We changed our name to be more recognizable. We received an emergency allocation and built a dApp called NFT Switch for the Terra ecosystem. We do plan to expand across the cosmos and other ecosystems but our home base is Terra.
 
 We have over 7 years of experience in the blockchain industry. We have helped maintain validators in a few ecosystems including EOSIO chains and Cosmos-based chains. 
 
