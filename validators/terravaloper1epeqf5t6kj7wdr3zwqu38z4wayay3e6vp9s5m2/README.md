@@ -11,11 +11,11 @@ Website: https://moon-runners.net/
 </div>
 
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="right">
+  <a href="https://t.me/mrunners_val">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> 
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/mrunners_val">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
