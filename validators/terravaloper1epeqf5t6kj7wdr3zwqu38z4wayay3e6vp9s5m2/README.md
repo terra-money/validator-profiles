@@ -6,6 +6,6 @@ Telegram: @WaveWays
 Website: https://moon-runners.net/
 ---
 
-(banner_MR.png)
+<img src="banner_MR.png">
 
 
