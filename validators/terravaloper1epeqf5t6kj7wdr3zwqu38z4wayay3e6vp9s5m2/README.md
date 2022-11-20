@@ -10,7 +10,7 @@ Website: https://moon-runners.net/
 
 
 <div id="header" align="center">
-  <img src="banner_MR.png" width="100"/>
+  <img src="banner_MR.png" width="100%"/>
 </div>
 
 
