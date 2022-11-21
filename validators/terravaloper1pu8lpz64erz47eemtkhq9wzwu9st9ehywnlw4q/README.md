@@ -2,7 +2,7 @@
 Moniker: 1% MAX fee & 100% UPTIME
 Validator: terravaloper1pu8lpz64erz47eemtkhq9wzwu9st9ehywnlw4q
 Email: 1maxfee@gmail.com
-Telegram: @MAX_fee1 / @MAX_fee1chat
+Telegram: @MAX_fee1redirect
 Twitter: @max_fee_1
 ---
 
