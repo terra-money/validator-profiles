@@ -1,14 +1,11 @@
-<img src="https://github.com/Crypt0Genesis/validator-profiles/tree/master/validators/terravaloper1j73n84drqm6q5wttadr9meg6jcldlkd5rq0u5l/CryptoGenesis.png" />
-
 ---
 Moniker: Crypto🔗Genesis
 Validator: terravaloper1j73n84drqm6q5wttadr9meg6jcldlkd5rq0u5l
 Email: contact@cryptogenesis.info
-Telegram: @crypt0genesis
-Twitter: @Crypto0Genesis
+Website: https://www.cryptogenesis.info
 ---
 
-## Crypto🔗Genesis
+![Crypto🔗Genesis](CryptoGenesis.png) 
 BRINGING YOUR IDEAS TO LIFE! A COMPLETE END-TO-END BLOCKCHAIN AND MARKETING SOLUTIONS
 
 
@@ -29,26 +26,18 @@ We build future-ready custom products and solutions on decentralized Public, Pri
 
 ## Our Services
 
-- **BlockChain** BlockChain Deployment - BlockChain & Crypto Advisory - Smart Contracts - DeFi / DAAPs
-- **Marketing Solution** Content marketing - Influencer MArketing - Digital PR & Outreach - Social Media - Pay Per Click - SEO 
-- **Listing** CEX Listing - Coingecko Listing - Coinmarketcap Listing
-- **Validator** CryptoGenesisValidators, support a selected set of blockchain networks. Everybody can participate in maintaining networks without buying equipment through a secure and reliable service by delegating crypto assets to our validators nodes.
-
-
-**SOCIAL MEDIA**
-
-| --------------- | ------------------------------------ |
-| Website:        | https://www.cryptogenesis.info       |
-| Twitter:        | https://twitter.com/Crypto0Genesis   |
-| Telegram        | https://t.me/crypt0genesis           |
-| Medium:         | https://crypto-genesis.medium.com    |
-| Youtube:        | https://t.co/ztbRwK097X              |
-| --------------- | ------------------------------------ |
+- BlockChain Deployment: BlockChain & Crypto Advisory - Smart Contracts - DeFi / DAAPs
+- Content marketing: Influencer Marketing - Digital PR & Outreach - Social Media - Pay Per Click - SEO 
+- CEX Listing: Coingecko Listing - Coinmarketcap Listing
+- CryptoGenesis Validators: Support a selected set of blockchain networks. Everybody can participate in maintaining networks without buying equipment through a secure and reliable service by delegating crypto assets to our validators nodes.
 
 
 ## Contact Us
 
-If you have any further questions, please contact us at:
-- E-mail: contact@Cryptogenesis.info
-- Telegram: https://t.me/crypt0genesis 
-- Validator Nodes | https://cryptogenesis.info/validator-nodes-and-staking
+- Website:  https://www.cryptogenesis.info
+- Email:    contact@Cryptogenesis.info
+- Twitter:  https://twitter.com/Crypto0Genesis
+- Telegram: https://t.me/crypt0genesis
+- Medium:   https://crypto-genesis.medium.com
+- Youtube:  https://t.co/ztbRwK097X
+- Nodes:    https://cryptogenesis.info/active-nodes
