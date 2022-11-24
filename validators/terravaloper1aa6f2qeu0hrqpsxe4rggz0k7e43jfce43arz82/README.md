@@ -18,7 +18,7 @@ By reinstating Governance, Staking, and encoding the burn tax into the core prot
 
 For any request, we'll be happy to answer:
 
-- Email: validator@terra-rebels.net
+- Email: validator@terrarebels.net
 - Twitter: [@TerraRebels](https://twitter.com/TerraRebels)
 - Telegram: https://t.me/OfficialTerraRebels
 - Discord: https://discord.gg/terra-rebels
