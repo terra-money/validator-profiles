@@ -17,11 +17,11 @@ Our main infra is deployed in Thailand cloud base, daily backup and risk managem
 
 ## Ecosystem Contributions
 
-10% of backup fund when we have something happen in the future, Donation , community engaugement activies such as voting of proposal and others.
+10% of contingency fund, Donation, Misc.
 
 ## Contact Us
 
-The best way to have a quick answer is: Telgram: @HaoEver
+The best way to have a quick answer is: Telegram: @HaoEver
 
 ### Website
 
