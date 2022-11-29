@@ -72,3 +72,4 @@
 | 🇮🇹Lunc Community ITALIA🇮🇹  | [Profile](./validators/terravaloper1ef4hd8agtx8unaut0fc99zs9928qzm6txjcx40) | [Station Page](https://station.terra.money/validator/terravaloper1ef4hd8agtx8unaut0fc99zs9928qzm6txjcx40) |
 | ❤️ LUNC 🔥 AUS LOTTO 🥃        | [Profile](./validators/terravaloper1kewjknvtym2lesr4qdldqc36cfrt8s432zmvhh) | [Station Page](https://station.terra.money/validator/terravaloper1kewjknvtym2lesr4qdldqc36cfrt8s432zmvhh) |
 | NFTSwitch.xyz w/ Reality Flux  | [Profile](./validators/terravaloper1vrkzjujfds9p8t5g0xety3e3ft4dep02etv9le) | [Station Page](https://station.terra.money/validator/terravaloper1vrkzjujfds9p8t5g0xety3e3ft4dep02etv9le) |
+| 🤝‍ UCH LUNC 🇹🇭 🚀🌕  | [Profile](./validators/terravaloper17lmrun0fc2scd3jgc3yfvzs86dm4yj4c96q9x3) | [Station Page](https://station.terra.money/validator/terravaloper17lmrun0fc2scd3jgc3yfvzs86dm4yj4c96q9x3) |
