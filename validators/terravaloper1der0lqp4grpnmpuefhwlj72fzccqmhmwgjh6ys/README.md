@@ -4,8 +4,8 @@ Validator: terravaloper1der0lqp4grpnmpuefhwlj72fzccqmhmwgjh6ys
 Email: support@lunc-validator.com
 Twitter: https://twitter.com/Tluncvalidator
 ---
-
- ![lunc-validator](./lunc-validator.jpg)
+ 
+ ![lunc-validator_logo](lunc-validator.jpg)
 
 # lunc-validator
 
