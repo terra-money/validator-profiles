@@ -1,0 +1,12 @@
+{
+  "contact": {
+    "website": "https://diamondnodes.io",
+    "email": "hello@diamondnodes.io",
+    "twitter": "@_DiamondNodes",
+    "discord": "Diamond Nodes#3413",
+    "github": "DiamondNodes"
+  },
+   "notifications": {
+       "email": "hello@diamondnodes.io"
+  }
+}
