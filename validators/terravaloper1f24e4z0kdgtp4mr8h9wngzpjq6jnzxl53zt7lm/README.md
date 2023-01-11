@@ -37,4 +37,4 @@ thaivalidator2@gmail.com
 
 ### Website
 
-https://th-vaildators.com/
+https://th-validators.com/
