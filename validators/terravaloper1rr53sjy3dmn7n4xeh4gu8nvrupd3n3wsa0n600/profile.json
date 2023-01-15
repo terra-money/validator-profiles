@@ -2,4 +2,8 @@
   "contact": { 
     "telegram": "@Trader808", 
     "twitter": "@LUNC808" 
-  }} 
+  },
+    "notifications": {
+      "email": "info@lunc808.com"
+    }
+  }
