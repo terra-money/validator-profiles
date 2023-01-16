@@ -1,5 +1,10 @@
 { 
   "contact": { 
     "telegram": "@Trader808", 
-    "twitter": "@LUNC808" 
-  }} 
+    "twitter": "@LUNC808",
+    "email": "info@lunc808.com"
+  },
+    "notifications": {
+      "email": "info@lunc808.com"
+    }
+  }
