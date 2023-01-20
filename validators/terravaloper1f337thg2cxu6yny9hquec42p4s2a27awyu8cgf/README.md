@@ -4,6 +4,7 @@ Validator: terravaloper1f337thg2cxu6yny9hquec42p4s2a27awyu8cgf
 Email: contact@lunanauts.net
 Telegram: @Lunanauts
 Website: https://lunanauts.net/
+Twitter: @Lunanauts_Lunc
 ---
 
 ![lunanauts](./logo.png)
@@ -13,6 +14,8 @@ Lunanauts have a solid foundation of servers behind us in colaberation with a te
 using sentry node architecture and secure private networks all intertwined.
 
 This gives us a stong and robust erver node architecture keeping us online 100% giving our delegates  full uptime.
+
+We are big believers in decentralisation and will fight for a decentralised Luna CLassic blockchain accross all validators, spreading voting power equally. This is key to Luns future!
 
 We also BURN a percentage of our yield to the luncburner.wpp which utilises sending thousands of transactions per burn instead of one.
 This also helps fill up the oracle pool aswell as more tx fees!
