@@ -1,5 +1,5 @@
 ---
-Moniker: lunc-validator.com
+Moniker: LUNC-VALIDATOr ⚡️ High Availability Server +Auto-compound
 Validator: terravaloper1der0lqp4grpnmpuefhwlj72fzccqmhmwgjh6ys
 Email: support@lunc-validator.com
 Twitter: https://twitter.com/Tluncvalidator
