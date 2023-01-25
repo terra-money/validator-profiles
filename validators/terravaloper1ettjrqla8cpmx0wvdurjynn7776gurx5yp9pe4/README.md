@@ -2,6 +2,7 @@
 Moniker: RuneTerra
 Validator: terravaloper1ettjrqla8cpmx0wvdurjynn7776gurx5yp9pe4
 Email: rune@runeterra.info
+Telegram: @rune_terra
 ```
 
 # RuneTerra
@@ -33,4 +34,4 @@ And it is possible to monitor 24 hours a day using its own monitoring system, an
 Have questions? You can reach us:
 
 - Email: rune@runeterra.info
-
+- Telegram: @rune_terra
