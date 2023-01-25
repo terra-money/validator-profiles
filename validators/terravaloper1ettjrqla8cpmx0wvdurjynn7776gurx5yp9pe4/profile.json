@@ -1,9 +1,11 @@
 {
     "contact": {
-      "email": "rune@runeterra.info"
+      "email": "rune@runeterra.info",
+      "telegram": "@rune_terra"
     },
     "notifications": {
-      "email": "rune@runeterra.info"
+      "email": "rune@runeterra.info",
+       "telegram": "@rune_terra"
     }
   }
 
