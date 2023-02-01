@@ -1,6 +1,6 @@
 ---
 Moniker: Dexter Labs 💰
-Validator: terravaloper1zv8w79sskc0wdc7etll0andp9lvwjckarrqp7c
+Validator: terravaloper1d4p6vrzhppnlv2nxs6wz5agssm6558k808ykr8
 Email: dexter_labs8@proton.me
 Telegram: @dexter_labs
 Website: https://dexter.money/
