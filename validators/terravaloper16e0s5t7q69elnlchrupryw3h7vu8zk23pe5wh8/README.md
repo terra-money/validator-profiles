@@ -10,7 +10,7 @@ Discord: https://discord.gg/KTKc33PRev
 
 # StakeBin
 
-![StakeBin](./logo.png)
+![StakeBin](./logo.jpg)
 
 Safe and reliable validator on Terra. We run analytics dashboard for terra and ecosystem projects. We have been a validator on the terra network since March 2021 without a single slashing/jail event
 
