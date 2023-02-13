@@ -13,26 +13,26 @@ Validator: terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8
 # JESUSisLORD
 
 ![JESUSisLORD](./logo.jpg)
+  
+JESUSisLORD is an advanced non-custodial Luna Classic (LUNC) validator owned by Christopher Harris, a Bible believing Christian, powered by first-class staking provider Allnodes. Enjoy excellent 99.9% server uptimes, maximum 5% commission, minimum 95% rewards rate, high security and updates. 
 
-Safe and reliable validator on Terra. We run analytics dashboard for terra and ecosystem projects. We have been a validator on the terra network since March 2021 without a single slashing/jail event
 
-## Our Architecture
+## Validator Tecnical Information  
+  
+My validator is a non-custodial advanced plan with Allnodes, meaning Allnodes has never seen my operator seed phrase, which is kept securely with encryption. My validator is decentralised over up to 15 servers, has a shared standby server and is shielded by 2 Sentry Nodes, and has automatic updates. Enjoy the high security and peace of mind expected from the first-class and professional validator service provider Allnodes. 
+  
+After JESUSisLORD reaches 2% voting power my validator will be automatically upgraded to the enterprise plan with Allnodes, with 99.98% uptime, a dedicated standby server and shielded by 5 Sentry Nodes. Delegate with JESUSisLORD for top of the line technology, decentralisation, security and service.  
+   
 
-We use multiple containers and hardened images to safeguard the validator and other components
+## Validator Mission 
 
-## Ecosystem Contributions
+My mission for my validator JESUSisLORD is to fulfill the righteous Christian vision for LUNC, and to protect it. I will engage in governance to this end, and endeavour to communicate with my delegators. I invite all who share my cause to delegate with me. God bless you. Christopher. 
+  
 
-We plan to contribute towards terra ecosystem
+## Contact Me  
 
-- Terra and ecosystem analytics dashboard at https://terraclassic.stakebin.io
-- Minor contributions towards oracle-feeder
+Have questions? You can reach me:
 
-## Contact Us
-
-Have questions? You can reach us:
-
-- Telegram: https://t.me/StakeBin
-- Twitter: https://twitter.com/StakeBin
-- Email: contact@stakebin.io
-- Website: https://terraclassic.stakebin.io
-- Discord: https://discord.gg/KTKc33PRev
+- Email: JESUSisLORDvalidator@pm.me
+- Telegram: https://t.me/JESUSisLORDValidator
+- Twitter: https://twitter.com/ForTheCross_CH
