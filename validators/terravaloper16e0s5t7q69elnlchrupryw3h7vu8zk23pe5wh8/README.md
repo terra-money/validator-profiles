@@ -1,11 +1,12 @@
 ---
-Moniker: JESUSisLORD
-Validator: terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8
-Email: JESUSisLORDvalidator@pm.me
-Telegram: https://t.me/JESUSisLORDValidator
-Twitter: https://twitter.com/ForTheCross_CH
----  
+| Moniker | Validator |
+| --- | --- | 
+| JESUSisLORD | terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8 |
   
+| Email | Telegram | Twitter |
+| --- | --- | --- |
+| JESUSisLORDvalidator@pm.me | https://t.me/JESUSisLORDValidator | https://twitter.com/ForTheCross_CH |
+---  
 
 ---
 Moniker: JESUSisLORD
