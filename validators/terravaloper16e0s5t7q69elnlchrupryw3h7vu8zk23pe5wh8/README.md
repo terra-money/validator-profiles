@@ -1,11 +1,6 @@
 ---
-Moniker: StakeBin
-Validator: terravaloper19ne0aqltndwxl0n32zyuglp2z8mm3nu0gxpfaw
-Email: contact@stakebin.io
-Telegram: https://t.me/StakeBin
-Twitter: https://twitter.com/StakeBin
-Website: https://terraclassic.stakebin.io
-Discord: https://discord.gg/KTKc33PRev
+Moniker: JESUSisLORD
+Validator: terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8
 ---
 ---
 | Moniker | Validator |
