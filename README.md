@@ -90,6 +90,7 @@ _NOTE: Validators that have not yet put up a profile are hidden. Get the full li
 | Athens Project             | [Profile](./validators/terravaloper1dmkdw7q23acc72knqv9yu46pz2m363705cnt27/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1dmkdw7q23acc72knqv9yu46pz2m363705cnt27) |
 | Y                        | [Profile](./validators/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e/README.md) | [Station Page](https://station.terra.money/validator/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e) |
 | 0base.vc                 | [Profile](./validators/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36) |
+| JESUSisLORD              | [Profile](./validators/terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8/README.md) | [Station Page](https://station.terra.money/validator/terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8) |
 
 
 ## What is a Validator Profile?
