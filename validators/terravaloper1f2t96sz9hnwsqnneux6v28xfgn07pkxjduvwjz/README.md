@@ -1,15 +1,15 @@
 ---
-Moniker: BlockNgine.io
+Moniker: AutoStake
 Validator: terravaloper1f2t96sz9hnwsqnneux6v28xfgn07pkxjduvwjz
-Email: support@blockngine.io
-Telegram: https://t.me/BlockNgine
-Twitter: @NGINE
-Website: https://blockngine.io
+Email: support@autostake.net
+Telegram: https://telegram.me/AutoStake_net
+Twitter: https://twitter.com/AutoStake_
+Website: https://autostake.net
 ---
 
-# BlockNgine
+# AutoStake
 
-![blockngine](blockengine-full.png)
+![autostake](autostake-full.png)
 
 Low-fee premium validator with 100% money back slash protection; backed by enterprise-grade infrastructure distributed across multiple regions and hardware providers.
 
@@ -21,7 +21,7 @@ We run enterprise-grade infrastructure distributed across multiple regions and h
 
 Have questions? You can reach us:
 
-- Telegram: https://t.me/BlockNgine
-- Twitter: @NGINE
-- Email: support@blockngine.io
-- Website: https://blockngine.io
+- Telegram: https://telegram.me/AutoStake_net
+- Twitter: https://twitter.com/AutoStake_
+- Email: support@autostake.net
+- Website: https://autostake.net

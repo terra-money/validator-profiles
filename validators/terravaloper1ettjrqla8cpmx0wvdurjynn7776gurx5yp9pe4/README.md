@@ -1,24 +1,22 @@
 ```
-Moniker: ZerosumProtocol
+Moniker: RuneTerra
 Validator: terravaloper1ettjrqla8cpmx0wvdurjynn7776gurx5yp9pe4
-Email: rune@zerosumprotocol.io
-Telegram: @RuneTerraV
+Email: rune@runeterra.info
+Telegram: @rune_terra
 ```
 
-# ZerosumProtocol
-Join RuneTerra on the pioneering expedition of interchain casino-fi. Users delegating to RuneTerra will receive zerotoken airdrops after the launch of Zerosum protocol. We will validate on all networks casinos can operate.
+# RuneTerra
+RuneTerra is a newly rebranded validator, independent of the zerosumprotocol project. To challenge various networks in the cosmos ecosystem, we took the first step in Terra. We are planning to create a new brand page and a new function for the delegator soon.
 
 ## Team
 
-Our team is with the product development team, we have 5 team members as below.
+Our team is with the product development team, we have 3 team members as below.
 
 | Name            | Role    | 
 | --------------- | ------- | 
-| One             | Marketing     | 
 | Rune            | DevOps  | 
-| GambleHolic     | Core | 
-| Zero     | DevOps | 
-| Amgmrs     | PMO | 
+| Min             | Front   | 
+| Gyu             | Core-dev| 
 
 ## Our Architecture
 
@@ -27,19 +25,13 @@ And it is possible to monitor 24 hours a day using its own monitoring system, an
 
 ## Ecosystem Contributions
 
-We can offer great advantages to the Terra game and the Defi ecosystem.
+- Cosmos Ecosystem Bridge Warning System to be Developed
 
-- 9% Commission
-
+- ibc activity account tracking system to be developed
 
 ## Contact Us
 
 Have questions? You can reach us:
 
-- Email: rune@zerosumprotocol.io
-- Telegram: @RuneTerraV
-
-
-### Website
-
-https://zerosumprotocol.io/
+- Email: rune@runeterra.info
+- Telegram: @rune_terra

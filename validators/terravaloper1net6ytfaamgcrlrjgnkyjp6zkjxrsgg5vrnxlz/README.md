@@ -6,7 +6,7 @@ Discord: https://discord.com/invite/bq3TJdZdg8
 ---
 
 # TerRarity.io
-![terrarity_logo](terrarity_logo.png)
+![terrarity_logo](logo.png)
 
 TerRarity.io offers NFT and On-Chain analysis services through it's web application. Our validator node allow us to 
 fulfill our objective to always offer more to the community and make the data available. Our redistribution protocol makes

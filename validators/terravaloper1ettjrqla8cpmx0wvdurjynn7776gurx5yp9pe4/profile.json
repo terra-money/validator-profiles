@@ -1,11 +1,11 @@
 {
     "contact": {
-      "email": "rune@zerosumprotocol.io",
-      "telegram": "@RuneTerraV",
-      "twitter": "https://twitter.com/zerosumprotocol"
+      "email": "rune@runeterra.info",
+      "telegram": "@rune_terra"
     },
     "notifications": {
-      "email": "rune@zerosumprotocol.io"
+      "email": "rune@runeterra.info",
+       "telegram": "@rune_terra"
     }
   }
 

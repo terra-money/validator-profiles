@@ -5,50 +5,26 @@ Website: https://stakin.com
 Email: hello@stakin.com
 Telegram: @StakinOfficial
 Twitter: @StakinOfficial
+Discord: http://discord.stakin.com/
 ---
 
 # Stakin
 
 ![Stakin](https://i.ibb.co/HGcYpYN/Stakin-Banner.png)
 
-Stakin is an infrastructure operator for Proof-of-Stake (PoS) public blockchain, offering public delegation and staking-as-a-service. With our products, token holders can earn interests on their holdings and shape the future of the networks in which they believe.
+[Stakin](https://stakin.com) is a reliable and secure infrastructure operator for Proof-of-Stake blockchain networks. Our non-custodial Terra validator enables delegators to earn staking rewards, and take part in decentralized governance while remaining in full possession of their LUNA.
 
-At Stakin, the whole team is very optimist on the future of Proof-of-Stake (PoS) cryptocurrencies. We believe it can improve the distribution of wealth and leads us towards a better-decentralized future while being energy-efficient and thus sustainable.
+Our company serves institutional crypto players, foundations, custodians, exchanges as well as a large community of token holders. We have been providing staking services for more than 3 years, and now cover 30+ networks, with 25,000+ delegators and 0 slashing history.
 
-We've been validating on Terra Money since genesis and are a strong supporter of the Terra and Cosmos ecosystems. 
-
-We pride ourselves on supporting amazing communities and networks such as:
-
-- Terra Money (LUNA)
-- Cosmos Network (ATOM)
-- Irisnet (IRIS)
-- Kava Labs (KAVA)
-- E-Money (NGM)
-- Persistence (XPRT)
-- Regen Network (REGEN)
-- Tezos (XTZ)
-- Icon (ICX)
-- Solana (SOL)
-- Near (NEAR)
-- Kusama (KSM)
-- Polkadot (DOT)
-- Skale (SKL)
-- Polygon (MATIC)
-
-## Team
-
-| Name              | Role                 | Twitter                                           |
-| ----------------- | -------------------- | ------------------------------------------------- |
-| Edouard Lavidalle | Co-Founder           | [@EdouardL](https://twitter.com/EdouardL)         |
-| Tiago Machado     | Co-Founder           | [@Tyootiago](https://twitter.com/tyootiago)       |
-| Ian Enanoria      | Community Manager    | [@Iamdeadlyz](https://twitter.com/Iamdeadlyz)     |
-| Gisele Schout     | Content Marketer     | [@GiseleSchout](https://twitter.com/GiseleSchout) |
-| Fábio Maricato    | Product/UX-UI        | [@Maricato](https://twitter.com/maricato)         |
-| Abhishek Sharma   | Blockchain Developer | [@CryptosAbhi](https://twitter.com/cryptosabhi/)  |
+We've been validating on Terra Classic since genesis (April 2019) and are a strong supporter of the Terra and Cosmos ecosystems. Our validator and oracle infrastructure on Terra Classic have never experienced any prolonged downtime or slashing. Our commitment to the ecosystem goes beyond running reliable and secure infrastructure. Stakin is an active governance participant and votes on all key proposals, and our marketing team organizes events and publishes content and guides to help you navigate Terra.
 
 ## Our Architecture
 
-We understand the importance of providing a highly available architecture with 24/7 uptime and monitoring. Leveraging on our experience on other Proof-of-Stake networks, we run multiple nodes in a sentry architecture using multiple cloud providers such as AWS and Digital Ocean, and tools such as Grafana for constant monitoring and alerting.
+We understand the importance of providing a highly available architecture with 24/7 uptime and monitoring. Our architecture has been designed based on 3+ years of experience validating on Terra Classic. In addition to that, we maintain infrastructure on Terra testnet which enables our company to testnet new updates, improve the reliability of the production set-up, and contribute to the development of future Terra software. We run multiple nodes in a sentry architecture using multiple leading cloud providers such as GCP, AWS and Digital Ocean and with nodes set in different geographies. For monitoring, we have our own built-in systems using Prometheus and Grafana, which enables us to monitor events at both the server and blockchain levels.
+
+## Our Team
+
+Stakin is a professional infrastructure network provider based in Tallinn, Estonia. Our team comprises 15+ people who share a similar passion for blockchain, network infrastructure and cybersecurity.
 
 ## Contact Us
 
@@ -56,9 +32,10 @@ We would ❤️ to hear from you
 
 - Email: hello@stakin.com
 - Telegram: https://t.me/stakinofficial
+- Discord: http://discord.stakin.com/
 - Twitter: https://twitter.com/StakinOfficial
 - Website: https://stakin.com/
 
 #### _Disclaimer and Limitation of Liability_
 
-_Staking and cryptocurrencies investment involves a high degree of risk and there is always the possibility of loss, including the loss of all staked digital assets. Additionally, delegators are at risk of slashing in case of security or liveness faults on some PoS protocols. We advise you to do your own due diligence before choosing a validator._
+_Staking and cryptocurrencies investment involves a high degree of risk and there is always the possibility of loss, including the loss of all staked digital assets. Additionally, delegators are at risk of slashing in case of security or liveness faults on some PoS protocols. We advise you to do your own due diligence before choosing a validator. Get to know more about our terms at https://stakin.com/terms_
