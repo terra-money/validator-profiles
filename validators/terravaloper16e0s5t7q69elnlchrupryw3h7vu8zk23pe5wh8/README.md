@@ -17,7 +17,7 @@ Validator: terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8
 JESUSisLORD is an advanced non-custodial Luna Classic (LUNC) validator owned by Christopher Harris, a Bible believing Christian, powered by first-class staking provider Allnodes. Enjoy excellent 99.9% server uptimes, maximum 5% commission, minimum 95% rewards rate, high security and updates. 
 
 
-## Validator Tecnical Information  
+## Validator Technical Information  
   
 My validator is a non-custodial advanced plan with Allnodes, meaning Allnodes has never seen my operator seed phrase, which is kept securely with encryption. My validator is decentralised over up to 15 servers, has a shared standby server and is shielded by 2 Sentry Nodes, and has automatic updates. Enjoy the high security and peace of mind expected from the first-class and professional validator service provider Allnodes. 
   
