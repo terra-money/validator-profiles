@@ -1,0 +1,9 @@
+{
+    "contact": { // contact info for delegators / outreach
+        "email": "support@gridtek.com",
+        "telegram": "https://t.me/gridtek"
+    },
+    "notifications": { // notification settings
+        "email": "support@gridtek.com" // email to receive notifications
+    }
+}
