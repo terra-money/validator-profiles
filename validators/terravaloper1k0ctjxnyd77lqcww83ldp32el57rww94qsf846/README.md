@@ -13,11 +13,9 @@ Website: https://www.gridtek.com
 </p>
 
 # <moniker> 
-Gridtek is focused on simplifying the Crypto Market so that we speak one language.
 
 ## About us
-
-All of Crypto at your fingertips! Gridtek is a global listing of crypto projects and NFTs. Our platform has a search function that allows you to get the information you want, fast!  Here you can access live and up to date information on projects that are important to you.
+Gridtek is focused on simplifying the Crypto Market so that we speak one language. 
 
 ## Contact Us
 
