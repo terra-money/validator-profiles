@@ -5,9 +5,7 @@ Email: grush9000@gmail.com
 
 ---
 
-<br>
-
-<img src="logo.jpg" width="300">
+![goldenrushlogo](logo.png)
 
 
 
