@@ -1,5 +1,5 @@
 ---
-Moniker: goldenrush
+Moniker: 🟢💰GoldenRush❤️‍🔥🚀 0% Fee
 Validator: terravaloper1lfqrnd54e2uw6jrw99urd4lk4wege7sk8yrgrm
 Email: grush9000@gmail.com
 
