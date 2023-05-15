@@ -1,0 +1,11 @@
+{
+  "contact": {
+    "web" : "https://www.garudanodes.com",
+    "email": "garudanodes@gmail.com",
+    "telegram": "https://t.me/GNValidator",
+    "discord" : "https://discord.gg/GkzYphZrFp",
+    "twitter" : "https://twitter.com/GarudaNodes" 
+  },
+  "notifications": { 
+        "email": "garudanodes@gmail.com"     }
+}
