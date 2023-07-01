@@ -2,7 +2,7 @@
 Moniker: Allnodes
 Validator: terravaloper120ppepaj2lh5vreadx42wnjjznh55vvktp78wk
 Email: support@allnodes.com
-Telegram: @Allnodes
+Telegram: https://t.me/allnodes
 Website: https://www.allnodes.com/luna/staking
 ---
 
