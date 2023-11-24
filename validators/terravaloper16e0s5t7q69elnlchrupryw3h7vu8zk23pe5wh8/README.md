@@ -13,9 +13,8 @@ Validator: terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8
 # JESUSisLORD
 
 ![JESUSisLORD](./logo.jpg)
-  
-JESUSisLORD is an enterprise non-custodial Luna Classic (LUNC) validator owned by Christopher Harris, a Bible believing Christian, powered by first-class staking provider Allnodes. Enjoy excellent 99.98% server uptimes, maximum 5% commission, minimum 95% rewards rate, high security and updates.  
-
+    
+JESUSisLORD is an enterprise-level non-custodial Luna Classic (LUNC) Validator owned by Christopher Harris, a Bible believing Christian, powered by first-class staking provider Allnodes. Enjoy excellent 99.98% uptimes, high security and decentralisation, and easy auto-compounding via the Allnodes portfolio page.
 
 ## Validator Technical Information  
   
