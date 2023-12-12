@@ -1,5 +1,5 @@
 ---
-Moniker: Ninja Node🥷🏼⚡(0% fee) | LUNCninja.com
+Moniker: Ninja Node (0% fee) | LUNCninja.com
 Validator: terravaloper1xapwn8pnqu4l2v3wmpslq2zxr5v5jwjks20dhu
 Email: info@LUNCninja.com
 Telegram: @LUNCninja
