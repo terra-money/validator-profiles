@@ -24,7 +24,6 @@ certainly always be new paradigms.
 Should you have any questions, comments or concerns, you can always reach 
 us at:
 
-- Discord: https://discord.gg/CqwEwHMu
 - Twitter: [@gp4719](https://twitter.com/gp4719)
 - Email:   4719gp@gmail.com
 - Website: https://twitter.com/gp4719
