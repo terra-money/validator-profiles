@@ -1,13 +1,12 @@
 ---
-Moniker: Gidorah
+Moniker: 4719
 Validator: terravaloper13qjxhnw98lm36rxc9yjakkmulhpv7zctdhcl03
-Email: validator@gidorah.xyz
-Discord: https://discord.gg/CqwEwHMu
-Twitter: @0xgidorah
-Website: https://www.gidorah.xyz
+Email: 4719gp@gmail.com
+Twitter: @gp4719
+Website: https://twitter.com/gp4719
 ---
 
-![Gidorah](Gidorah_hand.png)
+![4719](galactic_punk_#4719.png)
 
 Web3 Syndicate and Infrastructure
 Web3 projects are being built and driven by a devoted community of 
@@ -25,8 +24,7 @@ certainly always be new paradigms.
 Should you have any questions, comments or concerns, you can always reach 
 us at:
 
-- Discord: https://discord.gg/CqwEwHMu
-- Twitter: [@0xgidorah](https://twitter.com/0xgidorah)
-- Email: validator@gidorah.xyz
-- Website: https://www.gidorah.xyz/
+- Twitter: [@gp4719](https://twitter.com/gp4719)
+- Email:   4719gp@gmail.com
+- Website: https://twitter.com/gp4719
 
