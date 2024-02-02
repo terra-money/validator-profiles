@@ -1,5 +1,5 @@
 ---
-Moniker: JESUSisLORD
+Moniker: JESUSisLORD 2
 Validator: terravaloper10adzm06jk29w6cq0ytmg96xmfwpl4x6xun29uz
 ---
 ---
@@ -10,9 +10,9 @@ Validator: terravaloper10adzm06jk29w6cq0ytmg96xmfwpl4x6xun29uz
 
   
 
-# JESUSisLORD
+# JESUSisLORD 2
 
-![JESUSisLORD](./logo.jpg)
+![JESUSisLORD 2](./logo.jpg)
    
 JESUSisLORD 2 is the second Luna Classic (LUNC) validator owned by Christopher Harris, a Bible believing Christian. Enjoy lower commission rates, high up-times, and the security of a non-custodial validator. See my website for my Validator Roadmap. God bless you. 
     
