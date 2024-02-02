@@ -91,6 +91,7 @@ _NOTE: Validators that have not yet put up a profile are hidden. Get the full li
 | Y                        | [Profile](./validators/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e/README.md) | [Station Page](https://station.terra.money/validator/terravaloper18pmvpy25zc7x0u8ppefuyyl2zaafe2wut0nm5e) |
 | 0base.vc                 | [Profile](./validators/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1plxp55happ379eevsnk2xeuwzsrldsmqduyu36) |
 | JESUSisLORD              | [Profile](./validators/terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8/README.md) | [Station Page](https://station.terra.money/validator/terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8) |
+| JESUSisLORD 2            | [Profile](./validators/terravaloper10adzm06jk29w6cq0ytmg96xmfwpl4x6xun29uz/README.md) | [Station Page](https://station.terra.money/validator/terravaloper10adzm06jk29w6cq0ytmg96xmfwpl4x6xun29uz) |
 
 
 ## What is a Validator Profile?
