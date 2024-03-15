@@ -6,8 +6,5 @@ Telegram: https://t.me/BattleForceValidator
 Twitter: https://twitter.com/BattleForceLunc
 ---
 
-<p align="center">
-  <img src="logo.png" width="500" height="500">
-</p>
-
+![battle-force](./logo.png)
 ## Independent Validators, United Mission: Join our community-driven validator and play a vital role in keeping the blockchain decentralized. Stake with us to contribute to a network where diversity and independence thrive.
