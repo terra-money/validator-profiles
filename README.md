@@ -44,8 +44,7 @@ _NOTE: Validators that have not yet put up a profile are hidden. Get the full li
 | Heavy Metal Finland      | [Profile](./validators/terravaloper1xetqge5kmatfk6223hcfgf8z3tnukmjhrewxru/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1xetqge5kmatfk6223hcfgf8z3tnukmjhrewxru) |
 | Hermes Protocol          | [Profile](./validators/terravaloper1g6pwngzfj73wnxm7y5gae0thylphugumc96gh3/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1g6pwngzfj73wnxm7y5gae0thylphugumc96gh3) |
 | HuobiPool                | [Profile](./validators/terravaloper12kfeqrflptmlz5qj8agrm2ze6dzss3crm7uevf/README.md) | [Station Page](https://station.terra.money/validator/terravaloper12kfeqrflptmlz5qj8agrm2ze6dzss3crm7uevf) |
-| InfStones                | [Profile](./validators/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy/README.md) | [Station Page]
-(https://station.terra.money/validator/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy) |
+| InfStones                | [Profile](./validators/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1u3gcqh4xqcdfkcu82nrk9u75x8vtvcz7xafgpy) |
 | Inotel                   | [Profile](./validators/terravaloper1vqegsqhe8q06t6jwgvww0qcr2u6v6g9xrwjnmw/README.md) | [Station Page](https://station.terra.money/validator/terravaloper1vqegsqhe8q06t6jwgvww0qcr2u6v6g9xrwjnmw) |
 | JESUSisLORD              | [Profile](./validators/terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8/README.md) | [Station Page](https://station.terra.money/validator/terravaloper16e0s5t7q69elnlchrupryw3h7vu8zk23pe5wh8) |
 | JESUSisLORD 2            | [Profile](./validators/terravaloper10adzm06jk29w6cq0ytmg96xmfwpl4x6xun29uz/README.md) | [Station Page](https://station.terra.money/validator/terravaloper10adzm06jk29w6cq0ytmg96xmfwpl4x6xun29uz) |
